@@ -31,11 +31,11 @@ def fetch():
     soup = BeautifulSoup(res.text, "html.parser")
 
     # TODO: 실제 카드 컨테이너 셀렉터로 교체 필요
-    cards = soup.select("a.project-list-item, div.project-card")
+    cards = soup.select("div.project-info-box")
 
     for card in cards:
         try:
-            title_el = card.select_one(".title, .project-title")
+            title_el = card.select_one(".subtitle-1-half-medium mb10")
             link_el = card if card.name == "a" else card.select_one("a")
             budget_el = card.select_one(".budget, .price")
 
