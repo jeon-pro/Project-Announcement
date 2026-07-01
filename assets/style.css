@@ -1,0 +1,139 @@
+:root {
+  --bg: #0f1115;
+  --card: #1b1e26;
+  --text: #eef0f3;
+  --muted: #9aa1ad;
+  --accent: #6c8cff;
+  --border: #2a2e3a;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.topbar {
+  padding: 32px 24px 16px;
+  text-align: center;
+}
+
+.topbar h1 {
+  margin: 0 0 6px;
+  font-size: 1.6rem;
+}
+
+.updated {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.controls {
+  max-width: 900px;
+  margin: 0 auto 16px;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#search {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.filter-chip {
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.85rem;
+  user-select: none;
+}
+
+.filter-chip.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.grid {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 8px 16px 60px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--text);
+  transition: transform 0.12s ease, border-color 0.12s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+.card .source {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.card .title {
+  font-size: 1.02rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.card .meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+  display: flex;
+  justify-content: space-between;
+}
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+  margin: 60px 0;
+}
+
+.hidden { display: none; }
+
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.78rem;
+  padding: 20px 24px 40px;
+  max-width: 700px;
+  margin: 0 auto;
+}

@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-06-30T00:00:00+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "위시켓",
+      "title": "(샘플) React 기반 사내 관리자페이지 개발",
+      "url": "https://www.wishket.com/",
+      "budget": "500~800만원",
+      "posted_at": "2026-06-28",
+      "tags": ["React", "관리자페이지"]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "(샘플) 쇼핑몰 결제 모듈 연동",
+      "url": "https://kmong.com/",
+      "budget": "300만원",
+      "posted_at": "2026-06-27",
+      "tags": ["쇼핑몰", "결제연동"]
+    },
+    {
+      "source": "원티드긱스",
+      "title": "(샘플) 사내 데이터 대시보드 구축",
+      "url": "https://www.wanted.co.kr/",
+      "budget": "협의",
+      "posted_at": "2026-06-26",
+      "tags": ["데이터", "대시보드"]
+    },
+    {
+      "source": "나라장터",
+      "title": "(샘플) [OO공사] 정보시스템 유지보수 용역",
+      "url": "https://www.g2b.go.kr/",
+      "budget": "",
+      "posted_at": "2026-06-25",
+      "tags": ["공공입찰"]
+    }
+  ]
+}

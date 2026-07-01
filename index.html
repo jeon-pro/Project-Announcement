@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>외주 프로젝트 모아보기</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>외주 프로젝트 모아보기</h1>
+    <p id="updated-at" class="updated">데이터 불러오는 중...</p>
+  </header>
+
+  <div class="controls">
+    <input id="search" type="text" placeholder="키워드 검색 (예: React, 쇼핑몰, 데이터)" />
+    <div class="filters" id="source-filters"></div>
+  </div>
+
+  <main id="list" class="grid">
+    <!-- 카드들이 JS로 채워짐 -->
+  </main>
+
+  <p id="empty" class="empty hidden">불러올 데이터가 없습니다. data/projects.json을 확인하세요.</p>
+
+  <footer>
+    <p>이 페이지는 위시켓 / 크몽엔터프라이즈 / 원티드긱스 / 나라장터에서 수집한 공고를 모아 보여줍니다.
+       각 사이트의 이용약관을 준수하는 범위에서 사용하세요.</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
