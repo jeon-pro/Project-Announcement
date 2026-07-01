@@ -27,7 +27,7 @@ def fetch():
     soup = BeautifulSoup(res.text, "html.parser")
 
     # TODO: 실제 카드 컨테이너 셀렉터로 교체 필요
-    cards = soup.select("a.project-card, li.project-item")
+    cards = soup.select("li.css-x6apz0 e1wbh2vn0")
 
     for card in cards:
         try:
