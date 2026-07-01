@@ -1,67 +1,161 @@
 """
-원티드긱스(wanted.co.kr/gigs 또는 별도 도메인) 프로젝트 의뢰 목록 크롤러.
+원티드긱스(wanted.co.kr/gigs) 프로젝트 의뢰 목록 크롤러.
 
-주의:
-- 원티드긱스는 SPA(React 등) 기반으로 동작할 가능성이 높아 단순 requests로는
-  빈 페이지만 받아질 수 있다. 이 경우 내부 API(JSON)를 호출하거나
-  Playwright/Selenium 같은 헤드리스 브라우저 사용을 고려해야 한다.
-- 아래는 1차로 정적 파싱을 시도하고, 실패 시 사용할 수 있는 골격만 제공한다.
+공식 JSON API를 직접 호출하는 방식으로 구현.
+페이지네이션을 자동으로 처리해 전체 공고를 수집한다.
+
+API 응답 주요 필드:
+  id            - 공고 ID (상세 URL 조합에 사용)
+  title         - 공고 제목
+  salary        - {salary_type, start, end}  단위: 만원
+  text_salary_type - "월급" / "프로젝트 전체" 등
+  text_term_type   - "개월" / "주" 등
+  term          - {start, end}  기간
+  work_place_txt   - "상주" / "원격" / "원격/상주"
+  skills        - 스킬 콤마 문자열
+  startAt       - 시작 예정일 (YYYY-MM-DD)
+  jobs          - 직군 문자열
 """
 
+import time
 import requests
-from bs4 import BeautifulSoup
-
 from common import HEADERS
 
-LIST_URL = "https://www.wanted.co.kr/gigs"
+BASE_API = "https://www.wanted.co.kr/gigs/api-v2/projects"
+DETAIL_BASE = "https://www.wanted.co.kr/gigs/projects"
+
+PARAMS = {
+    "work_type_office": "true",
+    "work_type_remote": "true",
+    "sort": "createdAt",
+    "is_recruiting": "true",
+}
+
+MAX_PAGES = 5  # 한 번에 최대 수집할 페이지 수 (전체는 count.pages로 확인)
+
+
+def _format_budget(item):
+    """salary 필드를 '300~500만원/월' 형식 문자열로 변환."""
+    salary = item.get("salary") or {}
+    s = salary.get("start")
+    e = salary.get("end")
+    salary_type = item.get("text_salary_type", "")
+
+    if s and e:
+        budget = f"{s}~{e}만원"
+    elif s:
+        budget = f"{s}만원~"
+    else:
+        return ""
+
+    if salary_type:
+        budget += f" / {salary_type}"
+    return budget
+
+
+def _format_term(item):
+    """기간을 '6개월', '4주' 같은 문자열로 변환."""
+    term = item.get("term") or {}
+    start = term.get("start")
+    unit = item.get("text_term_type", "")
+    if start and unit:
+        return f"{start}{unit}"
+    return ""
+
+
+def _parse_tags(item):
+    """skills 문자열과 직군 정보를 합쳐 태그 목록 반환."""
+    skills_raw = item.get("skills", "") or ""
+    tags = [s.strip() for s in skills_raw.split(",") if s.strip()]
+
+    # 직군(jobs) 정보를 jobsV2에서 가져오기
+    for job in item.get("jobsV2") or []:
+        cat = job.get("jobCategoryTitle", "")
+        if cat and cat not in tags:
+            tags.append(cat)
+
+    return tags[:8]  # 최대 8개만
 
 
 def fetch():
     items = []
-    try:
-        res = requests.get(LIST_URL, headers=HEADERS, timeout=15)
-        res.raise_for_status()
-    except Exception as e:
-        print(f"[wanted_gigs] fetch failed: {e}")
-        return items
+    page = 1
 
-    soup = BeautifulSoup(res.text, "html.parser")
-
-    # TODO: SPA라면 아래 셀렉터로는 비어 있을 수 있음.
-    # 그 경우 브라우저 Network 탭에서 호출되는 JSON API 엔드포인트를 찾아
-    # requests.get(api_url, headers=HEADERS).json() 형태로 교체할 것.
-    cards = soup.select("a.gig-card, li.gig-item")
-
-    for card in cards:
+    while page <= MAX_PAGES:
+        params = {**PARAMS, "page": page}
         try:
-            title_el = card.select_one(".title")
-            budget_el = card.select_one(".budget, .price")
+            res = requests.get(
+                BASE_API,
+                params=params,
+                headers={
+                    **HEADERS,
+                    "Referer": "https://www.wanted.co.kr/gigs",
+                    "Accept": "application/json",
+                },
+                timeout=15,
+            )
+            res.raise_for_status()
+            data = res.json()
+        except Exception as e:
+            print(f"[wanted_gigs] page {page} fetch failed: {e}")
+            break
 
-            href = card.get("href", "")
-            if not title_el or not href:
+        if data.get("status") != "success":
+            print(f"[wanted_gigs] API returned non-success: {data.get('status')}")
+            break
+
+        rows = data.get("rows") or []
+        if not rows:
+            break
+
+        for row in rows:
+            try:
+                pid = row.get("id")
+                title = (row.get("title") or "").strip()
+                work_place = row.get("work_place_txt", "")
+                term = _format_term(row)
+                budget = _format_budget(row)
+                tags = _parse_tags(row)
+                start_at = row.get("startAt", "") or ""
+
+                # 제목 앞에 근무형태 표시 (원래 titleDisplay에도 포함되어 있으나
+                # 여기서는 깔끔하게 직접 조합)
+                display_title = f"[{work_place}] {title}" if work_place else title
+                if term:
+                    display_title += f" ({term})"
+
+                url = f"{DETAIL_BASE}/{pid}" if pid else "https://www.wanted.co.kr/gigs"
+
+                items.append(
+                    {
+                        "source": "원티드긱스",
+                        "title": display_title,
+                        "url": url,
+                        "budget": budget,
+                        "posted_at": start_at,
+                        "tags": tags,
+                    }
+                )
+            except Exception as e:
+                print(f"[wanted_gigs] parse error on item: {e}")
                 continue
 
-            url = href if href.startswith("http") else f"https://www.wanted.co.kr{href}"
+        # 마지막 페이지 확인
+        count_info = data.get("count") or {}
+        total_pages = count_info.get("pages", 1)
+        print(f"[wanted_gigs] page {page}/{total_pages} → {len(rows)}건")
 
-            items.append(
-                {
-                    "source": "원티드긱스",
-                    "title": title_el.get_text(strip=True),
-                    "url": url,
-                    "budget": budget_el.get_text(strip=True) if budget_el else "",
-                    "posted_at": "",
-                    "tags": [],
-                }
-            )
-        except Exception as e:
-            print(f"[wanted_gigs] parse error: {e}")
-            continue
+        if page >= total_pages:
+            break
+
+        page += 1
+        time.sleep(0.5)  # 과도한 요청 방지
 
     return items
 
 
 if __name__ == "__main__":
     result = fetch()
-    print(f"[wanted_gigs] {len(result)} items")
+    print(f"\n[wanted_gigs] 총 {len(result)}건 수집")
     for r in result[:5]:
         print(r)
