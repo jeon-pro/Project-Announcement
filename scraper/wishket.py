@@ -1,60 +1,84 @@
 """
 위시켓(wishket.com) 프로젝트 의뢰 목록 크롤러.
 
-주의:
-- 위시켓은 목록을 JS로 렌더링하거나 내부 API를 호출할 수 있어, 실제 운영 전
-  브라우저 개발자도구(Network 탭)로 실데이터를 호출하는 API 엔드포인트가
-  있는지 먼저 확인하는 것을 권장한다. 있다면 requests로 그 API를 직접
-  호출하는 편이 훨씬 안정적이다.
-- 아래는 정적 HTML 파싱 기준의 예시 구현이며, 실제 클래스명/구조는
-  사이트 개편에 따라 달라질 수 있으므로 셀렉터(CSS selector)를
-  현재 사이트 구조에 맞게 점검/수정해야 한다.
+HTML 파일 분석 결과 확인된 실제 셀렉터 기준으로 구현.
+위시켓은 서버사이드 렌더링(SSR) 방식이라 requests로 직접 파싱 가능.
+
+카드 구조:
+  div.project-info-box          ← 공고 1건
+    a.project-link              ← 링크 + href
+      p.subtitle-1-half-medium  ← 공고 제목
+    p.budget
+      span.body-1-medium        ← 예산 (예: "협의 후 결정", "4,000,000원")
+    p.start-recruitment-data    ← "· 등록일자 2026.07.01."
+    span.skill-chip             ← 스킬 (여러 개)
+    div.project-type-mark       ← "외주" or "기간제"
 """
 
+import re
+import time
 import requests
 from bs4 import BeautifulSoup
 
 from common import HEADERS
 
-LIST_URL = "https://www.wishket.com/project/"
+BASE_URL = "https://www.wishket.com/project/"
+MAX_PAGES = 5  # 최대 수집 페이지 수
 
 
-def fetch():
+def _parse_date(raw: str) -> str:
+    """'· 등록일자 2026.07.01.' → '2026-07-01'"""
+    m = re.search(r"(\d{4})\.(\d{2})\.(\d{2})", raw)
+    if m:
+        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+    return ""
+
+
+def _parse_cards(soup) -> list:
     items = []
-    try:
-        res = requests.get(LIST_URL, headers=HEADERS, timeout=15)
-        res.raise_for_status()
-    except Exception as e:
-        print(f"[wishket] fetch failed: {e}")
-        return items
-
-    soup = BeautifulSoup(res.text, "html.parser")
-
-    # TODO: 실제 카드 컨테이너 셀렉터로 교체 필요
     cards = soup.select("div.project-info-box")
 
     for card in cards:
         try:
-            title_el = card.select_one(".subtitle-1-half-medium mb10")
-            link_el = card if card.name == "a" else card.select_one("a")
-            budget_el = card.select_one(".budget, .price")
-
-            if not title_el or not link_el:
+            # 제목 + URL
+            link_tag = card.select_one("a.project-link")
+            if not link_tag:
+                continue
+            title_tag = link_tag.select_one("p")
+            if not title_tag:
                 continue
 
-            href = link_el.get("href", "")
+            title = title_tag.get_text(strip=True)
+            href = link_tag.get("href", "")
             url = href if href.startswith("http") else f"https://www.wishket.com{href}"
 
-            items.append(
-                {
-                    "source": "위시켓",
-                    "title": title_el.get_text(strip=True),
-                    "url": url,
-                    "budget": budget_el.get_text(strip=True) if budget_el else "",
-                    "posted_at": "",
-                    "tags": [],
-                }
-            )
+            # 예산
+            budget_el = card.select_one("p.budget span.body-1-medium")
+            budget = budget_el.get_text(strip=True) if budget_el else ""
+
+            # 등록일
+            date_el = card.select_one("p.start-recruitment-data")
+            posted_at = _parse_date(date_el.get_text()) if date_el else ""
+
+            # 스킬
+            skill_els = card.select("span.skill-chip")
+            tags = [s.get_text(strip=True) for s in skill_els if s.get_text(strip=True)]
+
+            # 프로젝트 유형 (외주 / 기간제)
+            type_el = card.select_one("div.project-type-mark")
+            if type_el:
+                type_text = type_el.get_text(strip=True)
+                if type_text and type_text not in tags:
+                    tags.insert(0, type_text)
+
+            items.append({
+                "source": "위시켓",
+                "title": title,
+                "url": url,
+                "budget": budget,
+                "posted_at": posted_at,
+                "tags": tags[:8],
+            })
         except Exception as e:
             print(f"[wishket] parse error: {e}")
             continue
@@ -62,8 +86,43 @@ def fetch():
     return items
 
 
+def fetch():
+    all_items = []
+
+    for page in range(1, MAX_PAGES + 1):
+        params = {"page": page}
+        try:
+            res = requests.get(
+                BASE_URL,
+                params=params,
+                headers={
+                    **HEADERS,
+                    "Referer": "https://www.wishket.com/",
+                    "Accept": "text/html,application/xhtml+xml",
+                },
+                timeout=15,
+            )
+            res.raise_for_status()
+        except Exception as e:
+            print(f"[wishket] page {page} fetch failed: {e}")
+            break
+
+        soup = BeautifulSoup(res.text, "html.parser")
+        items = _parse_cards(soup)
+        print(f"[wishket] page {page} → {len(items)}건")
+
+        if not items:
+            # 더 이상 공고 없으면 종료
+            break
+
+        all_items.extend(items)
+        time.sleep(0.8)  # 서버 부담 방지
+
+    return all_items
+
+
 if __name__ == "__main__":
     result = fetch()
-    print(f"[wishket] {len(result)} items")
+    print(f"\n[wishket] 총 {len(result)}건 수집")
     for r in result[:5]:
         print(r)

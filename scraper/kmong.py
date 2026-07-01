@@ -1,69 +1,133 @@
 """
-크몽 엔터프라이즈(kmong.com biz/enterprise 영역) 프로젝트 의뢰 목록 크롤러.
+크몽 엔터프라이즈(kmong.com/enterprise/requests) 프로젝트 의뢰 목록 크롤러.
 
-주의:
-- 크몽엔터프라이즈는 로그인 후에만 전체 공고가 보이는 경우가 있다.
-  비로그인 상태에서 접근 가능한 목록 페이지 URL을 먼저 확인해야 한다.
-- 아래는 정적 파싱 예시이며, 실제 페이지 구조 확인 후 셀렉터 수정이 필요하다.
+API 응답 구조:
+  total         - 전체 공고 수
+  last_page     - 마지막 페이지
+  next_page_link
+  requests[]
+    id            - 공고 ID → 상세 URL 조합에 사용
+    title         - 공고 제목
+    breadcrumb    - "IT·프로그래밍 / 웹사이트 개발"
+    amount        - 금액 (원, 정수)
+    project_type  - "OUTSOURCING"(외주) | "RESIDENT"(상주/기간제)
+    days          - 진행 기간 (일)
+    deadline      - 모집 마감까지 남은 일수
+    proposal_count
+    category
+      cat1_name   - 대분류
+      cat2_name   - 소분류
 """
 
+import time
 import requests
-from bs4 import BeautifulSoup
 
 from common import HEADERS
 
-LIST_URL = "https://kmong.com/enterprise/projects"
+API_URL     = "https://kmong.com/api/custom-project/v1/requests"
+DETAIL_BASE = "https://kmong.com/enterprise/requests"
+MAX_PAGES   = 5   # 한 번에 최대 수집 페이지 (1페이지 = 10건)
 
 
-def fetch():
+def _format_budget(item: dict) -> str:
+    amount = item.get("amount")
+    if not amount:
+        return ""
+    formatted = f"{amount:,}원"
+    # 상주(기간제)는 월 단가, 외주는 총액
+    if item.get("project_type") == "RESIDENT":
+        formatted += "/월"
+    return formatted
+
+
+def _format_tags(item: dict) -> list:
+    tags = []
+    ptype = item.get("project_type", "")
+    if ptype == "OUTSOURCING":
+        tags.append("외주")
+    elif ptype == "RESIDENT":
+        tags.append("상주")
+
+    cat = item.get("category") or {}
+    cat1 = cat.get("cat1_name", "")
+    cat2 = cat.get("cat2_name", "")
+    if cat1:
+        tags.append(cat1)
+    if cat2 and cat2 != cat1:
+        tags.append(cat2)
+
+    days = item.get("days")
+    if days:
+        tags.append(f"{days}일")
+
+    return tags[:6]
+
+
+def fetch() -> list:
     items = []
-    try:
-        res = requests.get(LIST_URL, headers=HEADERS, timeout=15)
-        res.raise_for_status()
-    except Exception as e:
-        print(f"[kmong] fetch failed: {e}")
-        return items
 
-    soup = BeautifulSoup(res.text, "html.parser")
-
-    # TODO: 실제 카드 컨테이너 셀렉터로 교체 필요
-    cards = soup.select("li.css-x6apz0 e1wbh2vn0")
-
-    for card in cards:
+    for page in range(1, MAX_PAGES + 1):
+        params = {
+            "q":                "",
+            "sort":             "CREATED_AT",
+            "category_list":    "",
+            "sub_category_list":"",
+            "project_type":     "",
+            "page":             page,
+            "per_page":         10,
+        }
         try:
-            title_el = card.select_one(".title")
-            budget_el = card.select_one(".budget, .price")
-            date_el = card.select_one(".date, .posted")
+            res = requests.get(
+                API_URL,
+                params=params,
+                headers={
+                    **HEADERS,
+                    "Referer": "https://kmong.com/enterprise/requests",
+                    "Accept":  "application/json",
+                },
+                timeout=15,
+            )
+            res.raise_for_status()
+            data = res.json()
+        except Exception as e:
+            print(f"[kmong] page {page} fetch failed: {e}")
+            break
 
-            href = card.get("href", "")
-            if not href:
-                a = card.select_one("a")
-                href = a.get("href", "") if a else ""
+        rows = data.get("requests") or []
+        if not rows:
+            break
 
-            if not title_el or not href:
+        last_page = data.get("last_page", 1)
+        print(f"[kmong] page {page}/{last_page} → {len(rows)}건  (총 {data.get('total', '?')}건)")
+
+        for row in rows:
+            try:
+                pid   = row.get("id", "")
+                title = (row.get("title") or "").strip()
+                url   = f"{DETAIL_BASE}/{pid}" if pid else "https://kmong.com/enterprise/requests"
+
+                items.append({
+                    "source":    "크몽엔터프라이즈",
+                    "title":     title,
+                    "url":       url,
+                    "budget":    _format_budget(row),
+                    "posted_at": "",
+                    "tags":      _format_tags(row),
+                })
+            except Exception as e:
+                print(f"[kmong] parse error: {e}")
                 continue
 
-            url = href if href.startswith("http") else f"https://kmong.com{href}"
+        if page >= last_page:
+            break
 
-            items.append(
-                {
-                    "source": "크몽엔터프라이즈",
-                    "title": title_el.get_text(strip=True),
-                    "url": url,
-                    "budget": budget_el.get_text(strip=True) if budget_el else "",
-                    "posted_at": date_el.get_text(strip=True) if date_el else "",
-                    "tags": [],
-                }
-            )
-        except Exception as e:
-            print(f"[kmong] parse error: {e}")
-            continue
+        time.sleep(0.5)
 
     return items
 
 
 if __name__ == "__main__":
     result = fetch()
-    print(f"[kmong] {len(result)} items")
+    print(f"\n[kmong] 총 {len(result)}건 수집")
     for r in result[:5]:
         print(r)
