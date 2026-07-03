@@ -1,575 +1,702 @@
 {
-  "generated_at": "2026-07-01T11:04:35.335967+00:00",
-  "count": 174,
+  "generated_at": "2026-07-03T06:41:18.182354+00:00",
+  "count": 175,
   "items": [
     {
       "source": "위시켓",
-      "title": "미리캔버스 웹/인쇄용 디자인 템플릿 정기 제작 (월 정산)",
-      "url": "https://www.wishket.com/project/152381/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-01-26",
+      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
+      "url": "https://www.wishket.com/project/156611/",
+      "budget": "95,000,000원",
+      "posted_at": "2026-07-03",
       "tags": [
-        "외주",
-        "미리캔버스"
+        "외주"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Java 기반 비대면 기업대출 플랫폼 개발",
-      "url": "https://www.wishket.com/project/156528/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
+      "title": "Java/EMRO 기반 시스템 운영 및 유지보수 백엔드 개발",
+      "url": "https://www.wishket.com/project/156615/",
+      "budget": "6,600,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Java · 경력 무관"
+        "Java · 7년 이상",
+        "EMRO · 7년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "음성 처리 API 연동 기반 AI 웹 서비스 풀스택 개발 (재택근무)",
-      "url": "https://www.wishket.com/project/156531/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Java/Spring Boot 기반 생산관리 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/156613/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Java · 5년 이상",
+        "MSSQL · 5년 이상",
+        "PostgreSQL · 5년 이상",
+        "Gradle · 5년 이상",
+        "Spring Boot · 5년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React / FastAPI 기반 사내 ERP·그룹웨어 풀스택 개발 (재택 근무)",
+      "url": "https://www.wishket.com/project/156624/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "React Native · 경력 무관",
+        "next.js · 경력 무관",
+        "Python · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "AWS · 경력 무관",
+        "AWS EC2 · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "NestJS/Node.js 기반 카드사 외부 시스템 풀스택 개발",
+      "url": "https://www.wishket.com/project/156621/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": ".Net/Java/Spring Boot 기반 서버 API 설계 및 개발",
-      "url": "https://www.wishket.com/project/156532/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        ".Net · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Unity 기반 산업용 로봇 시스템 개발",
-      "url": "https://www.wishket.com/project/156536/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Unity · 5년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React Native 기반 글로벌 채팅 앱 풀스택 개발",
-      "url": "https://www.wishket.com/project/156538/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "React Native · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "B2C 음악 솔루션 브랜드 및 서비스/상품 카탈로그(인쇄물) 디자인",
-      "url": "https://www.wishket.com/project/156529/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-07-01",
+      "title": "건설사 PQ(사업수행능력평가) 업무 자동화 및 데이터 관리 프로그램 구축",
+      "url": "https://www.wishket.com/project/156626/",
+      "budget": "28,000,000원",
+      "posted_at": "2026-07-03",
       "tags": [
         "외주"
       ]
     },
     {
       "source": "위시켓",
-      "title": "C/C++ 기반 노래방 반주기 임베디드 소프트웨어 개발",
-      "url": "https://www.wishket.com/project/156552/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "C++ · 경력 무관",
-        "C · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Figma 기반 모바일 앱 플랫폼 UX/UI 디자인 (연차 무관, 재택근무)",
-      "url": "https://www.wishket.com/project/156554/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Figma · 경력 무관",
-        "Figma Auto Layout · 경력 무관",
-        "Components · 경력 무관",
-        "Variants · 경력 무관",
-        "Prototyp · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "2D 게임 배경 그래픽 리소스 44종 제작",
-      "url": "https://www.wishket.com/project/156540/",
-      "budget": "15,000,000원",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "미리캔버스 웹/인쇄용 디자인 템플릿 정기 제작 (월 정산)",
-      "url": "https://www.wishket.com/project/152381/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-01-26",
-      "tags": [
-        "외주",
-        "미리캔버스"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 비대면 기업대출 플랫폼 개발",
-      "url": "https://www.wishket.com/project/156528/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "음성 처리 API 연동 기반 AI 웹 서비스 풀스택 개발 (재택근무)",
-      "url": "https://www.wishket.com/project/156531/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Python/Golang 기반 GPU 모니터링 시스템 POC 구축 (재택 협의)",
+      "url": "https://www.wishket.com/project/156618/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": ".Net/Java/Spring Boot 기반 서버 API 설계 및 개발",
-      "url": "https://www.wishket.com/project/156532/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Python/FastAPI 기반 B2B AI 서비스 백엔드 시스템 구축 개발",
+      "url": "https://www.wishket.com/project/156631/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        ".Net · 경력 무관"
+        "Python · 경력 무관",
+        "Fast API · 경력 무관",
+        "Docker · 경력 무관",
+        "keycloak · 경력 무관",
+        "GitHub · 경력 무관",
+        "Git · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Unity 기반 산업용 로봇 시스템 개발",
-      "url": "https://www.wishket.com/project/156536/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "MS Fabric/Python 기반 LLM 경영계획 분석 시스템 데이터 아키텍트 및 백엔드 개발",
+      "url": "https://www.wishket.com/project/156632/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Unity · 5년 이상"
+        "Power Bi · 경력 무관",
+        "LLM · 경력 무관",
+        "Python · 경력 무관",
+        "SQL · 경력 무관",
+        "Azure · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "React Native 기반 글로벌 채팅 앱 풀스택 개발",
-      "url": "https://www.wishket.com/project/156538/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
+      "url": "https://www.wishket.com/project/156580/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-02",
       "tags": [
         "기간제",
-        "React Native · 경력 무관"
+        "Prometheus · 경력 무관",
+        "Kafka · 경력 무관",
+        "k8s · 경력 무관",
+        "Golang · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "B2C 음악 솔루션 브랜드 및 서비스/상품 카탈로그(인쇄물) 디자인",
-      "url": "https://www.wishket.com/project/156529/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-07-01",
+      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
+      "url": "https://www.wishket.com/project/156611/",
+      "budget": "95,000,000원",
+      "posted_at": "2026-07-03",
       "tags": [
         "외주"
       ]
     },
     {
       "source": "위시켓",
-      "title": "C/C++ 기반 노래방 반주기 임베디드 소프트웨어 개발",
-      "url": "https://www.wishket.com/project/156552/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Java/EMRO 기반 시스템 운영 및 유지보수 백엔드 개발",
+      "url": "https://www.wishket.com/project/156615/",
+      "budget": "6,600,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "C++ · 경력 무관",
-        "C · 경력 무관"
+        "Java · 7년 이상",
+        "EMRO · 7년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Figma 기반 모바일 앱 플랫폼 UX/UI 디자인 (연차 무관, 재택근무)",
-      "url": "https://www.wishket.com/project/156554/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
+      "title": "Java/Spring Boot 기반 생산관리 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/156613/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Figma · 경력 무관",
-        "Figma Auto Layout · 경력 무관",
-        "Components · 경력 무관",
-        "Variants · 경력 무관",
-        "Prototyp · 경력 무관"
+        "Java · 5년 이상",
+        "MSSQL · 5년 이상",
+        "PostgreSQL · 5년 이상",
+        "Gradle · 5년 이상",
+        "Spring Boot · 5년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "2D 게임 배경 그래픽 리소스 44종 제작",
-      "url": "https://www.wishket.com/project/156540/",
-      "budget": "15,000,000원",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "미리캔버스 웹/인쇄용 디자인 템플릿 정기 제작 (월 정산)",
-      "url": "https://www.wishket.com/project/152381/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-01-26",
-      "tags": [
-        "외주",
-        "미리캔버스"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 비대면 기업대출 플랫폼 개발",
-      "url": "https://www.wishket.com/project/156528/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
+      "title": "React / FastAPI 기반 사내 ERP·그룹웨어 풀스택 개발 (재택 근무)",
+      "url": "https://www.wishket.com/project/156624/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Java · 경력 무관"
+        "React · 경력 무관",
+        "React Native · 경력 무관",
+        "next.js · 경력 무관",
+        "Python · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "AWS · 경력 무관",
+        "AWS EC2 · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "음성 처리 API 연동 기반 AI 웹 서비스 풀스택 개발 (재택근무)",
-      "url": "https://www.wishket.com/project/156531/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "NestJS/Node.js 기반 카드사 외부 시스템 풀스택 개발",
+      "url": "https://www.wishket.com/project/156621/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": ".Net/Java/Spring Boot 기반 서버 API 설계 및 개발",
-      "url": "https://www.wishket.com/project/156532/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        ".Net · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Unity 기반 산업용 로봇 시스템 개발",
-      "url": "https://www.wishket.com/project/156536/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Unity · 5년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React Native 기반 글로벌 채팅 앱 풀스택 개발",
-      "url": "https://www.wishket.com/project/156538/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "React Native · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "B2C 음악 솔루션 브랜드 및 서비스/상품 카탈로그(인쇄물) 디자인",
-      "url": "https://www.wishket.com/project/156529/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-07-01",
+      "title": "건설사 PQ(사업수행능력평가) 업무 자동화 및 데이터 관리 프로그램 구축",
+      "url": "https://www.wishket.com/project/156626/",
+      "budget": "28,000,000원",
+      "posted_at": "2026-07-03",
       "tags": [
         "외주"
       ]
     },
     {
       "source": "위시켓",
-      "title": "C/C++ 기반 노래방 반주기 임베디드 소프트웨어 개발",
-      "url": "https://www.wishket.com/project/156552/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "C++ · 경력 무관",
-        "C · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Figma 기반 모바일 앱 플랫폼 UX/UI 디자인 (연차 무관, 재택근무)",
-      "url": "https://www.wishket.com/project/156554/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Figma · 경력 무관",
-        "Figma Auto Layout · 경력 무관",
-        "Components · 경력 무관",
-        "Variants · 경력 무관",
-        "Prototyp · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "2D 게임 배경 그래픽 리소스 44종 제작",
-      "url": "https://www.wishket.com/project/156540/",
-      "budget": "15,000,000원",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "미리캔버스 웹/인쇄용 디자인 템플릿 정기 제작 (월 정산)",
-      "url": "https://www.wishket.com/project/152381/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-01-26",
-      "tags": [
-        "외주",
-        "미리캔버스"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 비대면 기업대출 플랫폼 개발",
-      "url": "https://www.wishket.com/project/156528/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "음성 처리 API 연동 기반 AI 웹 서비스 풀스택 개발 (재택근무)",
-      "url": "https://www.wishket.com/project/156531/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Python/Golang 기반 GPU 모니터링 시스템 POC 구축 (재택 협의)",
+      "url": "https://www.wishket.com/project/156618/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": ".Net/Java/Spring Boot 기반 서버 API 설계 및 개발",
-      "url": "https://www.wishket.com/project/156532/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Python/FastAPI 기반 B2B AI 서비스 백엔드 시스템 구축 개발",
+      "url": "https://www.wishket.com/project/156631/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        ".Net · 경력 무관"
+        "Python · 경력 무관",
+        "Fast API · 경력 무관",
+        "Docker · 경력 무관",
+        "keycloak · 경력 무관",
+        "GitHub · 경력 무관",
+        "Git · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Unity 기반 산업용 로봇 시스템 개발",
-      "url": "https://www.wishket.com/project/156536/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "MS Fabric/Python 기반 LLM 경영계획 분석 시스템 데이터 아키텍트 및 백엔드 개발",
+      "url": "https://www.wishket.com/project/156632/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Unity · 5년 이상"
+        "Power Bi · 경력 무관",
+        "LLM · 경력 무관",
+        "Python · 경력 무관",
+        "SQL · 경력 무관",
+        "Azure · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "React Native 기반 글로벌 채팅 앱 풀스택 개발",
-      "url": "https://www.wishket.com/project/156538/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
+      "url": "https://www.wishket.com/project/156580/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-02",
       "tags": [
         "기간제",
-        "React Native · 경력 무관"
+        "Prometheus · 경력 무관",
+        "Kafka · 경력 무관",
+        "k8s · 경력 무관",
+        "Golang · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "B2C 음악 솔루션 브랜드 및 서비스/상품 카탈로그(인쇄물) 디자인",
-      "url": "https://www.wishket.com/project/156529/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-07-01",
+      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
+      "url": "https://www.wishket.com/project/156611/",
+      "budget": "95,000,000원",
+      "posted_at": "2026-07-03",
       "tags": [
         "외주"
       ]
     },
     {
       "source": "위시켓",
-      "title": "C/C++ 기반 노래방 반주기 임베디드 소프트웨어 개발",
-      "url": "https://www.wishket.com/project/156552/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Java/EMRO 기반 시스템 운영 및 유지보수 백엔드 개발",
+      "url": "https://www.wishket.com/project/156615/",
+      "budget": "6,600,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "C++ · 경력 무관",
-        "C · 경력 무관"
+        "Java · 7년 이상",
+        "EMRO · 7년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Figma 기반 모바일 앱 플랫폼 UX/UI 디자인 (연차 무관, 재택근무)",
-      "url": "https://www.wishket.com/project/156554/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
+      "title": "Java/Spring Boot 기반 생산관리 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/156613/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Figma · 경력 무관",
-        "Figma Auto Layout · 경력 무관",
-        "Components · 경력 무관",
-        "Variants · 경력 무관",
-        "Prototyp · 경력 무관"
+        "Java · 5년 이상",
+        "MSSQL · 5년 이상",
+        "PostgreSQL · 5년 이상",
+        "Gradle · 5년 이상",
+        "Spring Boot · 5년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "2D 게임 배경 그래픽 리소스 44종 제작",
-      "url": "https://www.wishket.com/project/156540/",
-      "budget": "15,000,000원",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "미리캔버스 웹/인쇄용 디자인 템플릿 정기 제작 (월 정산)",
-      "url": "https://www.wishket.com/project/152381/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-01-26",
-      "tags": [
-        "외주",
-        "미리캔버스"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 비대면 기업대출 플랫폼 개발",
-      "url": "https://www.wishket.com/project/156528/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
+      "title": "React / FastAPI 기반 사내 ERP·그룹웨어 풀스택 개발 (재택 근무)",
+      "url": "https://www.wishket.com/project/156624/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Java · 경력 무관"
+        "React · 경력 무관",
+        "React Native · 경력 무관",
+        "next.js · 경력 무관",
+        "Python · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "AWS · 경력 무관",
+        "AWS EC2 · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "음성 처리 API 연동 기반 AI 웹 서비스 풀스택 개발 (재택근무)",
-      "url": "https://www.wishket.com/project/156531/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "NestJS/Node.js 기반 카드사 외부 시스템 풀스택 개발",
+      "url": "https://www.wishket.com/project/156621/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": ".Net/Java/Spring Boot 기반 서버 API 설계 및 개발",
-      "url": "https://www.wishket.com/project/156532/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        ".Net · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Unity 기반 산업용 로봇 시스템 개발",
-      "url": "https://www.wishket.com/project/156536/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "Unity · 5년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React Native 기반 글로벌 채팅 앱 풀스택 개발",
-      "url": "https://www.wishket.com/project/156538/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "기간제",
-        "React Native · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "B2C 음악 솔루션 브랜드 및 서비스/상품 카탈로그(인쇄물) 디자인",
-      "url": "https://www.wishket.com/project/156529/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-07-01",
+      "title": "건설사 PQ(사업수행능력평가) 업무 자동화 및 데이터 관리 프로그램 구축",
+      "url": "https://www.wishket.com/project/156626/",
+      "budget": "28,000,000원",
+      "posted_at": "2026-07-03",
       "tags": [
         "외주"
       ]
     },
     {
       "source": "위시켓",
-      "title": "C/C++ 기반 노래방 반주기 임베디드 소프트웨어 개발",
-      "url": "https://www.wishket.com/project/156552/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-01",
+      "title": "Python/Golang 기반 GPU 모니터링 시스템 POC 구축 (재택 협의)",
+      "url": "https://www.wishket.com/project/156618/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
-        "기간제",
-        "C++ · 경력 무관",
-        "C · 경력 무관"
+        "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Figma 기반 모바일 앱 플랫폼 UX/UI 디자인 (연차 무관, 재택근무)",
-      "url": "https://www.wishket.com/project/156554/",
+      "title": "Python/FastAPI 기반 B2B AI 서비스 백엔드 시스템 구축 개발",
+      "url": "https://www.wishket.com/project/156631/",
       "budget": "협의 후 결정",
-      "posted_at": "2026-07-01",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Figma · 경력 무관",
-        "Figma Auto Layout · 경력 무관",
-        "Components · 경력 무관",
-        "Variants · 경력 무관",
-        "Prototyp · 경력 무관"
+        "Python · 경력 무관",
+        "Fast API · 경력 무관",
+        "Docker · 경력 무관",
+        "keycloak · 경력 무관",
+        "GitHub · 경력 무관",
+        "Git · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "2D 게임 배경 그래픽 리소스 44종 제작",
-      "url": "https://www.wishket.com/project/156540/",
-      "budget": "15,000,000원",
-      "posted_at": "2026-07-01",
+      "title": "MS Fabric/Python 기반 LLM 경영계획 분석 시스템 데이터 아키텍트 및 백엔드 개발",
+      "url": "https://www.wishket.com/project/156632/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Power Bi · 경력 무관",
+        "LLM · 경력 무관",
+        "Python · 경력 무관",
+        "SQL · 경력 무관",
+        "Azure · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
+      "url": "https://www.wishket.com/project/156580/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-02",
+      "tags": [
+        "기간제",
+        "Prometheus · 경력 무관",
+        "Kafka · 경력 무관",
+        "k8s · 경력 무관",
+        "Golang · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
+      "url": "https://www.wishket.com/project/156611/",
+      "budget": "95,000,000원",
+      "posted_at": "2026-07-03",
       "tags": [
         "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/EMRO 기반 시스템 운영 및 유지보수 백엔드 개발",
+      "url": "https://www.wishket.com/project/156615/",
+      "budget": "6,600,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Java · 7년 이상",
+        "EMRO · 7년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring Boot 기반 생산관리 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/156613/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Java · 5년 이상",
+        "MSSQL · 5년 이상",
+        "PostgreSQL · 5년 이상",
+        "Gradle · 5년 이상",
+        "Spring Boot · 5년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React / FastAPI 기반 사내 ERP·그룹웨어 풀스택 개발 (재택 근무)",
+      "url": "https://www.wishket.com/project/156624/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "React Native · 경력 무관",
+        "next.js · 경력 무관",
+        "Python · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "AWS · 경력 무관",
+        "AWS EC2 · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "NestJS/Node.js 기반 카드사 외부 시스템 풀스택 개발",
+      "url": "https://www.wishket.com/project/156621/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "건설사 PQ(사업수행능력평가) 업무 자동화 및 데이터 관리 프로그램 구축",
+      "url": "https://www.wishket.com/project/156626/",
+      "budget": "28,000,000원",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/Golang 기반 GPU 모니터링 시스템 POC 구축 (재택 협의)",
+      "url": "https://www.wishket.com/project/156618/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 B2B AI 서비스 백엔드 시스템 구축 개발",
+      "url": "https://www.wishket.com/project/156631/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Python · 경력 무관",
+        "Fast API · 경력 무관",
+        "Docker · 경력 무관",
+        "keycloak · 경력 무관",
+        "GitHub · 경력 무관",
+        "Git · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "MS Fabric/Python 기반 LLM 경영계획 분석 시스템 데이터 아키텍트 및 백엔드 개발",
+      "url": "https://www.wishket.com/project/156632/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Power Bi · 경력 무관",
+        "LLM · 경력 무관",
+        "Python · 경력 무관",
+        "SQL · 경력 무관",
+        "Azure · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
+      "url": "https://www.wishket.com/project/156580/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-02",
+      "tags": [
+        "기간제",
+        "Prometheus · 경력 무관",
+        "Kafka · 경력 무관",
+        "k8s · 경력 무관",
+        "Golang · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
+      "url": "https://www.wishket.com/project/156611/",
+      "budget": "95,000,000원",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/EMRO 기반 시스템 운영 및 유지보수 백엔드 개발",
+      "url": "https://www.wishket.com/project/156615/",
+      "budget": "6,600,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Java · 7년 이상",
+        "EMRO · 7년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring Boot 기반 생산관리 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/156613/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Java · 5년 이상",
+        "MSSQL · 5년 이상",
+        "PostgreSQL · 5년 이상",
+        "Gradle · 5년 이상",
+        "Spring Boot · 5년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React / FastAPI 기반 사내 ERP·그룹웨어 풀스택 개발 (재택 근무)",
+      "url": "https://www.wishket.com/project/156624/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "React Native · 경력 무관",
+        "next.js · 경력 무관",
+        "Python · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "AWS · 경력 무관",
+        "AWS EC2 · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "NestJS/Node.js 기반 카드사 외부 시스템 풀스택 개발",
+      "url": "https://www.wishket.com/project/156621/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "건설사 PQ(사업수행능력평가) 업무 자동화 및 데이터 관리 프로그램 구축",
+      "url": "https://www.wishket.com/project/156626/",
+      "budget": "28,000,000원",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/Golang 기반 GPU 모니터링 시스템 POC 구축 (재택 협의)",
+      "url": "https://www.wishket.com/project/156618/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 B2B AI 서비스 백엔드 시스템 구축 개발",
+      "url": "https://www.wishket.com/project/156631/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Python · 경력 무관",
+        "Fast API · 경력 무관",
+        "Docker · 경력 무관",
+        "keycloak · 경력 무관",
+        "GitHub · 경력 무관",
+        "Git · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "MS Fabric/Python 기반 LLM 경영계획 분석 시스템 데이터 아키텍트 및 백엔드 개발",
+      "url": "https://www.wishket.com/project/156632/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-03",
+      "tags": [
+        "기간제",
+        "Power Bi · 경력 무관",
+        "LLM · 경력 무관",
+        "Python · 경력 무관",
+        "SQL · 경력 무관",
+        "Azure · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
+      "url": "https://www.wishket.com/project/156580/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-02",
+      "tags": [
+        "기간제",
+        "Prometheus · 경력 무관",
+        "Kafka · 경력 무관",
+        "k8s · 경력 무관",
+        "Golang · 경력 무관"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "공공기관 IT 프로젝트 PM",
+      "url": "https://kmong.com/enterprise/requests/226462",
+      "budget": "6,000,000원/월",
+      "posted_at": "",
+      "tags": [
+        "상주",
+        "기획",
+        "PM・PO",
+        "150일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "자체 포인트 적립솔루션 개발",
+      "url": "https://kmong.com/enterprise/requests/226472",
+      "budget": "3,000,000원/월",
+      "posted_at": "",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "15일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "산업용 LoRa 무선 비상정지 시스템(송수신기) 시제품",
+      "url": "https://kmong.com/enterprise/requests/226477",
+      "budget": "5,500,000원",
+      "posted_at": "",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "80일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "Allwinner A40i 보드간헐적 멈춤 현상 분석",
+      "url": "https://kmong.com/enterprise/requests/226473",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "61일"
       ]
     },
     {
@@ -626,19 +753,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[울산] AI 데이터센터 SFN 배관설비 시공영상 제작",
-      "url": "https://kmong.com/enterprise/requests/226454",
-      "budget": "6,000,000원",
-      "posted_at": "",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "기업 유튜브 제작",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[크몽] 분야별 IT 프리랜서 상시 모집",
       "url": "https://kmong.com/enterprise/requests/226444",
       "budget": "7,000,000원/월",
@@ -648,19 +762,6 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "가구 브랜드 크로스채널 퍼포먼스 마케팅 광고 세팅",
-      "url": "https://kmong.com/enterprise/requests/226440",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "tags": [
-        "외주",
-        "마케팅",
-        "퍼포먼스 마케팅",
-        "30일"
       ]
     },
     {
@@ -765,6 +866,19 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "92일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "가구 브랜드 크로스채널 퍼포먼스 마케팅 광고 세팅",
+      "url": "https://kmong.com/enterprise/requests/226440",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "tags": [
+        "외주",
+        "마케팅",
+        "퍼포먼스 마케팅",
+        "30일"
       ]
     },
     {
@@ -1184,42 +1298,27 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[긴급] 제품 홍보용 영상 제작 (30~40초 2편)",
-      "url": "https://kmong.com/enterprise/requests/226294",
-      "budget": "3,000,000원",
-      "posted_at": "",
+      "source": "원티드긱스",
+      "title": "[상주] [마곡] 대기업 프로젝트 상주 PM 기획자 구인 (6개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14316",
+      "budget": "500~700만원 / 월급",
+      "posted_at": "2026-07-06",
       "tags": [
-        "외주",
-        "영상·사진·음향",
-        "광고 영상 제작",
-        "14일"
+        "Figma",
+        "서비스 기획자",
+        "PM·PO"
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "COSET 기업 홈페이지 전면 리뉴얼/신규 구축",
-      "url": "https://kmong.com/enterprise/requests/226291",
-      "budget": "25,000,000원",
-      "posted_at": "",
+      "source": "원티드긱스",
+      "title": "[원격] 현대로보틱스 로봇 티칭 (1주)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14315",
+      "budget": "500~560만원 / 프로젝트 전체",
+      "posted_at": "2026-07-08",
       "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "70일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "구축형 ERP& WMS 통합 시스템 개발(레퍼런스보유)",
-      "url": "https://kmong.com/enterprise/requests/226279",
-      "budget": "120,000,000원",
-      "posted_at": "",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "121일"
+        "로봇·자동화",
+        "제어 엔지니어",
+        "장비 엔지니어"
       ]
     },
     {
@@ -1257,7 +1356,7 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [중구] 쿠버네티스 기반 On-premise 인프라 구축 및 Field Engin (12개월)",
+      "title": "[상주] [중구] 쿠버네티스 기반 On-premise 인프라 구축 (12개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14308",
       "budget": "500~600만원 / 월급",
       "posted_at": "2026-07-13",
@@ -1408,20 +1507,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[원격/상주] [역삼] 퍼포먼스 광고 대행 (메타) (4개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14298",
-      "budget": "220~550만원 / 월급",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "광고 운영",
-        "마케터",
-        "디지털 마케터",
-        "퍼포먼스 마케터",
-        "광고 기획자(AE)"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [명동 or 서소문] 우리은행 외환 SANCTION 심사 시스템 고도화 (6개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14297",
       "budget": "550~800만원 / 월급",
@@ -1511,19 +1596,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [판교] 현대 계열사 내부 시스템 개발 (4개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14291",
-      "budget": "650~650만원 / 월급",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "Java",
-        "PostgreSQL",
-        "Spring Boot",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] kt cloud AI Portal Phase 2 (개발매니저) (4개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14290",
       "budget": "800~1000만원 / 월급",
@@ -1561,20 +1633,6 @@
         "브랜드 마케터",
         "소셜 마케터",
         "PR 전문가"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격] 아임웹 기반 자사몰 업데이트 (4개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14286",
-      "budget": "500~700만원 / 프로젝트 전체",
-      "posted_at": "2026-07-06",
-      "tags": [
-        "JavaScript",
-        "jQuery",
-        "HTML5",
-        "CSS3",
-        "프론트엔드 개발자"
       ]
     },
     {
@@ -1621,23 +1679,6 @@
         "기계 엔지니어",
         "로봇·자동화",
         "제어 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격/상주] 프리미엄 패션 플랫폼 Lead Product Designer  (UX/UI) (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14282",
-      "budget": "350~600만원 / 월급",
-      "posted_at": "2026-07-06",
-      "tags": [
-        "서비스 디자인",
-        "브랜딩",
-        "GUI",
-        "UX 디자인",
-        "UX 디자이너",
-        "UI,GUI 디자이너",
-        "모바일 디자이너",
-        "BI/BX 디자이너"
       ]
     },
     {
@@ -1718,19 +1759,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [가산] 대한교육협회 데이터 이행 개발 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14274",
-      "budget": "500~800만원 / 월급",
-      "posted_at": "2026-06-22",
-      "tags": [
-        "Python",
-        "웹 개발자",
-        "서버 개발자",
-        "파이썬 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [마곡] 소방청 파이썬/ 데이터 처리 프로젝트 (5개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14273",
       "budget": "700~850만원 / 월급",
@@ -1796,19 +1824,6 @@
         "프로젝트 관리",
         "디자인",
         "패션 디자이너"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격] 퍼포먼스 캠페인 운영 관리 (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14265",
-      "budget": "1200~1200만원 / 프로젝트 전체",
-      "posted_at": "2026-06-17",
-      "tags": [
-        "Google Analytics",
-        "마케터",
-        "퍼포먼스 마케터",
-        "광고 기획자(AE)"
       ]
     },
     {
@@ -2019,21 +2034,10 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [강남] keycloak 기반 패스키 구축 (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14230",
-      "budget": "700~800만원 / 월급",
-      "posted_at": "2026-07-01",
-      "tags": [
-        "Docker",
-        "서버 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [을지로] 하나은행 비정형 데이터 플랫폼 구축 (8개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14229",
       "budget": "600~720만원 / 월급",
-      "posted_at": "2026-07-01",
+      "posted_at": "2026-07-06",
       "tags": [
         "Python",
         "Docker",
@@ -2192,32 +2196,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [시청] OO카드 앱 구축 (디자이너) (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14075",
-      "budget": "450~650만원 / 월급",
-      "posted_at": "2026-06-01",
-      "tags": [
-        "Sketch",
-        "UI,GUI 디자이너",
-        "모바일 디자이너"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [시청] OO카드 앱 구축 프로젝트 (PM/PO) (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14074",
-      "budget": "650~800만원 / 월급",
-      "posted_at": "2026-06-01",
-      "tags": [
-        "Confluence",
-        "JIRA",
-        "Excel",
-        "PowerPoint",
-        "PM·PO"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [시청] OO카드 앱 UX/UI 디자인 개선운영 (8개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14068",
       "budget": "550~700만원 / 월급",
@@ -2238,6 +2216,86 @@
         "Sketch",
         "Figma",
         "UI,GUI 디자이너"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국인터넷진흥원] 모바일 전자증명 서비스를 위한 정보시스템 고도화",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01591143",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[선린대학 산학협력단] (RISE)선린대학교 RISE사업단 신규 홈페이지 구축 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01588704",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[연암공과대학교산학협력단] 연암공과대학교 스마트소프트웨어학과 하계 ABAP 자격증 과정 위탁 교육 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01591235",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 부산지방조달청] 부산항만공사 정보시스템 DR체계 및 정보화전략(ISP) 수립 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01564338",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[소방청 국립소방연구원] 전기화재 감정기법 매뉴얼 개발(부제 가정용기기 데이터북)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01591314",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인전남테크노파크] 시계열 데이터 기반 노지 정밀농업  생육 AI분석 서비스",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01581157",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[국립생태원] LMO 자연생태계 기능유전자 메타지노믹스 데이터 생산",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01590364",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국환경산업기술원] 2026년 정보시스템 통합 유지관리 및 운영 감리",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01588592",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
