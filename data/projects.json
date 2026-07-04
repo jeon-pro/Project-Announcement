@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T06:41:18.182354+00:00",
-  "count": 175,
+  "generated_at": "2026-07-04T03:50:56.912113+00:00",
+  "count": 170,
   "items": [
     {
       "source": "위시켓",
@@ -119,16 +119,19 @@
     },
     {
       "source": "위시켓",
-      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
-      "url": "https://www.wishket.com/project/156580/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-02",
+      "title": "음성봇(IVR)시나리오 개발",
+      "url": "https://www.wishket.com/project/156636/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Prometheus · 경력 무관",
-        "Kafka · 경력 무관",
-        "k8s · 경력 무관",
-        "Golang · 경력 무관"
+        "AngularJS · 경력 무관",
+        "Node.js · 경력 무관",
+        "Docker · 경력 무관",
+        "JavaScript · 경력 무관",
+        "MariaDB · 경력 무관",
+        "MongoDB · 경력 무관",
+        "Redis DB · 경력 무관"
       ]
     },
     {
@@ -248,16 +251,19 @@
     },
     {
       "source": "위시켓",
-      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
-      "url": "https://www.wishket.com/project/156580/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-02",
+      "title": "음성봇(IVR)시나리오 개발",
+      "url": "https://www.wishket.com/project/156636/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Prometheus · 경력 무관",
-        "Kafka · 경력 무관",
-        "k8s · 경력 무관",
-        "Golang · 경력 무관"
+        "AngularJS · 경력 무관",
+        "Node.js · 경력 무관",
+        "Docker · 경력 무관",
+        "JavaScript · 경력 무관",
+        "MariaDB · 경력 무관",
+        "MongoDB · 경력 무관",
+        "Redis DB · 경력 무관"
       ]
     },
     {
@@ -377,16 +383,19 @@
     },
     {
       "source": "위시켓",
-      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
-      "url": "https://www.wishket.com/project/156580/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-02",
+      "title": "음성봇(IVR)시나리오 개발",
+      "url": "https://www.wishket.com/project/156636/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Prometheus · 경력 무관",
-        "Kafka · 경력 무관",
-        "k8s · 경력 무관",
-        "Golang · 경력 무관"
+        "AngularJS · 경력 무관",
+        "Node.js · 경력 무관",
+        "Docker · 경력 무관",
+        "JavaScript · 경력 무관",
+        "MariaDB · 경력 무관",
+        "MongoDB · 경력 무관",
+        "Redis DB · 경력 무관"
       ]
     },
     {
@@ -506,16 +515,19 @@
     },
     {
       "source": "위시켓",
-      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
-      "url": "https://www.wishket.com/project/156580/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-02",
+      "title": "음성봇(IVR)시나리오 개발",
+      "url": "https://www.wishket.com/project/156636/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Prometheus · 경력 무관",
-        "Kafka · 경력 무관",
-        "k8s · 경력 무관",
-        "Golang · 경력 무관"
+        "AngularJS · 경력 무관",
+        "Node.js · 경력 무관",
+        "Docker · 경력 무관",
+        "JavaScript · 경력 무관",
+        "MariaDB · 경력 무관",
+        "MongoDB · 경력 무관",
+        "Redis DB · 경력 무관"
       ]
     },
     {
@@ -635,16 +647,32 @@
     },
     {
       "source": "위시켓",
-      "title": "GoLang/Java 기반 대기업 모니터링 시스템 개발 및 유지보수 PL",
-      "url": "https://www.wishket.com/project/156580/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-02",
+      "title": "음성봇(IVR)시나리오 개발",
+      "url": "https://www.wishket.com/project/156636/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-03",
       "tags": [
         "기간제",
-        "Prometheus · 경력 무관",
-        "Kafka · 경력 무관",
-        "k8s · 경력 무관",
-        "Golang · 경력 무관"
+        "AngularJS · 경력 무관",
+        "Node.js · 경력 무관",
+        "Docker · 경력 무관",
+        "JavaScript · 경력 무관",
+        "MariaDB · 경력 무관",
+        "MongoDB · 경력 무관",
+        "Redis DB · 경력 무관"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] DR센터 구축 ISP 고특급 AA/TA",
+      "url": "https://kmong.com/enterprise/requests/226492",
+      "budget": "9,000,000원/월",
+      "posted_at": "",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "IT컨설팅",
+        "180일"
       ]
     },
     {
@@ -1285,16 +1313,20 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "필메이커 유사 양방향 플랫폼 PC 웹사이트 개발",
-      "url": "https://kmong.com/enterprise/requests/226287",
-      "budget": "9,000,000원",
-      "posted_at": "",
+      "source": "원티드긱스",
+      "title": "[상주] [방이] CDP (클라우드 진단 플랫폼) 개발 및 유지보수 (6개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14318",
+      "budget": "500~700만원 / 월급",
+      "posted_at": "2026-07-06",
       "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "43일"
+        "Git",
+        "MongoDB",
+        "React",
+        "Spring",
+        "Java",
+        "Kotlin",
+        "Node.js",
+        "TypeScript"
       ]
     },
     {
@@ -2010,17 +2042,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [을지로] 신한라이프 CRM 프로젝트 개발자 모집 (10개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14238",
-      "budget": "700~730만원 / 월급",
-      "posted_at": "2026-06-12",
-      "tags": [
-        "Java",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[원격/상주] [양재] 초기 스타트업 사업개발 (3개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14237",
       "budget": "350~500만원 / 월급",
@@ -2030,6 +2051,22 @@
         "PM·PO",
         "사업개발·기획자",
         "전략 기획자"
+      ]
+    },
+    {
+      "source": "원티드긱스",
+      "title": "[상주] [여의도][LG전자] AI 에이전트 고객사 사내망 이관 (5개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14233",
+      "budget": "500~750만원 / 월급",
+      "posted_at": "2026-07-13",
+      "tags": [
+        "Linux",
+        "Python",
+        "Docker",
+        "RAG",
+        "LLM 기반 업무 자동화 설계",
+        "서버 개발자",
+        "파이썬 개발자"
       ]
     },
     {
@@ -2220,8 +2257,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[한국인터넷진흥원] 모바일 전자증명 서비스를 위한 정보시스템 고도화",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01591143",
+      "title": "[부산대학교] [통합] 부산대학교 교육정보시스템 구축 감리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01593662",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -2230,68 +2267,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[선린대학 산학협력단] (RISE)선린대학교 RISE사업단 신규 홈페이지 구축 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01588704",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[연암공과대학교산학협력단] 연암공과대학교 스마트소프트웨어학과 하계 ABAP 자격증 과정 위탁 교육 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01591235",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 부산지방조달청] 부산항만공사 정보시스템 DR체계 및 정보화전략(ISP) 수립 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01564338",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[소방청 국립소방연구원] 전기화재 감정기법 매뉴얼 개발(부제 가정용기기 데이터북)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01591314",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[재단법인전남테크노파크] 시계열 데이터 기반 노지 정밀농업  생육 AI분석 서비스",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01581157",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[국립생태원] LMO 자연생태계 기능유전자 메타지노믹스 데이터 생산",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01590364",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국환경산업기술원] 2026년 정보시스템 통합 유지관리 및 운영 감리",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01588592",
+      "title": "[경민대학 산학협력단] 2026학년도 혁신지원JOY사업 차세대종합정보시스템 유지보수용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01593871",
       "budget": "",
       "posted_at": "",
       "tags": [
