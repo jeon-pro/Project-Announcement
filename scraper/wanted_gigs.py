@@ -126,6 +126,14 @@ def fetch():
 
                 url = f"{DETAIL_BASE}/{pid}" if pid else "https://www.wanted.co.kr/gigs"
 
+                # work_place_txt: "상주" | "원격" | "원격/상주"
+                if "상주" in work_place and "원격" in work_place:
+                    work_type = "상주"   # 원격/상주 혼합은 상주로 분류
+                elif "상주" in work_place:
+                    work_type = "상주"
+                else:
+                    work_type = "원격"
+
                 items.append(
                     {
                         "source": "원티드긱스",
@@ -133,6 +141,7 @@ def fetch():
                         "url": url,
                         "budget": budget,
                         "posted_at": start_at,
+                        "work_type": work_type,
                         "tags": tags,
                     }
                 )

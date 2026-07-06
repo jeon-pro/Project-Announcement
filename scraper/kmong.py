@@ -106,12 +106,15 @@ def fetch() -> list:
                 title = (row.get("title") or "").strip()
                 url   = f"{DETAIL_BASE}/{pid}" if pid else "https://kmong.com/enterprise/requests"
 
+                work_type = "상주" if row.get("project_type") == "RESIDENT" else "원격"
+
                 items.append({
                     "source":    "크몽엔터프라이즈",
                     "title":     title,
                     "url":       url,
                     "budget":    _format_budget(row),
                     "posted_at": "",
+                    "work_type": work_type,
                     "tags":      _format_tags(row),
                 })
             except Exception as e:

@@ -71,12 +71,20 @@ def _parse_cards(soup) -> list:
                 if type_text and type_text not in tags:
                     tags.insert(0, type_text)
 
+            # 근무형태 판별
+            type_text_lower = type_el.get_text(strip=True).lower() if type_el else ""
+            if "상주" in type_text_lower:
+                work_type = "상주"
+            else:
+                work_type = "원격"   # 위시켓 외주는 대부분 원격
+
             items.append({
                 "source": "위시켓",
                 "title": title,
                 "url": url,
                 "budget": budget,
                 "posted_at": posted_at,
+                "work_type": work_type,
                 "tags": tags[:8],
             })
         except Exception as e:

@@ -5,6 +5,7 @@
   --muted: #9aa1ad;
   --accent: #6c8cff;
   --border: #2a2e3a;
+  --tag-bg: #23273a;
 }
 
 * { box-sizing: border-box; }
@@ -20,24 +21,17 @@ body {
   padding: 32px 24px 16px;
   text-align: center;
 }
+.topbar h1 { margin: 0 0 6px; font-size: 1.6rem; }
+.updated { color: var(--muted); font-size: 0.85rem; }
 
-.topbar h1 {
-  margin: 0 0 6px;
-  font-size: 1.6rem;
-}
-
-.updated {
-  color: var(--muted);
-  font-size: 0.85rem;
-}
-
+/* ── 필터 영역 ───────────────────────────────────── */
 .controls {
   max-width: 900px;
   margin: 0 auto 16px;
   padding: 0 16px;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 10px;
 }
 
 #search {
@@ -50,29 +44,52 @@ body {
   font-size: 1rem;
 }
 
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.filter-label {
+  font-size: 0.75rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
 .filters {
   display: flex;
-  gap: 8px;
+  gap: 6px;
   flex-wrap: wrap;
 }
 
 .filter-chip {
-  padding: 6px 14px;
+  padding: 5px 14px;
   border-radius: 999px;
   border: 1px solid var(--border);
   background: var(--card);
   color: var(--muted);
   cursor: pointer;
-  font-size: 0.85rem;
+  font-size: 0.83rem;
   user-select: none;
+  transition: background 0.1s, color 0.1s, border-color 0.1s;
 }
-
 .filter-chip.active {
   background: var(--accent);
   color: #fff;
   border-color: var(--accent);
 }
 
+/* 근무형태 칩 색상 */
+#work-type-filters .work-chip[data-type="상주"].active,
+#work-type-filters .work-chip.active:nth-child(2) {
+  background: #e87c4e;
+  border-color: #e87c4e;
+}
+#work-type-filters .work-chip.active:nth-child(3) {
+  background: #4eae8e;
+  border-color: #4eae8e;
+}
+
+/* ── 카드 그리드 ─────────────────────────────────── */
 .grid {
   max-width: 1100px;
   margin: 0 auto;
@@ -94,12 +111,17 @@ body {
   color: var(--text);
   transition: transform 0.12s ease, border-color 0.12s ease;
 }
-
 .card:hover {
   transform: translateY(-2px);
   border-color: var(--accent);
 }
 
+/* 카드 상단: 사이트명 + 근무형태 뱃지 */
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .card .source {
   font-size: 0.72rem;
   font-weight: 700;
@@ -108,10 +130,44 @@ body {
   letter-spacing: 0.04em;
 }
 
+/* 근무형태 뱃지 */
+.work-badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 999px;
+}
+.work-badge--onsite {
+  background: rgba(232, 124, 78, 0.18);
+  color: #e87c4e;
+}
+.work-badge--remote {
+  background: rgba(78, 174, 142, 0.18);
+  color: #4eae8e;
+}
+.work-badge--etc {
+  background: rgba(154, 161, 173, 0.15);
+  color: var(--muted);
+}
+
 .card .title {
-  font-size: 1.02rem;
+  font-size: 1rem;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.45;
+}
+
+/* 태그 */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.tag {
+  font-size: 0.73rem;
+  background: var(--tag-bg);
+  color: var(--muted);
+  padding: 2px 8px;
+  border-radius: 6px;
 }
 
 .card .meta {
@@ -119,6 +175,7 @@ body {
   color: var(--muted);
   display: flex;
   justify-content: space-between;
+  margin-top: auto;
 }
 
 .empty {
@@ -126,7 +183,6 @@ body {
   color: var(--muted);
   margin: 60px 0;
 }
-
 .hidden { display: none; }
 
 footer {
