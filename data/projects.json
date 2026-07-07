@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T08:54:23.718817+00:00",
-  "count": 170,
+  "generated_at": "2026-07-07T04:06:28.395896+00:00",
+  "count": 171,
   "items": [
     {
       "source": "위시켓",
@@ -18,6 +18,60 @@
     },
     {
       "source": "위시켓",
+      "title": "C/C++ 기반 3축 직교장치 컨트롤 ICD 개발",
+      "url": "https://www.wishket.com/project/156693/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "로봇 제어 프로그램 개발 · 경력 무관",
+        "C++ · 경력 무관",
+        "C# · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 중고차 플랫폼 UI/UX 디자인",
+      "url": "https://www.wishket.com/project/156695/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 AI 응답 생성 엔진 백엔드 개발 (주 20시간 재택)",
+      "url": "https://www.wishket.com/project/156698/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "MySQL · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "Python · 경력 무관",
+        "fastapi · 경력 무관",
+        "JSON · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 웹사이트 반응형 UI/UX 디자인 (주 1일 근무)",
+      "url": "https://www.wishket.com/project/156623/",
+      "budget": "800,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "C# 기반 라인 설비 인터페이스(CIM) 및 UI 개발",
       "url": "https://www.wishket.com/project/156664/",
       "budget": "협의 후 결정",
@@ -57,7 +111,7 @@
     },
     {
       "source": "위시켓",
-      "title": "C#.net기반 CIM 시스템 UI 개발",
+      "title": "C#.NET 기반 CIM 시스템 UI 개발",
       "url": "https://www.wishket.com/project/156673/",
       "budget": "협의 후 결정",
       "posted_at": "2026-07-06",
@@ -80,58 +134,6 @@
       "work_type": "원격",
       "tags": [
         "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "스마트 매장 운영 솔루션 UX 기획",
-      "url": "https://www.wishket.com/project/156680/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Figma · 4~12년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "교육 콘텐츠 문제은행 웹 플랫폼 풀스택 개발",
-      "url": "https://www.wishket.com/project/156685/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Java · 3~7년",
-        "PostgreSQL · 3~7년",
-        "Spring Boot · 3~7년",
-        "Python · 2~6년",
-        "React · 3년 이상",
-        "TypeScript · 2년 이상",
-        "JavaScript · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Make/Tally 연동 리포트 자동화 시나리오 구축",
-      "url": "https://www.wishket.com/project/156654/",
-      "budget": "800,000원",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
-      "url": "https://www.wishket.com/project/156611/",
-      "budget": "95,000,000원",
-      "posted_at": "2026-07-03",
-      "work_type": "원격",
-      "tags": [
-        "외주"
       ]
     },
     {
@@ -150,6 +152,60 @@
     },
     {
       "source": "위시켓",
+      "title": "C/C++ 기반 3축 직교장치 컨트롤 ICD 개발",
+      "url": "https://www.wishket.com/project/156693/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "로봇 제어 프로그램 개발 · 경력 무관",
+        "C++ · 경력 무관",
+        "C# · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 중고차 플랫폼 UI/UX 디자인",
+      "url": "https://www.wishket.com/project/156695/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 AI 응답 생성 엔진 백엔드 개발 (주 20시간 재택)",
+      "url": "https://www.wishket.com/project/156698/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "MySQL · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "Python · 경력 무관",
+        "fastapi · 경력 무관",
+        "JSON · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 웹사이트 반응형 UI/UX 디자인 (주 1일 근무)",
+      "url": "https://www.wishket.com/project/156623/",
+      "budget": "800,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "C# 기반 라인 설비 인터페이스(CIM) 및 UI 개발",
       "url": "https://www.wishket.com/project/156664/",
       "budget": "협의 후 결정",
@@ -189,7 +245,7 @@
     },
     {
       "source": "위시켓",
-      "title": "C#.net기반 CIM 시스템 UI 개발",
+      "title": "C#.NET 기반 CIM 시스템 UI 개발",
       "url": "https://www.wishket.com/project/156673/",
       "budget": "협의 후 결정",
       "posted_at": "2026-07-06",
@@ -212,58 +268,6 @@
       "work_type": "원격",
       "tags": [
         "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "스마트 매장 운영 솔루션 UX 기획",
-      "url": "https://www.wishket.com/project/156680/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Figma · 4~12년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "교육 콘텐츠 문제은행 웹 플랫폼 풀스택 개발",
-      "url": "https://www.wishket.com/project/156685/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Java · 3~7년",
-        "PostgreSQL · 3~7년",
-        "Spring Boot · 3~7년",
-        "Python · 2~6년",
-        "React · 3년 이상",
-        "TypeScript · 2년 이상",
-        "JavaScript · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Make/Tally 연동 리포트 자동화 시나리오 구축",
-      "url": "https://www.wishket.com/project/156654/",
-      "budget": "800,000원",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
-      "url": "https://www.wishket.com/project/156611/",
-      "budget": "95,000,000원",
-      "posted_at": "2026-07-03",
-      "work_type": "원격",
-      "tags": [
-        "외주"
       ]
     },
     {
@@ -282,6 +286,60 @@
     },
     {
       "source": "위시켓",
+      "title": "C/C++ 기반 3축 직교장치 컨트롤 ICD 개발",
+      "url": "https://www.wishket.com/project/156693/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "로봇 제어 프로그램 개발 · 경력 무관",
+        "C++ · 경력 무관",
+        "C# · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 중고차 플랫폼 UI/UX 디자인",
+      "url": "https://www.wishket.com/project/156695/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 AI 응답 생성 엔진 백엔드 개발 (주 20시간 재택)",
+      "url": "https://www.wishket.com/project/156698/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "MySQL · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "Python · 경력 무관",
+        "fastapi · 경력 무관",
+        "JSON · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 웹사이트 반응형 UI/UX 디자인 (주 1일 근무)",
+      "url": "https://www.wishket.com/project/156623/",
+      "budget": "800,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "C# 기반 라인 설비 인터페이스(CIM) 및 UI 개발",
       "url": "https://www.wishket.com/project/156664/",
       "budget": "협의 후 결정",
@@ -321,7 +379,7 @@
     },
     {
       "source": "위시켓",
-      "title": "C#.net기반 CIM 시스템 UI 개발",
+      "title": "C#.NET 기반 CIM 시스템 UI 개발",
       "url": "https://www.wishket.com/project/156673/",
       "budget": "협의 후 결정",
       "posted_at": "2026-07-06",
@@ -344,58 +402,6 @@
       "work_type": "원격",
       "tags": [
         "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "스마트 매장 운영 솔루션 UX 기획",
-      "url": "https://www.wishket.com/project/156680/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Figma · 4~12년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "교육 콘텐츠 문제은행 웹 플랫폼 풀스택 개발",
-      "url": "https://www.wishket.com/project/156685/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Java · 3~7년",
-        "PostgreSQL · 3~7년",
-        "Spring Boot · 3~7년",
-        "Python · 2~6년",
-        "React · 3년 이상",
-        "TypeScript · 2년 이상",
-        "JavaScript · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Make/Tally 연동 리포트 자동화 시나리오 구축",
-      "url": "https://www.wishket.com/project/156654/",
-      "budget": "800,000원",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
-      "url": "https://www.wishket.com/project/156611/",
-      "budget": "95,000,000원",
-      "posted_at": "2026-07-03",
-      "work_type": "원격",
-      "tags": [
-        "외주"
       ]
     },
     {
@@ -414,6 +420,60 @@
     },
     {
       "source": "위시켓",
+      "title": "C/C++ 기반 3축 직교장치 컨트롤 ICD 개발",
+      "url": "https://www.wishket.com/project/156693/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "로봇 제어 프로그램 개발 · 경력 무관",
+        "C++ · 경력 무관",
+        "C# · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 중고차 플랫폼 UI/UX 디자인",
+      "url": "https://www.wishket.com/project/156695/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 AI 응답 생성 엔진 백엔드 개발 (주 20시간 재택)",
+      "url": "https://www.wishket.com/project/156698/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "MySQL · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "Python · 경력 무관",
+        "fastapi · 경력 무관",
+        "JSON · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 웹사이트 반응형 UI/UX 디자인 (주 1일 근무)",
+      "url": "https://www.wishket.com/project/156623/",
+      "budget": "800,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "C# 기반 라인 설비 인터페이스(CIM) 및 UI 개발",
       "url": "https://www.wishket.com/project/156664/",
       "budget": "협의 후 결정",
@@ -453,7 +513,7 @@
     },
     {
       "source": "위시켓",
-      "title": "C#.net기반 CIM 시스템 UI 개발",
+      "title": "C#.NET 기반 CIM 시스템 UI 개발",
       "url": "https://www.wishket.com/project/156673/",
       "budget": "협의 후 결정",
       "posted_at": "2026-07-06",
@@ -476,58 +536,6 @@
       "work_type": "원격",
       "tags": [
         "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "스마트 매장 운영 솔루션 UX 기획",
-      "url": "https://www.wishket.com/project/156680/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Figma · 4~12년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "교육 콘텐츠 문제은행 웹 플랫폼 풀스택 개발",
-      "url": "https://www.wishket.com/project/156685/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Java · 3~7년",
-        "PostgreSQL · 3~7년",
-        "Spring Boot · 3~7년",
-        "Python · 2~6년",
-        "React · 3년 이상",
-        "TypeScript · 2년 이상",
-        "JavaScript · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Make/Tally 연동 리포트 자동화 시나리오 구축",
-      "url": "https://www.wishket.com/project/156654/",
-      "budget": "800,000원",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
-      "url": "https://www.wishket.com/project/156611/",
-      "budget": "95,000,000원",
-      "posted_at": "2026-07-03",
-      "work_type": "원격",
-      "tags": [
-        "외주"
       ]
     },
     {
@@ -546,6 +554,60 @@
     },
     {
       "source": "위시켓",
+      "title": "C/C++ 기반 3축 직교장치 컨트롤 ICD 개발",
+      "url": "https://www.wishket.com/project/156693/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "로봇 제어 프로그램 개발 · 경력 무관",
+        "C++ · 경력 무관",
+        "C# · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 중고차 플랫폼 UI/UX 디자인",
+      "url": "https://www.wishket.com/project/156695/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 AI 응답 생성 엔진 백엔드 개발 (주 20시간 재택)",
+      "url": "https://www.wishket.com/project/156698/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "MySQL · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "Python · 경력 무관",
+        "fastapi · 경력 무관",
+        "JSON · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 웹사이트 반응형 UI/UX 디자인 (주 1일 근무)",
+      "url": "https://www.wishket.com/project/156623/",
+      "budget": "800,000원/월",
+      "posted_at": "2026-07-07",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "C# 기반 라인 설비 인터페이스(CIM) 및 UI 개발",
       "url": "https://www.wishket.com/project/156664/",
       "budget": "협의 후 결정",
@@ -585,7 +647,7 @@
     },
     {
       "source": "위시켓",
-      "title": "C#.net기반 CIM 시스템 UI 개발",
+      "title": "C#.NET 기반 CIM 시스템 UI 개발",
       "url": "https://www.wishket.com/project/156673/",
       "budget": "협의 후 결정",
       "posted_at": "2026-07-06",
@@ -611,55 +673,31 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "스마트 매장 운영 솔루션 UX 기획",
-      "url": "https://www.wishket.com/project/156680/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-06",
+      "source": "크몽엔터프라이즈",
+      "title": "회사 공식 홈페이지 제작 (그누보드)",
+      "url": "https://kmong.com/enterprise/requests/226514",
+      "budget": "10,000,000원",
+      "posted_at": "",
       "work_type": "원격",
       "tags": [
-        "기간제",
-        "Figma · 4~12년"
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "91일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "교육 콘텐츠 문제은행 웹 플랫폼 풀스택 개발",
-      "url": "https://www.wishket.com/project/156685/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-06",
+      "source": "크몽엔터프라이즈",
+      "title": "의사 대상 메디컬 플랫폼 백엔드 시스템 구축",
+      "url": "https://kmong.com/enterprise/requests/226509",
+      "budget": "10,000,000원",
+      "posted_at": "",
       "work_type": "원격",
       "tags": [
-        "기간제",
-        "Java · 3~7년",
-        "PostgreSQL · 3~7년",
-        "Spring Boot · 3~7년",
-        "Python · 2~6년",
-        "React · 3년 이상",
-        "TypeScript · 2년 이상",
-        "JavaScript · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Make/Tally 연동 리포트 자동화 시나리오 구축",
-      "url": "https://www.wishket.com/project/156654/",
-      "budget": "800,000원",
-      "posted_at": "2026-07-06",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "청년주택 운영관리 통합 플랫폼(App/Web) 구축 프로젝트",
-      "url": "https://www.wishket.com/project/156611/",
-      "budget": "95,000,000원",
-      "posted_at": "2026-07-03",
-      "work_type": "원격",
-      "tags": [
-        "외주"
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "60일"
       ]
     },
     {
@@ -1335,31 +1373,18 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[상주/영등포] React Native 기반 모바일 앱",
-      "url": "https://kmong.com/enterprise/requests/226334",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
+      "source": "원티드긱스",
+      "title": "[원격] [비상주] 대기업 제조업  프로젝트 시니어 서비스 기획자 구인 (5개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14323",
+      "budget": "500~700만원 / 월급",
+      "posted_at": "2026-07-06",
+      "work_type": "원격",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "모바일앱 개발",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[마곡] 빌링대사 자동화 분석/설계 PL 및 개발",
-      "url": "https://kmong.com/enterprise/requests/226325",
-      "budget": "7,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "210일"
+        "Excel",
+        "Figma",
+        "Notion",
+        "서비스 기획자",
+        "PM·PO"
       ]
     },
     {
@@ -1382,7 +1407,7 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [일원] 고객사 홈페이지 개편 업무 (5개월)",
+      "title": "[상주] [일원] 고객사 홈페이지 개편 DBA (5개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14319",
       "budget": "1000~1000만원 / 월급",
       "posted_at": "2026-07-08",
@@ -1397,7 +1422,7 @@
       "source": "원티드긱스",
       "title": "[상주] [방이] CDP (클라우드 진단 플랫폼) 개발 및 유지보수 (6개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14318",
-      "budget": "500~700만원 / 월급",
+      "budget": "500~650만원 / 월급",
       "posted_at": "2026-07-06",
       "work_type": "상주",
       "tags": [
@@ -2004,35 +2029,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [이천] sk하이닉스 AI agent 개발 (4개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14252",
-      "budget": "700~850만원 / 월급",
-      "posted_at": "2026-06-15",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "PostgreSQL",
-        "서버 개발자",
-        "파이썬 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [강남] 프론트엔드 개발 (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14250",
-      "budget": "300~500만원 / 월급",
-      "posted_at": "2026-06-22",
-      "work_type": "상주",
-      "tags": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "Next.js",
-        "프론트엔드 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [구로] 서비스 마케팅 디자인 유지/운영 (B2B, B2C) (금요일 재택) (3개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14249",
       "budget": "280~300만원 / 월급",
@@ -2070,21 +2066,6 @@
       "work_type": "상주",
       "tags": [
         "콘텐츠 마케터"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [서초] 삼성전자 v2v msazure 인프라 운영 (9개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14242",
-      "budget": "500~700만원 / 월급",
-      "posted_at": "2026-06-22",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "SQL",
-        "GCP",
-        "Apache Airflow",
-        "데이터 엔지니어"
       ]
     },
     {
@@ -2372,8 +2353,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[부산대학교] [통합] 부산대학교 교육정보시스템 구축 감리 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01593662",
+      "title": "[조달청 서울지방조달청] 2026년 KLID 정보시스템 보안취약점 진단",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01583653",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -2382,8 +2363,38 @@
     },
     {
       "source": "나라장터",
-      "title": "[경민대학 산학협력단] 2026학년도 혁신지원JOY사업 차세대종합정보시스템 유지보수용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01593871",
+      "title": "[재단법인 대구디지털혁신진흥원] 2026년 데이터 품질진단 및 개선 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01596528",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 대전지방조달청] 2026년 통계데이터센터 시스템 통합을 위한 고도화 감리 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01595251",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(재)서울경제진흥원] 청년취업사관학교 새싹(SeSAC) 홈페이지 및 LMS 2차 고도화 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01596533",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 포항테크노파크] 온디바이스 AI 서비스 실증·확산 사업 정보시스템 감리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01596634",
       "budget": "",
       "posted_at": "",
       "tags": [
