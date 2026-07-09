@@ -17,37 +17,18 @@ API 응답 주요 필드:
   jobs          - 직군 문자열
 """
 
-import re
 import time
 import requests
 from common import HEADERS
 
 BASE_API = "https://www.wanted.co.kr/gigs/api-v2/projects"
 
-# 개발 직군 관련 키워드 - 제목/스킬/직군 중 하나라도 포함되면 수집
-DEV_KEYWORDS = re.compile(
-    r"개발|프로그래밍|엔지니어|engineer|developer|백엔드|프론트|풀스택|"
-    r"웹|앱|모바일|ios|android|flutter|react|vue|angular|next|node|"
-    r"python|java|spring|django|fastapi|kotlin|swift|"
-    r"데이터|ai|ml|머신러닝|딥러닝|llm|크롤링|자동화|"
-    r"devops|클라우드|cloud|aws|gcp|azure|인프라|서버|api|"
-    r"it·프로그래밍|소프트웨어|시스템|데이터베이스|db",
-    re.IGNORECASE,
-)
-
 
 def _is_dev(row: dict) -> bool:
-    """개발 직군 관련 공고인지 판별."""
-    targets = [
-        row.get("title", ""),
-        row.get("skills", ""),
-    ]
-    for job in row.get("jobsV2") or []:
-        targets.append(job.get("jobCategoryTitle", ""))
-        targets.append(job.get("jobTitle", ""))
+    """jobs 필드에 '개발'이 포함된 공고만 수집."""
+    jobs = row.get("jobs", "") or ""
+    return "개발" in jobs
 
-    haystack = " ".join(t for t in targets if t)
-    return bool(DEV_KEYWORDS.search(haystack))
 DETAIL_BASE = "https://www.wanted.co.kr/gigs/projects"
 
 PARAMS = {
