@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T15:58:18.529967+00:00",
-  "count": 155,
+  "generated_at": "2026-07-09T16:08:53.626728+00:00",
+  "count": 144,
   "items": [
     {
       "source": "위시켓",
@@ -1455,24 +1455,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[원격] AI 영상 제작 및 파이프라인 세팅 (2개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14339",
-      "budget": "500~700만원 / 프로젝트 전체",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "영상",
-        "컨텐츠 마케팅",
-        "콘텐츠 제작",
-        "인공 지능",
-        "영상 편집",
-        "스토리 보드",
-        "콘텐츠 크리에이터",
-        "PD"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [종로] SC제일은행 아파트관리비 시스템 구축 (채널PG연계) (5개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14335",
       "budget": "550~680만원 / 월급",
@@ -1552,24 +1534,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [과천][영어 가능자]  자동차 제조사 커넥티드카 서비스 개발 PM (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14321",
-      "budget": "700~1000만원 / 월급",
-      "posted_at": "2026-08-01",
-      "work_type": "상주",
-      "tags": [
-        "Confluence",
-        "Git",
-        "GitHub",
-        "JIRA",
-        "Slack",
-        "iOS",
-        "Java",
-        "PM·PO"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [일원] 고객사 홈페이지 개편 DBA (5개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14319",
       "budget": "1000~1000만원 / 월급",
@@ -1597,19 +1561,6 @@
         "Kotlin",
         "Node.js",
         "TypeScript"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격] 현대로보틱스 로봇 티칭 (1주)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14315",
-      "budget": "500~560만원 / 프로젝트 전체",
-      "posted_at": "2026-07-08",
-      "work_type": "원격",
-      "tags": [
-        "로봇·자동화",
-        "제어 엔지니어",
-        "장비 엔지니어"
       ]
     },
     {
@@ -1786,6 +1737,18 @@
     },
     {
       "source": "원티드긱스",
+      "title": "[상주] [성남] SOFC  실시간 모니터링 구축 프로젝트 (3개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14289",
+      "budget": "500~800만원 / 월급",
+      "posted_at": "2026-07-01",
+      "work_type": "상주",
+      "tags": [
+        "MES",
+        "프로덕트 매니저"
+      ]
+    },
+    {
+      "source": "원티드긱스",
       "title": "[상주] [을지로] 통신사 차세대 시스템 BSS파트 설계 및 분석 (18개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14285",
       "budget": "700~800만원 / 월급",
@@ -1813,24 +1776,6 @@
         "서버",
         "전기 공학",
         "소프트웨어 공학"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격/상주] [재택병행][가전용AIoT] 펌웨어/임베디드/백엔드 감리자 구인 (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14283",
-      "budget": "500~1000만원 / 프로젝트 전체",
-      "posted_at": "2026-06-29",
-      "work_type": "상주",
-      "tags": [
-        "Linux",
-        "Node.js",
-        "RTOS",
-        "Embedded C",
-        "전자 엔지니어",
-        "기계 엔지니어",
-        "로봇·자동화",
-        "제어 엔지니어"
       ]
     },
     {
@@ -1916,38 +1861,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[원격/상주] [마포][재택병행] AI 마케팅 SaaS(커머스) 프로덕트 기획 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14257",
-      "budget": "400~600만원 / 월급",
-      "posted_at": "2026-06-22",
-      "work_type": "상주",
-      "tags": [
-        "B2C",
-        "콘텐츠 전략",
-        "콘텐츠 제작",
-        "디지털 광고",
-        "온라인 광고",
-        "모바일 광고",
-        "사용자 생성 콘텐츠",
-        "Figma"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격/상주] [남양주]ECHO AI 서비스 PM / Founder Office (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14256",
-      "budget": "200~300만원 / 월급",
-      "posted_at": "2026-07-13",
-      "work_type": "상주",
-      "tags": [
-        "Product Management",
-        "상품기획자(BM)",
-        "경영 혁신가",
-        "비서"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [성남] FA개발(웹개발) 프로젝트 (3개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14253",
       "budget": "500~800만원 / 월급",
@@ -1958,20 +1871,6 @@
         "Spring Boot",
         "웹 개발자",
         "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [구로] 서비스 마케팅 디자인 유지/운영 (B2B, B2C) (금요일 재택) (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14249",
-      "budget": "280~300만원 / 월급",
-      "posted_at": "2026-07-20",
-      "work_type": "상주",
-      "tags": [
-        "Adobe Photoshop",
-        "Adobe Illustrator",
-        "Figma",
-        "웹 디자이너"
       ]
     },
     {
@@ -2078,32 +1977,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [여의도] Senior Product Designer (Web / App) (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14200",
-      "budget": "350~450만원 / 월급",
-      "posted_at": "2026-06-10",
-      "work_type": "상주",
-      "tags": [
-        "서비스 디자인",
-        "모바일 디자이너"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격/상주] [명동] 도시별 창업기업 글로벌 홍보 홈페이지 디자인 개발 (8주)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14184",
-      "budget": "900~1800만원 / 프로젝트 전체",
-      "posted_at": "2026-06-01",
-      "work_type": "상주",
-      "tags": [
-        "Figma",
-        "UX 디자이너",
-        "UI,GUI 디자이너",
-        "웹 디자이너"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[원격/상주] AI agent 개발 용역 수행사 모집 (3개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14175",
       "budget": "500~5000만원 / 프로젝트 전체",
@@ -2141,45 +2014,6 @@
         "PM·PO",
         "사업개발·기획자",
         "전략 기획자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [시청] OO카드 앱 구축 (디자이너) (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14075",
-      "budget": "450~650만원 / 월급",
-      "posted_at": "2026-06-01",
-      "work_type": "상주",
-      "tags": [
-        "Sketch",
-        "UI,GUI 디자이너",
-        "모바일 디자이너"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [시청] OO카드 앱 UX/UI 디자인 개선운영 (8개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14068",
-      "budget": "550~700만원 / 월급",
-      "posted_at": "2026-06-01",
-      "work_type": "상주",
-      "tags": [
-        "Sketch",
-        "Figma",
-        "모바일 디자이너"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [시청] OO카드 앱 디자인 시스템 구축 (5개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14057",
-      "budget": "450~650만원 / 월급",
-      "posted_at": "2026-07-01",
-      "work_type": "상주",
-      "tags": [
-        "Sketch",
-        "Figma",
-        "UI,GUI 디자이너"
       ]
     },
     {
