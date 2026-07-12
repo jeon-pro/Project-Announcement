@@ -52,6 +52,11 @@ def _parse_cards(soup) -> list:
             href = link_tag.get("href", "")
             url = href if href.startswith("http") else f"https://www.wishket.com{href}"
 
+            # 모집 마감 제외 - "모집 중" 상태인 공고만 수집
+            status_el = card.select_one("div.recruiting-mark")
+            if not status_el or "모집 중" not in status_el.get_text():
+                continue
+
             # 예산
             budget_el = card.select_one("p.budget span.body-1-medium")
             budget = budget_el.get_text(strip=True) if budget_el else ""
