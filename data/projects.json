@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T03:39:20.595573+00:00",
-  "count": 137,
+  "generated_at": "2026-07-12T12:07:35.766618+00:00",
+  "count": 136,
   "items": [
     {
       "source": "위시켓",
@@ -1532,7 +1532,7 @@
       "url": "https://www.wanted.co.kr/gigs/projects/14311",
       "budget": "500~1000만원 / 프로젝트 전체",
       "posted_at": "2026-07-10",
-      "work_type": "상주",
+      "work_type": "원격",
       "tags": [
         "AutoCAD",
         "하드웨어 엔지니어"
@@ -1696,7 +1696,7 @@
       "url": "https://www.wanted.co.kr/gigs/projects/14284",
       "budget": "500~1000만원 / 프로젝트 전체",
       "posted_at": "2026-06-29",
-      "work_type": "상주",
+      "work_type": "원격",
       "tags": [
         "C / C++",
         "Node.js",
@@ -1764,7 +1764,7 @@
       "url": "https://www.wanted.co.kr/gigs/projects/14272",
       "budget": "300~500만원 / 월급",
       "posted_at": "2026-06-29",
-      "work_type": "상주",
+      "work_type": "원격",
       "tags": [
         "Redis",
         "TypeScript",
@@ -1786,20 +1786,6 @@
       "tags": [
         "Java",
         "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[원격/상주] [양재] 초기 스타트업 사업개발 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14237",
-      "budget": "350~500만원 / 월급",
-      "posted_at": "2026-07-03",
-      "work_type": "상주",
-      "tags": [
-        "B2C",
-        "PM·PO",
-        "사업개발·기획자",
-        "전략 기획자"
       ]
     },
     {
@@ -1859,7 +1845,7 @@
       "url": "https://www.wanted.co.kr/gigs/projects/14175",
       "budget": "500~5000만원 / 프로젝트 전체",
       "posted_at": "2026-06-01",
-      "work_type": "상주",
+      "work_type": "원격",
       "tags": [
         "Python",
         "LangChain",
