@@ -24,14 +24,11 @@ from common import HEADERS
 BASE_API = "https://www.wanted.co.kr/gigs/api-v2/projects"
 
 
-def _is_dev(row: dict) -> bool:
-    """jobs 필드에 '개발'이 포함된 공고만 수집."""
-    jobs = row.get("jobs", "") or ""
-    return "개발" in jobs
 
 DETAIL_BASE = "https://www.wanted.co.kr/gigs/projects"
 
 PARAMS = {
+    "job_industry": "518",       # 개발 직군 고정 필터 (API 단에서 처리)
     "work_type_office": "true",
     "work_type_remote": "true",
     "sort": "createdAt",
@@ -116,8 +113,6 @@ def fetch():
             break
 
         for row in rows:
-            if not _is_dev(row):
-                continue
             try:
                 pid = row.get("id")
                 title = (row.get("title") or "").strip()
@@ -136,8 +131,9 @@ def fetch():
                 url = f"{DETAIL_BASE}/{pid}" if pid else "https://www.wanted.co.kr/gigs"
 
                 # work_place_txt: "상주" | "원격" | "원격/상주"
-                if "상주" in work_place and "원격" in work_place:
-                    work_type = "상주"   # 원격/상주 혼합은 상주로 분류
+                # 원격이 포함되면 원격으로 분류 (원격/상주 혼합 포함)
+                if "원격" in work_place:
+                    work_type = "원격"
                 elif "상주" in work_place:
                     work_type = "상주"
                 else:
