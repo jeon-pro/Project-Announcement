@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T03:27:38.888531+00:00",
-  "count": 132,
+  "generated_at": "2026-07-12T03:39:20.595573+00:00",
+  "count": 137,
   "items": [
     {
       "source": "위시켓",
@@ -730,20 +730,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "On-premise 인프라 구축 엔지니어",
-      "url": "https://kmong.com/enterprise/requests/226461",
-      "budget": "5,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "제품 형상 설계, 제품 도면 작성",
       "url": "https://kmong.com/enterprise/requests/226488",
       "budget": "3,000,000원/월",
@@ -922,6 +908,20 @@
         "IT·프로그래밍",
         "AI",
         "60일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "On-premise 인프라 구축 엔지니어",
+      "url": "https://kmong.com/enterprise/requests/226461",
+      "budget": "5,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "360일"
       ]
     },
     {
@@ -1865,6 +1865,56 @@
         "LangChain",
         "웹 개발자",
         "서버 개발자"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(주)한국능률협회컨설팅] 주식회사 비엔비케이_골프장코스관리시스템 데이터라벨링 및 AI 분석 모델 개발",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605576",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(주)한국능률협회컨설팅] 주식회사 비엔비케이_스포츠 잔디식생지수(NDVI) 분석을 위한 드론 촬영 및 데이터 수집 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605578",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국항공우주연구원] 우주링크확장 소프트웨어 프로토타입 개발 기술 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605588",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[제주국제자유도시개발센터] JDC 홈페이지 재구축 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01602997",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 포항테크노파크] (다자간 전자시담) 실증현장 분석 및 데이터 수집 리빙랩 운영 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605924",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
