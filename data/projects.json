@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:39:48.075483+00:00",
+  "generated_at": "2026-07-13T03:41:12.655454+00:00",
   "count": 136,
   "items": [
     {
@@ -18,6 +18,39 @@
     },
     {
       "source": "위시켓",
+      "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
+      "url": "https://www.wishket.com/project/156819/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
+      "url": "https://www.wishket.com/project/156837/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
+      "url": "https://www.wishket.com/project/156821/",
+      "budget": "12,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
       "url": "https://www.wishket.com/project/156798/",
       "budget": "4,000,000원/월",
@@ -86,54 +119,6 @@
       "tags": [
         "기간제",
         "Apache · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156811/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pyspark · 4~7년",
-        "Spark · 4~7년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python 및 LLM 기반 SAP 업무 자동화 RPA 개발",
-      "url": "https://www.wishket.com/project/156768/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Python · 경력 무관",
-        "LLM · 경력 무관",
-        "SQL · 경력 무관",
-        "RPA · 경력 무관",
-        "SAP · 경력 무관",
-        "Power Bi · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "사내 전산 환경 기반 IT 전산지원 헬프데스크 (2인 파견)",
-      "url": "https://www.wishket.com/project/156752/",
-      "budget": "3,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pc유지보수 · 경력 무관",
-        "macOS · 경력 무관",
-        "Helpdesk · 경력 무관",
-        "전산유지보수 · 경력 무관",
-        "Windows · 경력 무관",
-        "it 아웃소싱 · 경력 무관",
-        "헬프데스크 · 경력 무관"
       ]
     },
     {
@@ -152,6 +137,39 @@
     },
     {
       "source": "위시켓",
+      "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
+      "url": "https://www.wishket.com/project/156819/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
+      "url": "https://www.wishket.com/project/156837/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
+      "url": "https://www.wishket.com/project/156821/",
+      "budget": "12,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
       "url": "https://www.wishket.com/project/156798/",
       "budget": "4,000,000원/월",
@@ -220,54 +238,6 @@
       "tags": [
         "기간제",
         "Apache · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156811/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pyspark · 4~7년",
-        "Spark · 4~7년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python 및 LLM 기반 SAP 업무 자동화 RPA 개발",
-      "url": "https://www.wishket.com/project/156768/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Python · 경력 무관",
-        "LLM · 경력 무관",
-        "SQL · 경력 무관",
-        "RPA · 경력 무관",
-        "SAP · 경력 무관",
-        "Power Bi · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "사내 전산 환경 기반 IT 전산지원 헬프데스크 (2인 파견)",
-      "url": "https://www.wishket.com/project/156752/",
-      "budget": "3,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pc유지보수 · 경력 무관",
-        "macOS · 경력 무관",
-        "Helpdesk · 경력 무관",
-        "전산유지보수 · 경력 무관",
-        "Windows · 경력 무관",
-        "it 아웃소싱 · 경력 무관",
-        "헬프데스크 · 경력 무관"
       ]
     },
     {
@@ -286,6 +256,39 @@
     },
     {
       "source": "위시켓",
+      "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
+      "url": "https://www.wishket.com/project/156819/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
+      "url": "https://www.wishket.com/project/156837/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
+      "url": "https://www.wishket.com/project/156821/",
+      "budget": "12,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
       "url": "https://www.wishket.com/project/156798/",
       "budget": "4,000,000원/월",
@@ -354,54 +357,6 @@
       "tags": [
         "기간제",
         "Apache · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156811/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pyspark · 4~7년",
-        "Spark · 4~7년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python 및 LLM 기반 SAP 업무 자동화 RPA 개발",
-      "url": "https://www.wishket.com/project/156768/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Python · 경력 무관",
-        "LLM · 경력 무관",
-        "SQL · 경력 무관",
-        "RPA · 경력 무관",
-        "SAP · 경력 무관",
-        "Power Bi · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "사내 전산 환경 기반 IT 전산지원 헬프데스크 (2인 파견)",
-      "url": "https://www.wishket.com/project/156752/",
-      "budget": "3,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pc유지보수 · 경력 무관",
-        "macOS · 경력 무관",
-        "Helpdesk · 경력 무관",
-        "전산유지보수 · 경력 무관",
-        "Windows · 경력 무관",
-        "it 아웃소싱 · 경력 무관",
-        "헬프데스크 · 경력 무관"
       ]
     },
     {
@@ -420,6 +375,39 @@
     },
     {
       "source": "위시켓",
+      "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
+      "url": "https://www.wishket.com/project/156819/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
+      "url": "https://www.wishket.com/project/156837/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
+      "url": "https://www.wishket.com/project/156821/",
+      "budget": "12,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
       "url": "https://www.wishket.com/project/156798/",
       "budget": "4,000,000원/월",
@@ -488,54 +476,6 @@
       "tags": [
         "기간제",
         "Apache · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156811/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pyspark · 4~7년",
-        "Spark · 4~7년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python 및 LLM 기반 SAP 업무 자동화 RPA 개발",
-      "url": "https://www.wishket.com/project/156768/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Python · 경력 무관",
-        "LLM · 경력 무관",
-        "SQL · 경력 무관",
-        "RPA · 경력 무관",
-        "SAP · 경력 무관",
-        "Power Bi · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "사내 전산 환경 기반 IT 전산지원 헬프데스크 (2인 파견)",
-      "url": "https://www.wishket.com/project/156752/",
-      "budget": "3,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pc유지보수 · 경력 무관",
-        "macOS · 경력 무관",
-        "Helpdesk · 경력 무관",
-        "전산유지보수 · 경력 무관",
-        "Windows · 경력 무관",
-        "it 아웃소싱 · 경력 무관",
-        "헬프데스크 · 경력 무관"
       ]
     },
     {
@@ -554,6 +494,39 @@
     },
     {
       "source": "위시켓",
+      "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
+      "url": "https://www.wishket.com/project/156819/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
+      "url": "https://www.wishket.com/project/156837/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
+      "url": "https://www.wishket.com/project/156821/",
+      "budget": "12,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
       "url": "https://www.wishket.com/project/156798/",
       "budget": "4,000,000원/월",
@@ -622,68 +595,20 @@
       "tags": [
         "기간제",
         "Apache · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156811/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pyspark · 4~7년",
-        "Spark · 4~7년"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python 및 LLM 기반 SAP 업무 자동화 RPA 개발",
-      "url": "https://www.wishket.com/project/156768/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Python · 경력 무관",
-        "LLM · 경력 무관",
-        "SQL · 경력 무관",
-        "RPA · 경력 무관",
-        "SAP · 경력 무관",
-        "Power Bi · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "사내 전산 환경 기반 IT 전산지원 헬프데스크 (2인 파견)",
-      "url": "https://www.wishket.com/project/156752/",
-      "budget": "3,000,000원/월",
-      "posted_at": "2026-07-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "pc유지보수 · 경력 무관",
-        "macOS · 경력 무관",
-        "Helpdesk · 경력 무관",
-        "전산유지보수 · 경력 무관",
-        "Windows · 경력 무관",
-        "it 아웃소싱 · 경력 무관",
-        "헬프데스크 · 경력 무관"
       ]
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "위치기반 중개 플랫폼 개발",
-      "url": "https://kmong.com/enterprise/requests/226542",
-      "budget": "15,000,000원",
+      "title": "[세종] 법제처 국가정보자원관리원 TA",
+      "url": "https://kmong.com/enterprise/requests/226548",
+      "budget": "8,000,000원/월",
       "posted_at": "",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
-        "외주",
+        "상주",
         "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "72일"
+        "시스템·네트워크·인프라",
+        "90일"
       ]
     },
     {
@@ -744,48 +669,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "의사 대상 메디컬 플랫폼 백엔드 시스템 구축",
-      "url": "https://kmong.com/enterprise/requests/226509",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "60일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "아파트 지하주차장 교차로 천장형 방향 안내사인 디자인 시안 제작",
-      "url": "https://kmong.com/enterprise/requests/226507",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "인쇄용 홍보물 디자인",
-        "6일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "키(열쇠)함 관리 시스템 키오스크 UI디자인",
-      "url": "https://kmong.com/enterprise/requests/226504",
-      "budget": "5,500,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "22일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "실리코바이오 홈페이지 디자인",
       "url": "https://kmong.com/enterprise/requests/226495",
       "budget": "9,000,000원",
@@ -814,20 +697,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "공공기관 IT 프로젝트 PM",
-      "url": "https://kmong.com/enterprise/requests/226462",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "기획",
-        "PM・PO",
-        "150일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "Allwinner A40i 보드간헐적 멈춤 현상 분석",
       "url": "https://kmong.com/enterprise/requests/226473",
       "budget": "15,000,000원",
@@ -842,20 +711,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[상주] 서초 시스템 인프라 TA 3년 이상 초급",
-      "url": "https://kmong.com/enterprise/requests/226459",
-      "budget": "4,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "450일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[크몽] 분야별 IT 프리랜서 상시 모집",
       "url": "https://kmong.com/enterprise/requests/226444",
       "budget": "7,000,000원/월",
@@ -866,20 +721,6 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[로봇AI 스타트업] UI 디자이너 모집 (주2,3회)",
-      "url": "https://kmong.com/enterprise/requests/226431",
-      "budget": "3,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "디자인",
-        "웹·모바일 디자인",
-        "90일"
       ]
     },
     {
@@ -954,6 +795,62 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "의사 대상 메디컬 플랫폼 백엔드 시스템 구축",
+      "url": "https://kmong.com/enterprise/requests/226509",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "60일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "아파트 지하주차장 교차로 천장형 방향 안내사인 디자인 시안 제작",
+      "url": "https://kmong.com/enterprise/requests/226507",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "인쇄용 홍보물 디자인",
+        "6일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "키(열쇠)함 관리 시스템 키오스크 UI디자인",
+      "url": "https://kmong.com/enterprise/requests/226504",
+      "budget": "5,500,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "22일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "공공기관 IT 프로젝트 PM",
+      "url": "https://kmong.com/enterprise/requests/226462",
+      "budget": "6,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "기획",
+        "PM・PO",
+        "150일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "자체 포인트 적립솔루션 개발",
       "url": "https://kmong.com/enterprise/requests/226472",
       "budget": "3,000,000원/월",
@@ -1020,6 +917,20 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "93일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 서초 시스템 인프라 TA 3년 이상 초급",
+      "url": "https://kmong.com/enterprise/requests/226459",
+      "budget": "4,500,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "450일"
       ]
     },
     {
@@ -1132,6 +1043,20 @@
         "IT·프로그래밍",
         "기술지원",
         "180일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[로봇AI 스타트업] UI 디자이너 모집 (주2,3회)",
+      "url": "https://kmong.com/enterprise/requests/226431",
+      "budget": "3,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "디자인",
+        "웹·모바일 디자인",
+        "90일"
       ]
     },
     {
@@ -1855,26 +1780,6 @@
     },
     {
       "source": "나라장터",
-      "title": "[(주)한국능률협회컨설팅] 주식회사 비엔비케이_골프장코스관리시스템 데이터라벨링 및 AI 분석 모델 개발",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605576",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[(주)한국능률협회컨설팅] 주식회사 비엔비케이_스포츠 잔디식생지수(NDVI) 분석을 위한 드론 촬영 및 데이터 수집 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605578",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
       "title": "[한국항공우주연구원] 우주링크확장 소프트웨어 프로토타입 개발 기술 용역",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605588",
       "budget": "",
@@ -1897,6 +1802,26 @@
       "source": "나라장터",
       "title": "[재단법인 포항테크노파크] (다자간 전자시담) 실증현장 분석 및 데이터 수집 리빙랩 운영 용역",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605924",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국건강증진개발원] 데이터 기반 금연정책 홍보 성과 분석 및 전략 수립",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605736",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[순천향대학교 산학협력단] 단백체 및 전사체 융합 데이터 분석을 통한 PROTAC 기반 신약 타겟 유전자 발굴 분석",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605958",
       "budget": "",
       "posted_at": "",
       "tags": [
