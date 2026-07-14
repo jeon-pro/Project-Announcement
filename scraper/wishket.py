@@ -23,7 +23,11 @@ from bs4 import BeautifulSoup
 from common import HEADERS
 
 BASE_URL = "https://www.wishket.com/project/"
-MAX_PAGES = 5  # 최대 수집 페이지 수
+
+# 위시켓의 페이지네이션은 JS(search_project())로 동작해서
+# ?page=N 파라미터로는 항상 1페이지만 반환됨.
+# 내부 AJAX 엔드포인트 확인 전까지 1페이지만 수집.
+MAX_PAGES = 1
 
 
 def _parse_date(raw: str) -> str:
