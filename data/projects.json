@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T03:41:12.655454+00:00",
-  "count": 136,
+  "generated_at": "2026-07-14T03:16:23.667636+00:00",
+  "count": 131,
   "items": [
     {
       "source": "위시켓",
@@ -18,6 +18,50 @@
     },
     {
       "source": "위시켓",
+      "title": "자율주행 차량 FMS 및 웹서버 구축 백엔드 개발",
+      "url": "https://www.wishket.com/project/156872/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 결제 서비스 대외 연동 풀스택 개발",
+      "url": "https://www.wishket.com/project/156874/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "LLM 기반 에듀테크 AI 튜터 서비스 QA 테스트",
+      "url": "https://www.wishket.com/project/156875/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "쇼핑몰 웹 및 콘텐츠 디자이너",
+      "url": "https://www.wishket.com/project/156877/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
       "url": "https://www.wishket.com/project/156819/",
       "budget": "5,500,000원/월",
@@ -29,43 +73,10 @@
     },
     {
       "source": "위시켓",
-      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
-      "url": "https://www.wishket.com/project/156837/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
-      "url": "https://www.wishket.com/project/156821/",
-      "budget": "12,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
-      "url": "https://www.wishket.com/project/156798/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "nRF52 및 UWB 기반 3차원 위치 추적 디바이스 임베디드 펌웨어 개발 (재택 근무)",
-      "url": "https://www.wishket.com/project/156802/",
+      "title": "Python/FastAPI 기반 교육 플랫폼 AI 풀스택 개발",
+      "url": "https://www.wishket.com/project/156854/",
       "budget": "5,000,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제"
@@ -73,52 +84,47 @@
     },
     {
       "source": "위시켓",
-      "title": "AI/ML 기반 제조 및 물류 도메인 예측 및 최적화 모델 개발",
-      "url": "https://www.wishket.com/project/155950/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-06-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 대기업 웹사이트 개발 운영",
-      "url": "https://www.wishket.com/project/156806/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Kotlin · 경력 무관",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "React · 경력 무관",
-        "MySQL · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/MySQL 기반 AI 결빙 예측 데이터 파이프라인 엔지니어",
-      "url": "https://www.wishket.com/project/156812/",
+      "title": "React/Java 기반 레거시 시스템 전환 및 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/156852/",
       "budget": "3,500,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
-        "기간제"
+        "기간제",
+        "Nexacro · 1년 이상",
+        "React · 1년 이상",
+        "Java · 1년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156813/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-07-10",
+      "title": "Node.js/React/Flutter 기반 B2B 주문 및 운송 관리 서비스 풀스택 개발",
+      "url": "https://www.wishket.com/project/156851/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제",
-        "Apache · 경력 무관"
+        "Flutter · 2년 이상",
+        "React · 2년 이상",
+        "Java · 2년 이상",
+        "Node.js · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS 기반 워드프레스 뉴스룸 인프라 마이그레이션",
+      "url": "https://www.wishket.com/project/156855/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "AWS · 경력 무관",
+        "Azure · 경력 무관",
+        "WordPress · 경력 무관",
+        "PHP · 경력 무관",
+        "MySQL · 경력 무관"
       ]
     },
     {
@@ -137,6 +143,50 @@
     },
     {
       "source": "위시켓",
+      "title": "자율주행 차량 FMS 및 웹서버 구축 백엔드 개발",
+      "url": "https://www.wishket.com/project/156872/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 결제 서비스 대외 연동 풀스택 개발",
+      "url": "https://www.wishket.com/project/156874/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "LLM 기반 에듀테크 AI 튜터 서비스 QA 테스트",
+      "url": "https://www.wishket.com/project/156875/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "쇼핑몰 웹 및 콘텐츠 디자이너",
+      "url": "https://www.wishket.com/project/156877/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
       "url": "https://www.wishket.com/project/156819/",
       "budget": "5,500,000원/월",
@@ -148,43 +198,10 @@
     },
     {
       "source": "위시켓",
-      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
-      "url": "https://www.wishket.com/project/156837/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
-      "url": "https://www.wishket.com/project/156821/",
-      "budget": "12,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
-      "url": "https://www.wishket.com/project/156798/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "nRF52 및 UWB 기반 3차원 위치 추적 디바이스 임베디드 펌웨어 개발 (재택 근무)",
-      "url": "https://www.wishket.com/project/156802/",
+      "title": "Python/FastAPI 기반 교육 플랫폼 AI 풀스택 개발",
+      "url": "https://www.wishket.com/project/156854/",
       "budget": "5,000,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제"
@@ -192,52 +209,47 @@
     },
     {
       "source": "위시켓",
-      "title": "AI/ML 기반 제조 및 물류 도메인 예측 및 최적화 모델 개발",
-      "url": "https://www.wishket.com/project/155950/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-06-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 대기업 웹사이트 개발 운영",
-      "url": "https://www.wishket.com/project/156806/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Kotlin · 경력 무관",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "React · 경력 무관",
-        "MySQL · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/MySQL 기반 AI 결빙 예측 데이터 파이프라인 엔지니어",
-      "url": "https://www.wishket.com/project/156812/",
+      "title": "React/Java 기반 레거시 시스템 전환 및 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/156852/",
       "budget": "3,500,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
-        "기간제"
+        "기간제",
+        "Nexacro · 1년 이상",
+        "React · 1년 이상",
+        "Java · 1년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156813/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-07-10",
+      "title": "Node.js/React/Flutter 기반 B2B 주문 및 운송 관리 서비스 풀스택 개발",
+      "url": "https://www.wishket.com/project/156851/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제",
-        "Apache · 경력 무관"
+        "Flutter · 2년 이상",
+        "React · 2년 이상",
+        "Java · 2년 이상",
+        "Node.js · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS 기반 워드프레스 뉴스룸 인프라 마이그레이션",
+      "url": "https://www.wishket.com/project/156855/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "AWS · 경력 무관",
+        "Azure · 경력 무관",
+        "WordPress · 경력 무관",
+        "PHP · 경력 무관",
+        "MySQL · 경력 무관"
       ]
     },
     {
@@ -256,6 +268,50 @@
     },
     {
       "source": "위시켓",
+      "title": "자율주행 차량 FMS 및 웹서버 구축 백엔드 개발",
+      "url": "https://www.wishket.com/project/156872/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 결제 서비스 대외 연동 풀스택 개발",
+      "url": "https://www.wishket.com/project/156874/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "LLM 기반 에듀테크 AI 튜터 서비스 QA 테스트",
+      "url": "https://www.wishket.com/project/156875/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "쇼핑몰 웹 및 콘텐츠 디자이너",
+      "url": "https://www.wishket.com/project/156877/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
       "url": "https://www.wishket.com/project/156819/",
       "budget": "5,500,000원/월",
@@ -267,43 +323,10 @@
     },
     {
       "source": "위시켓",
-      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
-      "url": "https://www.wishket.com/project/156837/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
-      "url": "https://www.wishket.com/project/156821/",
-      "budget": "12,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
-      "url": "https://www.wishket.com/project/156798/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "nRF52 및 UWB 기반 3차원 위치 추적 디바이스 임베디드 펌웨어 개발 (재택 근무)",
-      "url": "https://www.wishket.com/project/156802/",
+      "title": "Python/FastAPI 기반 교육 플랫폼 AI 풀스택 개발",
+      "url": "https://www.wishket.com/project/156854/",
       "budget": "5,000,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제"
@@ -311,52 +334,47 @@
     },
     {
       "source": "위시켓",
-      "title": "AI/ML 기반 제조 및 물류 도메인 예측 및 최적화 모델 개발",
-      "url": "https://www.wishket.com/project/155950/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-06-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 대기업 웹사이트 개발 운영",
-      "url": "https://www.wishket.com/project/156806/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Kotlin · 경력 무관",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "React · 경력 무관",
-        "MySQL · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/MySQL 기반 AI 결빙 예측 데이터 파이프라인 엔지니어",
-      "url": "https://www.wishket.com/project/156812/",
+      "title": "React/Java 기반 레거시 시스템 전환 및 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/156852/",
       "budget": "3,500,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
-        "기간제"
+        "기간제",
+        "Nexacro · 1년 이상",
+        "React · 1년 이상",
+        "Java · 1년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156813/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-07-10",
+      "title": "Node.js/React/Flutter 기반 B2B 주문 및 운송 관리 서비스 풀스택 개발",
+      "url": "https://www.wishket.com/project/156851/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제",
-        "Apache · 경력 무관"
+        "Flutter · 2년 이상",
+        "React · 2년 이상",
+        "Java · 2년 이상",
+        "Node.js · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS 기반 워드프레스 뉴스룸 인프라 마이그레이션",
+      "url": "https://www.wishket.com/project/156855/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "AWS · 경력 무관",
+        "Azure · 경력 무관",
+        "WordPress · 경력 무관",
+        "PHP · 경력 무관",
+        "MySQL · 경력 무관"
       ]
     },
     {
@@ -375,6 +393,50 @@
     },
     {
       "source": "위시켓",
+      "title": "자율주행 차량 FMS 및 웹서버 구축 백엔드 개발",
+      "url": "https://www.wishket.com/project/156872/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 결제 서비스 대외 연동 풀스택 개발",
+      "url": "https://www.wishket.com/project/156874/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "LLM 기반 에듀테크 AI 튜터 서비스 QA 테스트",
+      "url": "https://www.wishket.com/project/156875/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "쇼핑몰 웹 및 콘텐츠 디자이너",
+      "url": "https://www.wishket.com/project/156877/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
       "url": "https://www.wishket.com/project/156819/",
       "budget": "5,500,000원/월",
@@ -386,43 +448,10 @@
     },
     {
       "source": "위시켓",
-      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
-      "url": "https://www.wishket.com/project/156837/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
-      "url": "https://www.wishket.com/project/156821/",
-      "budget": "12,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
-      "url": "https://www.wishket.com/project/156798/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "nRF52 및 UWB 기반 3차원 위치 추적 디바이스 임베디드 펌웨어 개발 (재택 근무)",
-      "url": "https://www.wishket.com/project/156802/",
+      "title": "Python/FastAPI 기반 교육 플랫폼 AI 풀스택 개발",
+      "url": "https://www.wishket.com/project/156854/",
       "budget": "5,000,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제"
@@ -430,52 +459,47 @@
     },
     {
       "source": "위시켓",
-      "title": "AI/ML 기반 제조 및 물류 도메인 예측 및 최적화 모델 개발",
-      "url": "https://www.wishket.com/project/155950/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-06-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 대기업 웹사이트 개발 운영",
-      "url": "https://www.wishket.com/project/156806/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Kotlin · 경력 무관",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "React · 경력 무관",
-        "MySQL · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/MySQL 기반 AI 결빙 예측 데이터 파이프라인 엔지니어",
-      "url": "https://www.wishket.com/project/156812/",
+      "title": "React/Java 기반 레거시 시스템 전환 및 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/156852/",
       "budget": "3,500,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
-        "기간제"
+        "기간제",
+        "Nexacro · 1년 이상",
+        "React · 1년 이상",
+        "Java · 1년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156813/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-07-10",
+      "title": "Node.js/React/Flutter 기반 B2B 주문 및 운송 관리 서비스 풀스택 개발",
+      "url": "https://www.wishket.com/project/156851/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제",
-        "Apache · 경력 무관"
+        "Flutter · 2년 이상",
+        "React · 2년 이상",
+        "Java · 2년 이상",
+        "Node.js · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS 기반 워드프레스 뉴스룸 인프라 마이그레이션",
+      "url": "https://www.wishket.com/project/156855/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "AWS · 경력 무관",
+        "Azure · 경력 무관",
+        "WordPress · 경력 무관",
+        "PHP · 경력 무관",
+        "MySQL · 경력 무관"
       ]
     },
     {
@@ -494,6 +518,50 @@
     },
     {
       "source": "위시켓",
+      "title": "자율주행 차량 FMS 및 웹서버 구축 백엔드 개발",
+      "url": "https://www.wishket.com/project/156872/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 결제 서비스 대외 연동 풀스택 개발",
+      "url": "https://www.wishket.com/project/156874/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "LLM 기반 에듀테크 AI 튜터 서비스 QA 테스트",
+      "url": "https://www.wishket.com/project/156875/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "쇼핑몰 웹 및 콘텐츠 디자이너",
+      "url": "https://www.wishket.com/project/156877/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "LLM 기반 AI Agent 개발 (Python / FastAPI)",
       "url": "https://www.wishket.com/project/156819/",
       "budget": "5,500,000원/월",
@@ -505,43 +573,10 @@
     },
     {
       "source": "위시켓",
-      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
-      "url": "https://www.wishket.com/project/156837/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
-      "url": "https://www.wishket.com/project/156821/",
-      "budget": "12,000,000원",
-      "posted_at": "2026-07-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
-      "url": "https://www.wishket.com/project/156798/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "nRF52 및 UWB 기반 3차원 위치 추적 디바이스 임베디드 펌웨어 개발 (재택 근무)",
-      "url": "https://www.wishket.com/project/156802/",
+      "title": "Python/FastAPI 기반 교육 플랫폼 AI 풀스택 개발",
+      "url": "https://www.wishket.com/project/156854/",
       "budget": "5,000,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제"
@@ -549,66 +584,117 @@
     },
     {
       "source": "위시켓",
-      "title": "AI/ML 기반 제조 및 물류 도메인 예측 및 최적화 모델 개발",
-      "url": "https://www.wishket.com/project/155950/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-06-09",
-      "work_type": "원격",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 대기업 웹사이트 개발 운영",
-      "url": "https://www.wishket.com/project/156806/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-10",
-      "work_type": "원격",
-      "tags": [
-        "기간제",
-        "Kotlin · 경력 무관",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "React · 경력 무관",
-        "MySQL · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/MySQL 기반 AI 결빙 예측 데이터 파이프라인 엔지니어",
-      "url": "https://www.wishket.com/project/156812/",
+      "title": "React/Java 기반 레거시 시스템 전환 및 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/156852/",
       "budget": "3,500,000원/월",
-      "posted_at": "2026-07-10",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
-        "기간제"
+        "기간제",
+        "Nexacro · 1년 이상",
+        "React · 1년 이상",
+        "Java · 1년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Apache Spark 기반 데이터 마트 구성 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/156813/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-07-10",
+      "title": "Node.js/React/Flutter 기반 B2B 주문 및 운송 관리 서비스 풀스택 개발",
+      "url": "https://www.wishket.com/project/156851/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-13",
       "work_type": "원격",
       "tags": [
         "기간제",
-        "Apache · 경력 무관"
+        "Flutter · 2년 이상",
+        "React · 2년 이상",
+        "Java · 2년 이상",
+        "Node.js · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS 기반 워드프레스 뉴스룸 인프라 마이그레이션",
+      "url": "https://www.wishket.com/project/156855/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "기간제",
+        "AWS · 경력 무관",
+        "Azure · 경력 무관",
+        "WordPress · 경력 무관",
+        "PHP · 경력 무관",
+        "MySQL · 경력 무관"
       ]
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[세종] 법제처 국가정보자원관리원 TA",
-      "url": "https://kmong.com/enterprise/requests/226548",
-      "budget": "8,000,000원/월",
+      "title": "부분 방전 검출 회로 및 펌웨어 개발",
+      "url": "https://kmong.com/enterprise/requests/226558",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "104일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[여의도] KB계정계 Starburst 권한 연계 개발",
+      "url": "https://kmong.com/enterprise/requests/226550",
+      "budget": "9,000,000원/월",
       "posted_at": "",
       "work_type": "상주",
       "tags": [
         "상주",
         "IT·프로그래밍",
-        "시스템·네트워크·인프라",
+        "프로그램 개발",
+        "150일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[강서] 경영관리 프로세스 개발 (Java,React)",
+      "url": "https://kmong.com/enterprise/requests/226551",
+      "budget": "7,500,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
         "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[마곡] 대기업 AWS 환경 운영 DBA (장기)",
+      "url": "https://kmong.com/enterprise/requests/226554",
+      "budget": "9,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "360일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "신규 교육서비스 론칭 광고소재 제작(상세페이지,영상)",
+      "url": "https://kmong.com/enterprise/requests/226552",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "마케팅",
+        "종합광고대행",
+        "30일"
       ]
     },
     {
@@ -735,6 +821,34 @@
         "IT·프로그래밍",
         "보안",
         "210일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[세종] 법제처 국가정보자원관리원 TA",
+      "url": "https://kmong.com/enterprise/requests/226548",
+      "budget": "8,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "위치기반 중개 플랫폼 개발",
+      "url": "https://kmong.com/enterprise/requests/226542",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "72일"
       ]
     },
     {
@@ -977,20 +1091,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "제조사 자사몰(고도몰) UX/UI  리뉴얼 PoC",
-      "url": "https://kmong.com/enterprise/requests/226441",
-      "budget": "5,500,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "IT컨설팅",
-        "84일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "2D X-ray기반 3D 골(뼈) 모형 재건 및 계측",
       "url": "https://kmong.com/enterprise/requests/226439",
       "budget": "11,000,000원",
@@ -1228,73 +1328,17 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[시청] 신한은행 프로젝트 React 개발자",
-      "url": "https://kmong.com/enterprise/requests/226392",
-      "budget": "7,000,000원/월",
-      "posted_at": "",
+      "source": "원티드긱스",
+      "title": "[상주] [구로] 행안부 재난안전 데이터 구축 (6개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14347",
+      "budget": "550~750만원 / 월급",
+      "posted_at": "2026-07-20",
       "work_type": "상주",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "330일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "홈페이지 리뉴얼 및 3D 컬러 뷰어 구현 (반응형)",
-      "url": "https://kmong.com/enterprise/requests/226377",
-      "budget": "20,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "121일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "특수 점착필름 쇼핑몰 리뉴얼 (반응형 웹)",
-      "url": "https://kmong.com/enterprise/requests/226371",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "91일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "양돈 농장 바이러스 분석 및 위험도 산출 SaaS 개발",
-      "url": "https://kmong.com/enterprise/requests/226365",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "151일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[홍대, 여의도] 대기업 Gen AI 개발 (파이썬)",
-      "url": "https://kmong.com/enterprise/requests/226362",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "AI",
-        "180일"
+        "PMO",
+        "QA 엔지니어링",
+        "QA,테스트 엔지니어",
+        "프로덕트 매니저"
       ]
     },
     {
@@ -1343,39 +1387,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [종로] SC제일은행 아파트관리비 시스템 구축 (채널PG연계) (5개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14335",
-      "budget": "550~680만원 / 월급",
-      "posted_at": "2026-08-03",
-      "work_type": "상주",
-      "tags": [
-        "React",
-        "Java",
-        "JavaScript",
-        "TCP",
-        "Spring Framework",
-        "Vue.js",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [시청/서울역] OK 저축은행 수신 프로젝트 (16개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14334",
-      "budget": "550~680만원 / 월급",
-      "posted_at": "2026-08-03",
-      "work_type": "상주",
-      "tags": [
-        "Oracle",
-        "Java",
-        "SQL",
-        "Shell Scripting",
-        "Spring Framework",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [시청]ㅁㅁ생명 차세대 시스템 구축 (6개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14333",
       "budget": "550~720만원 / 월급",
@@ -1385,20 +1396,6 @@
         "Oracle",
         "Java",
         "Spring Framework",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [문래] GS 리테일 개발 및 운영 (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14332",
-      "budget": "650~780만원 / 월급",
-      "posted_at": "2026-07-13",
-      "work_type": "상주",
-      "tags": [
-        "Java",
-        "Spring Boot",
-        "서버 개발자",
         "자바 개발자"
       ]
     },
@@ -1488,19 +1485,6 @@
         "PostgreSQL",
         "웹 개발자",
         "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [시흥] AI 업무자동화 Agent 개발 (12개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14304",
-      "budget": "450~500만원 / 월급",
-      "posted_at": "2026-08-10",
-      "work_type": "상주",
-      "tags": [
-        "Apache Airflow",
-        "LangChain",
-        "머신러닝 엔지니어"
       ]
     },
     {
@@ -1635,21 +1619,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [강남]삼성생명 [을지로] SK  AI 개발 및 ITSM 구축 (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14278",
-      "budget": "650~720만원 / 월급",
-      "posted_at": "2026-07-01",
-      "work_type": "상주",
-      "tags": [
-        "Java",
-        "Python",
-        "RAG",
-        "LLMOps",
-        "파이썬 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[상주] [중구] 인천공항 내 커머스 서비스 개발 (프론트) (8개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14277",
       "budget": "500~750만원 / 월급",
@@ -1685,20 +1654,32 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[원격/상주] [강남] 리베뉴캣을 이용한 글로벌 인앱결제 개발 (2개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14272",
-      "budget": "300~500만원 / 월급",
-      "posted_at": "2026-06-29",
+      "title": "[원격/상주] [여의도]LLM 기반 AI Agent 개발 (3개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14271",
+      "budget": "500~600만원 / 월급",
+      "posted_at": "2026-06-22",
       "work_type": "원격",
       "tags": [
-        "Redis",
-        "TypeScript",
-        "AWS",
-        "Apache Kafka",
-        "Kubernetes",
-        "Nest.js",
+        "Python",
+        "Machine Learning",
+        "FastAPI",
+        "소프트웨어 엔지니어",
+        "파이썬 개발자",
+        "머신러닝 엔지니어"
+      ]
+    },
+    {
+      "source": "원티드긱스",
+      "title": "[상주] [성남] FA개발(웹개발) 프로젝트 (3개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14253",
+      "budget": "500~800만원 / 월급",
+      "posted_at": "2026-06-30",
+      "work_type": "상주",
+      "tags": [
+        "Java",
+        "Spring Boot",
         "웹 개발자",
-        "서버 개발자"
+        "자바 개발자"
       ]
     },
     {
@@ -1750,22 +1731,6 @@
     },
     {
       "source": "원티드긱스",
-      "title": "[상주] [강서] LLM / NL2SQL 데이터 엔지니어 (6개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14215",
-      "budget": "500~600만원 / 월급",
-      "posted_at": "2026-07-01",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "SQL",
-        "Power BI",
-        "FastAPI",
-        "LLM 기반 업무 자동화 설계",
-        "데이터 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
       "title": "[원격/상주] AI agent 개발 용역 수행사 모집 (3개월)",
       "url": "https://www.wanted.co.kr/gigs/projects/14175",
       "budget": "500~5000만원 / 프로젝트 전체",
@@ -1779,9 +1744,21 @@
       ]
     },
     {
+      "source": "원티드긱스",
+      "title": "[상주] [종로][SC OBS 2차] 품질관리(QA) 모집 (특급) (6개월)",
+      "url": "https://www.wanted.co.kr/gigs/projects/14145",
+      "budget": "700~860만원 / 월급",
+      "posted_at": "2026-07-01",
+      "work_type": "상주",
+      "tags": [
+        "JIRA",
+        "QA,테스트 엔지니어"
+      ]
+    },
+    {
       "source": "나라장터",
-      "title": "[한국항공우주연구원] 우주링크확장 소프트웨어 프로토타입 개발 기술 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605588",
+      "title": "[분당서울대학교병원] 의생명연구원 통합 홈페이지 유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01608118",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -1790,8 +1767,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[제주국제자유도시개발센터] JDC 홈페이지 재구축 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01602997",
+      "title": "[인천광역시교육청] 인천교육종단연구 2차연도 질적 데이터 수집 위탁 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01607641",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -1800,28 +1777,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[재단법인 포항테크노파크] (다자간 전자시담) 실증현장 분석 및 데이터 수집 리빙랩 운영 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605924",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국건강증진개발원] 데이터 기반 금연정책 홍보 성과 분석 및 전략 수립",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605736",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[순천향대학교 산학협력단] 단백체 및 전사체 융합 데이터 분석을 통한 PROTAC 기반 신약 타겟 유전자 발굴 분석",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01605958",
+      "title": "[조달청 대전지방조달청] 경영정보시스템 기능개선 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01608074",
       "budget": "",
       "posted_at": "",
       "tags": [
