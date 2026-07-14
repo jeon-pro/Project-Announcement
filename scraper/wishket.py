@@ -1,17 +1,19 @@
 """
 위시켓(wishket.com) 프로젝트 의뢰 목록 크롤러.
 
-HTML 파일 분석 결과 확인된 실제 셀렉터 기준으로 구현.
-위시켓은 서버사이드 렌더링(SSR) 방식이라 requests로 직접 파싱 가능.
+위시켓은 필터 상태를 `d` 파라미터(base64 인코딩)로 전달한다.
+외주/상주를 각각 별도 URL로 요청해서 work_type을 확정하고,
+모집마감제외도 URL 단에서 처리된다.
+
+외주 + 모집마감제외: ?d=A4FwvCCGDODWD6AjGBTAJgMhQYzWAKgE4CuKQA%3D%3D
+상주 + 모집마감제외: ?d=A4FwvCCmBOC2D6AjAhgZ0gEwGSQMYbABVoBXSIA%3D
 
 카드 구조:
-  div.project-info-box          ← 공고 1건
-    a.project-link              ← 링크 + href
-      p.subtitle-1-half-medium  ← 공고 제목
-    p.budget
-      span.body-1-medium        ← 예산 (예: "협의 후 결정", "4,000,000원")
+  div.project-info-box
+    a.project-link              ← href + 제목(p태그)
+    p.budget span.body-1-medium ← 예산
     p.start-recruitment-data    ← "· 등록일자 2026.07.01."
-    span.skill-chip             ← 스킬 (여러 개)
+    span.skill-chip             ← 스킬 태그 (여러 개)
     div.project-type-mark       ← "외주" or "기간제"
 """
 
@@ -24,10 +26,11 @@ from common import HEADERS
 
 BASE_URL = "https://www.wishket.com/project/"
 
-# 위시켓의 페이지네이션은 JS(search_project())로 동작해서
-# ?page=N 파라미터로는 항상 1페이지만 반환됨.
-# 내부 AJAX 엔드포인트 확인 전까지 1페이지만 수집.
-MAX_PAGES = 1
+# 외주/상주 각각 모집마감제외 필터 적용된 URL 파라미터
+FILTER_URLS = [
+    ("원격", "A4FwvCCGDODWD6AjGBTAJgMhQYzWAKgE4CuKQA=="),  # 외주 + 모집마감제외
+    ("상주", "A4FwvCCmBOC2D6AjAhgZ0gEwGSQMYbABVoBXSIA="),  # 상주 + 모집마감제외
+]
 
 
 def _parse_date(raw: str) -> str:
@@ -38,7 +41,7 @@ def _parse_date(raw: str) -> str:
     return ""
 
 
-def _parse_cards(soup) -> list:
+def _parse_cards(soup, work_type: str) -> list:
     items = []
     cards = soup.select("div.project-info-box")
 
@@ -56,11 +59,6 @@ def _parse_cards(soup) -> list:
             href = link_tag.get("href", "")
             url = href if href.startswith("http") else f"https://www.wishket.com{href}"
 
-            # 모집 마감 제외 - "모집 중" 상태인 공고만 수집
-            status_el = card.select_one("div.recruiting-mark")
-            if not status_el or "모집 중" not in status_el.get_text():
-                continue
-
             # 예산
             budget_el = card.select_one("p.budget span.body-1-medium")
             budget = budget_el.get_text(strip=True) if budget_el else ""
@@ -69,7 +67,7 @@ def _parse_cards(soup) -> list:
             date_el = card.select_one("p.start-recruitment-data")
             posted_at = _parse_date(date_el.get_text()) if date_el else ""
 
-            # 스킬
+            # 스킬 태그
             skill_els = card.select("span.skill-chip")
             tags = [s.get_text(strip=True) for s in skill_els if s.get_text(strip=True)]
 
@@ -80,21 +78,14 @@ def _parse_cards(soup) -> list:
                 if type_text and type_text not in tags:
                     tags.insert(0, type_text)
 
-            # 근무형태 판별
-            type_text_lower = type_el.get_text(strip=True).lower() if type_el else ""
-            if "상주" in type_text_lower:
-                work_type = "상주"
-            else:
-                work_type = "원격"   # 위시켓 외주는 대부분 원격
-
             items.append({
-                "source": "위시켓",
-                "title": title,
-                "url": url,
-                "budget": budget,
+                "source":    "위시켓",
+                "title":     title,
+                "url":       url,
+                "budget":    budget,
                 "posted_at": posted_at,
-                "work_type": work_type,
-                "tags": tags[:8],
+                "work_type": work_type,  # URL 기준으로 확정
+                "tags":      tags[:8],
             })
         except Exception as e:
             print(f"[wishket] parse error: {e}")
@@ -103,37 +94,31 @@ def _parse_cards(soup) -> list:
     return items
 
 
-def fetch():
+def fetch() -> list:
     all_items = []
 
-    for page in range(1, MAX_PAGES + 1):
-        params = {"page": page}
+    for work_type, d_param in FILTER_URLS:
         try:
             res = requests.get(
                 BASE_URL,
-                params=params,
+                params={"d": d_param},
                 headers={
                     **HEADERS,
                     "Referer": "https://www.wishket.com/",
-                    "Accept": "text/html,application/xhtml+xml",
+                    "Accept":  "text/html,application/xhtml+xml",
                 },
                 timeout=15,
             )
             res.raise_for_status()
         except Exception as e:
-            print(f"[wishket] page {page} fetch failed: {e}")
-            break
+            print(f"[wishket] {work_type} fetch failed: {e}")
+            continue
 
         soup = BeautifulSoup(res.text, "html.parser")
-        items = _parse_cards(soup)
-        print(f"[wishket] page {page} → {len(items)}건")
-
-        if not items:
-            # 더 이상 공고 없으면 종료
-            break
-
+        items = _parse_cards(soup, work_type)
+        print(f"[wishket] {work_type} → {len(items)}건")
         all_items.extend(items)
-        time.sleep(0.8)  # 서버 부담 방지
+        time.sleep(0.8)
 
     return all_items
 
