@@ -1,14 +1,135 @@
 {
-  "generated_at": "2026-07-14T12:37:53.847189+00:00",
-  "count": 92,
+  "generated_at": "2026-07-14T12:46:57.575608+00:00",
+  "count": 102,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "가속/자이로 센서 활용 운전 패턴 분석 앱 및 통계 관리자 웹 구축",
+      "url": "https://www.wishket.com/project/156889/",
+      "budget": "30,000,000원",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "오픈소스 LLM/RAG 교육 플랫폼 보안 강화·SSO 연동·배포 자동화 (프로덕션 전환)",
+      "url": "https://www.wishket.com/project/156866/",
+      "budget": "7,000,000원",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "anythingllm",
+        "Docker",
+        "Linux(ubuntu)",
+        "Nginx",
+        "OIDC",
+        "RAG",
+        "saml"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "미리캔버스 웹/인쇄용 디자인 템플릿 정기 제작 (월 정산)",
+      "url": "https://www.wishket.com/project/152381/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-01-26",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "미리캔버스"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Flutter 기반 운세 앱 기능 고도화 및 관리자 페이지 수정",
+      "url": "https://www.wishket.com/project/156837/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "유아동 기질검사 결과지 PDF 자동 생성 프로그램 개발",
+      "url": "https://www.wishket.com/project/156821/",
+      "budget": "12,000,000원",
+      "posted_at": "2026-07-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "하이엔드 맞춤형 헬스케어 진단 및 솔루션 앱 구축",
+      "url": "https://www.wishket.com/project/156888/",
+      "budget": "40,000,000원",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "의료용 CT DICOM 뷰어 프로그램 개발 (C++ 기반)",
+      "url": "https://www.wishket.com/project/156797/",
+      "budget": "5,000,000원",
+      "posted_at": "2026-07-10",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "C++",
+        "MFC"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AI 학습용 이미지 수집",
+      "url": "https://www.wishket.com/project/156791/",
+      "budget": "3,000,000원",
+      "posted_at": "2026-07-10",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AI 실사 캐릭터 영상 제작 및 워크플로우 매뉴얼 구축",
+      "url": "https://www.wishket.com/project/156869/",
+      "budget": "7,000,000원",
+      "posted_at": "2026-07-14",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "자체 개발 학원 운영 프로그램 코드 리뷰 및 오프라인 자문",
+      "url": "https://www.wishket.com/project/156738/",
+      "budget": "200,000원",
+      "posted_at": "2026-07-08",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "HTML"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "커머스 플랫폼 기반 정산 및 지불 백오피스 기획",
       "url": "https://www.wishket.com/project/156561/",
       "budget": "5,000,000원/월",
       "posted_at": "2026-07-01",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제",
         "Jira/Confluence · 8년 이하",
@@ -22,7 +143,7 @@
       "url": "https://www.wishket.com/project/156872/",
       "budget": "3,000,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제"
       ]
@@ -33,7 +154,7 @@
       "url": "https://www.wishket.com/project/156874/",
       "budget": "6,500,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제"
       ]
@@ -44,7 +165,7 @@
       "url": "https://www.wishket.com/project/156875/",
       "budget": "3,500,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제"
       ]
@@ -55,7 +176,7 @@
       "url": "https://www.wishket.com/project/156877/",
       "budget": "3,700,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제"
       ]
@@ -66,7 +187,7 @@
       "url": "https://www.wishket.com/project/156881/",
       "budget": "4,500,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제",
         "Unity · 2년 이상"
@@ -78,7 +199,7 @@
       "url": "https://www.wishket.com/project/156882/",
       "budget": "6,000,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제",
         "Unity · 10년 이하",
@@ -92,7 +213,7 @@
       "url": "https://www.wishket.com/project/156883/",
       "budget": "4,000,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제",
         "GoogleAnalytics · 7년 이하",
@@ -107,7 +228,7 @@
       "url": "https://www.wishket.com/project/156887/",
       "budget": "7,000,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제",
         "Java · 경력 무관"
@@ -119,7 +240,7 @@
       "url": "https://www.wishket.com/project/156886/",
       "budget": "7,000,000원/월",
       "posted_at": "2026-07-14",
-      "work_type": "원격",
+      "work_type": "상주",
       "tags": [
         "기간제"
       ]
