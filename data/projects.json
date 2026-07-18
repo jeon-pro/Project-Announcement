@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T03:25:24.886222+00:00",
-  "count": 77,
+  "generated_at": "2026-07-18T03:14:38.152733+00:00",
+  "count": 72,
   "items": [
     {
       "source": "위시켓",
@@ -625,6 +625,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "그림 사진의 업스케일링을 통한 작품 및 작품집 생성",
+      "url": "https://kmong.com/enterprise/requests/226502",
+      "budget": "50,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "152일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "실리코바이오 홈페이지 디자인",
       "url": "https://kmong.com/enterprise/requests/226495",
       "budget": "9,000,000원",
@@ -946,23 +960,9 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[상주] 카드사 U2L 전환 프로젝트 BXM 경험 AA",
-      "url": "https://kmong.com/enterprise/requests/226410",
-      "budget": "8,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "240일"
-      ]
-    },
-    {
       "source": "나라장터",
-      "title": "[해양경찰청] GIS 위치정보시스템 통합구축 사업』감리 및 개인정보영향평가 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01614800",
+      "title": "[한국인터넷진흥원] 정보보호산업법의 데이터 기반 현황조사 및 정비 방안 연구",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01617022",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -971,58 +971,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청 대구지방조달청] 국립금오공과대학교 통합정보시스템 유지관리 사업",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01612474",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청] [정보화/중앙/바이오뱅크과] 연구목적 시체제공기관 통합관리 정보시스템 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01603091",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국산업단지공단] KICOX 경영정보시스템 근태관리 고도화 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01615157",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국화학연구원] 한국화합물은행 통합데이터플랫폼 관리 기능 고도화 및 업무지원 체계 개선",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01612017",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 서울지방조달청] 2026년 아동권리보장원 경영정보시스템 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01442447",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국석유관리원] 전산보고 서버 이관 및 중계소프트웨어 개발 사업(가격협상)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01615288",
+      "title": "[(사)중소기업기술혁신협회] 제6회 K-인공지능 제조데이터 분석 경진대회 및 K-제조 AI 그랜드 챌린지 행사 홍보,운영 대행",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01617106",
       "budget": "",
       "posted_at": "",
       "tags": [
