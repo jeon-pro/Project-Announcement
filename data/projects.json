@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T03:14:38.152733+00:00",
-  "count": 72,
+  "generated_at": "2026-07-19T03:35:04.802754+00:00",
+  "count": 73,
   "items": [
     {
       "source": "위시켓",
@@ -401,20 +401,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[상주] 여의도 은행 현대화 사업 PL급 개발자",
-      "url": "https://kmong.com/enterprise/requests/226526",
-      "budget": "8,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "480일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "제품 형상 설계, 제품 도면 작성",
       "url": "https://kmong.com/enterprise/requests/226488",
       "budget": "3,000,000원/월",
@@ -523,6 +509,20 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "91일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 여의도 은행 현대화 사업 PL급 개발자",
+      "url": "https://kmong.com/enterprise/requests/226526",
+      "budget": "8,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "480일"
       ]
     },
     {
@@ -973,6 +973,16 @@
       "source": "나라장터",
       "title": "[(사)중소기업기술혁신협회] 제6회 K-인공지능 제조데이터 분석 경진대회 및 K-제조 AI 그랜드 챌린지 행사 홍보,운영 대행",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01617106",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[신용보증기금] 신용보증기금 데이터 분석 플랫폼 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01617332",
       "budget": "",
       "posted_at": "",
       "tags": [
