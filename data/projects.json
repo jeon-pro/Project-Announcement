@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-21T03:29:08.987376+00:00",
-  "count": 74,
+  "generated_at": "2026-07-22T03:27:37.955569+00:00",
+  "count": 79,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "에어백 생산 설비 8개 라인 PLC 제어 판넬 연동 및 품목 추가 기능 개선",
+      "url": "https://www.wishket.com/project/157075/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-07-21",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "plc"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "리조트 통합 홈페이지 반응형 리뉴얼 및 ERP 연동 결제 예약 시스템 구축",
@@ -82,6 +94,17 @@
     },
     {
       "source": "위시켓",
+      "title": "사주/타로 정액제 전화상담 플랫폼 앱 및 관리자 웹 구축",
+      "url": "https://www.wishket.com/project/156960/",
+      "budget": "50,000,000원",
+      "posted_at": "2026-07-16",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "영어 회화 앱 하이클론 UI/UX 디자인 리뉴얼",
       "url": "https://www.wishket.com/project/156984/",
       "budget": "2,000,000원",
@@ -95,24 +118,45 @@
     },
     {
       "source": "위시켓",
-      "title": "커뮤니티 및 회사 리뷰 플랫폼 반응형 웹 구축",
-      "url": "https://www.wishket.com/project/156933/",
-      "budget": "15,000,000원",
-      "posted_at": "2026-07-15",
-      "work_type": "원격",
+      "title": "배달 앱 신규 서비스 기획 및 PM",
+      "url": "https://www.wishket.com/project/157093/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-07-22",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": "청년-지역 매칭 플랫폼 웹사이트 신규 개발",
-      "url": "https://www.wishket.com/project/156943/",
-      "budget": "8,000,000원",
-      "posted_at": "2026-07-15",
-      "work_type": "원격",
+      "title": "Python/LLM Agent 백엔드 개발자",
+      "url": "https://www.wishket.com/project/157094/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-22",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제",
+        "Python · 경력 무관",
+        "Docker · 경력 무관",
+        "Kubernetes · 경력 무관",
+        "Git · 경력 무관",
+        "restful api · 경력 무관",
+        "langchain · 경력 무관",
+        "langgraph · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React/Claude Code 기반 기획 및 프론트엔드 개발(싱가포르 상주/항공 및 숙박 제공)",
+      "url": "https://www.wishket.com/project/157098/",
+      "budget": "10,000,000원/월",
+      "posted_at": "2026-07-22",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Figma · 5년 이상",
+        "React · 7년 이상",
+        "vibe coding · 3년 이하"
       ]
     },
     {
@@ -126,6 +170,69 @@
         "기간제",
         "C++ · 경력 무관",
         "C · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "IT/SW 기반 교육 분야 프로젝트 관리(PM) 및 기획",
+      "url": "https://www.wishket.com/project/157072/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Android/C++(Qt) 기반 의료기기 소프트웨어 실무 교육 및 멘토링",
+      "url": "https://www.wishket.com/project/157068/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "C · 10년 이하",
+        "C++ · 10년 이하",
+        "Kotlin · 10년 이하",
+        "Qt · 10년 이하",
+        "Android · 10년 이하",
+        "STM32 · 10년 이하"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java 기반 이커머스 프로모션 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/157081/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-07-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "웹 기반 이커머스 프로모션 서비스 기획",
+      "url": "https://www.wishket.com/project/157078/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-07-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AAOS 기반 음악 서비스 APP 기획",
+      "url": "https://www.wishket.com/project/157085/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-07-22",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
       ]
     },
     {
@@ -146,100 +253,17 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Java 및 React 기반 SK하이닉스 GPIS 시스템 설계 및 구축",
-      "url": "https://www.wishket.com/project/157020/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-07-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "React · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "AWS RDS 기반 CMC/ESIM 데이터베이스 고도화",
-      "url": "https://www.wishket.com/project/157024/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "aws rds · 경력 무관",
-        "AWS · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/LLM 기반 특허 자동화 B2B SaaS AI 엔지니어 개발",
-      "url": "https://www.wishket.com/project/157034/",
+      "source": "크몽엔터프라이즈",
+      "title": "정산 및 지불 Back Office 기획 및 운영",
+      "url": "https://kmong.com/enterprise/requests/226577",
       "budget": "5,000,000원/월",
-      "posted_at": "2026-07-20",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "C++ 및 C# 기반 의료기기 콘솔 SW 및 DICOM 뷰어 개발",
-      "url": "https://www.wishket.com/project/157030/",
-      "budget": "600원/월",
-      "posted_at": "2026-07-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "C++, MFC · 10년 이상",
-        "c++/cli · 10년 이상",
-        "C# WPF · 5년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "LiteLLM 기반 AI 서비스 포털 백엔드 개발",
-      "url": "https://www.wishket.com/project/157040/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-07-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python 기반 CS AI Agent 개발",
-      "url": "https://www.wishket.com/project/157051/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-07-21",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "AI Agent · 경력 무관",
-        "Python · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "파생상품 거래 서비스 연계 백엔드 개발",
-      "url": "https://www.wishket.com/project/157053/",
-      "budget": "9,000,000원/월",
-      "posted_at": "2026-07-21",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "AI 업무자동화 솔루션 일본 시장 진출 PM",
-      "url": "https://www.wishket.com/project/157043/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-07-21",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
+        "상주",
+        "기획",
+        "PM・PO",
+        "180일"
       ]
     },
     {
@@ -296,20 +320,6 @@
         "영상·사진·음향",
         "AI 영상·음악",
         "98일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[서울역] 공공 DR구축 ISP (AA/TA/DA)",
-      "url": "https://kmong.com/enterprise/requests/226576",
-      "budget": "8,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "150일"
       ]
     },
     {
@@ -944,8 +954,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청 서울지방조달청] 마이데이터 지원 플랫폼 구축(3차)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01618849",
+      "title": "[산업연구원] 지역산업 종합정보시스템 구축 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01621948",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -954,8 +964,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[한국기계연구원] AI-Ready 데이터 확보를 위한  데이터 파이프라인 구축 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01619794",
+      "title": "[경남대학교 산학협력단] 2026년 반도체 후공정 장비(다이본더, 와이어본더)용 연계형 디지털 트윈 실습 소프트웨어 개발 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01622014",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -964,8 +974,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[구리시체육회(주민편익시설)] 홈페이지 및 회원관리프로그램 개발용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01619759",
+      "title": "[(재)광주테크노파크] 2026년 광주(기업 및 산업) 데이터 플랫폼 7차 고도화 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01622117",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -974,8 +984,58 @@
     },
     {
       "source": "나라장터",
-      "title": "[질병관리청 국립보건연구원] [정보화] 공공백신 종합 정보시스템 민간지원 유지관리",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01617868",
+      "title": "[국방과학연구소] (재공고) 국방지능데이터센터 시스템 통합 유지보수 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01621681",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[문화체육관광부 국립중앙극장] 2026년 국립중앙극장 정보시스템 고도화 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01617492",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 서울시복지재단] 데이터 통합 관리 시스템 고도화(2단계) 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01610391",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[국민연금공단] 2026년 국내주식 의안분석 데이터베이스 제공기관 선정",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01622064",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 서울시복지재단] 데이터 통합 관리 시스템 고도화(2단계) 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01622297",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 광주광역시 사회서비스원] 제3차 광주광역시 은둔형 외톨이 실태조사 데이터 구축을 위한 설문조사 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01622305",
       "budget": "",
       "posted_at": "",
       "tags": [
