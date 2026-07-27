@@ -1,7 +1,303 @@
 {
-  "generated_at": "2026-07-26T03:39:45.733074+00:00",
-  "count": 56,
+  "generated_at": "2026-07-27T03:49:28.471845+00:00",
+  "count": 75,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "Soildworks 데이터를 CATIA 데이터로 변환",
+      "url": "https://www.wishket.com/project/157178/",
+      "budget": "2,000,000원",
+      "posted_at": "2026-07-24",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "앱 구글 플레이 결제 라이브러리 v8.0.0 업데이트 및 경고 해결",
+      "url": "https://www.wishket.com/project/157143/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-24",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "네트워크 전관방송 시스템 개발 파트너 모집(다양한 제안 트랙 가능)",
+      "url": "https://www.wishket.com/project/157076/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-23",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "iOS 네이티브 카메라 필터 앱 개발",
+      "url": "https://www.wishket.com/project/157152/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-07-24",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "avfoundation",
+        "cameraX",
+        "Core Image",
+        "glsl",
+        "GPUImage",
+        "Kotlin",
+        "Metal"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "플레이오토 및 파스토 연동 초기 셋팅",
+      "url": "https://www.wishket.com/project/157116/",
+      "budget": "300,000원",
+      "posted_at": "2026-07-22",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "해외 바이어 B2B 무역 플랫폼 구축",
+      "url": "https://www.wishket.com/project/157156/",
+      "budget": "45,000,000원",
+      "posted_at": "2026-07-24",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "에어백 생산 설비 8개 라인 PLC 제어 판넬 연동 및 품목 추가 기능 개선",
+      "url": "https://www.wishket.com/project/157075/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-07-21",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "plc"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AEM 기반 웹사이트 웹접근성 갱신 및 UI/CSS 업데이트",
+      "url": "https://www.wishket.com/project/157200/",
+      "budget": "2,000,000원",
+      "posted_at": "2026-07-27",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "리조트 통합 홈페이지 반응형 리뉴얼 및 ERP 연동 결제 예약 시스템 구축",
+      "url": "https://www.wishket.com/project/156987/",
+      "budget": "70,000,000원",
+      "posted_at": "2026-07-20",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "VisualBasic"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "라즈베리파이 CM4 기반 출입제어장치 개발",
+      "url": "https://www.wishket.com/project/157028/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-20",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/MySQL 기반 AI 결빙 예측 데이터 파이프라인 엔지니어",
+      "url": "https://www.wishket.com/project/156812/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-07-10",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React Native 기반 모바일 앱 기술 멘토링 및 코드리뷰 (주 16시간, 재택)",
+      "url": "https://www.wishket.com/project/157187/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-07-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React Native · 경력 무관",
+        "next.js · 경력 무관",
+        "TypeScript · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Cisco 기반 외국계 기업 네트워크 인프라 L1 엔지니어",
+      "url": "https://www.wishket.com/project/157086/",
+      "budget": "2,200,000원/월",
+      "posted_at": "2026-07-27",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Azure 및 M365 기반 사내 IT 인프라 운영 및 기술 지원",
+      "url": "https://www.wishket.com/project/157168/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-07-27",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Vue 3/React 18 기반 커머스 및 권한 관리 시스템 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/157153/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-07-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "nuxt.js · 경력 무관",
+        "Vue.js · 경력 무관",
+        "pinia · 경력 무관",
+        "TypeScript · 경력 무관",
+        "React · 경력 무관",
+        "emotion · 경력 무관",
+        "MobX · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Javascript 기반 증권/금융 모바일 웹 화면 개발",
+      "url": "https://www.wishket.com/project/157159/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "JavaScript · 6년 이상",
+        "iOS · 6년 이상",
+        "Android · 6년 이상",
+        "Kotlin · 6년 이상",
+        "Xcode · 6년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "C언어 기반 금융자동화기기 펌웨어 개발",
+      "url": "https://www.wishket.com/project/157161/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-07-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "C · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React/AntD 기반 대기업 SI 웹 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/157164/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-07-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 7년 이상",
+        "antd · 3년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring Boot 기반 공정 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/157165/",
+      "budget": "6,500,000원/월",
+      "posted_at": "2026-07-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java · 8년 이상",
+        "Kafka · 2년 이상",
+        "k8s · 2년 이상",
+        "Spring Boot · 3년 이상",
+        "Airflow · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React 기반 MES 화면 기능 개발",
+      "url": "https://www.wishket.com/project/157166/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-07-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "MES · 경력 무관"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "스킨케어 브랜드 패키지 디자인 및 홍보물 제작",
+      "url": "https://kmong.com/enterprise/requests/226632",
+      "budget": "7,700,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "패키지·제품 디자인",
+        "42일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "주문배송 가능한 도시락 B2B 홈페이지 제작",
+      "url": "https://kmong.com/enterprise/requests/226639",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "28일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[상암] 메시징 인프라 구축 및 운영 (Linux)",
+      "url": "https://kmong.com/enterprise/requests/226641",
+      "budget": "6,500,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "360일"
+      ]
+    },
     {
       "source": "크몽엔터프라이즈",
       "title": "카발 RED AI 시네마틱 영상 제작(ASAP)",
@@ -32,20 +328,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[서대문] 총포화약관리시스템 UI 개선(웹/앱 디자인)",
-      "url": "https://kmong.com/enterprise/requests/226620",
-      "budget": "5,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "디자인",
-        "웹·모바일 디자인",
-        "60일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[시청] 금융권 파이썬 모듈 업그레이드",
       "url": "https://kmong.com/enterprise/requests/226619",
       "budget": "7,000,000원/월",
@@ -70,20 +352,6 @@
         "IT·프로그래밍",
         "데이터베이스",
         "210일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[강서] 경영관리 배치 개발(Oracle PL/SQL)",
-      "url": "https://kmong.com/enterprise/requests/226615",
-      "budget": "7,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "120일"
       ]
     },
     {
@@ -144,20 +412,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "웨어러블 연동 및 WCAG 2.2 접근성 컨설팅 프로젝트",
-      "url": "https://kmong.com/enterprise/requests/226585",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "모바일앱 개발",
-        "92일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "모바일 RPG 사운드 에셋(BGM·SFX) 외주 제작",
       "url": "https://kmong.com/enterprise/requests/226537",
       "budget": "15,000,000원",
@@ -200,6 +454,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "부분 방전 검출 회로 및 펌웨어 개발",
+      "url": "https://kmong.com/enterprise/requests/226558",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "104일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "[마곡] 대기업 AWS 환경 운영 DBA (장기)",
       "url": "https://kmong.com/enterprise/requests/226554",
       "budget": "9,000,000원/월",
@@ -210,20 +478,6 @@
         "IT·프로그래밍",
         "데이터베이스",
         "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "신규 교육서비스 론칭 광고소재 제작(상세페이지,영상)",
-      "url": "https://kmong.com/enterprise/requests/226552",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "마케팅",
-        "종합광고대행",
-        "30일"
       ]
     },
     {
@@ -312,6 +566,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "웨어러블 연동 및 WCAG 2.2 접근성 컨설팅 프로젝트",
+      "url": "https://kmong.com/enterprise/requests/226585",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "모바일앱 개발",
+        "92일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "진공챔버 테스트시스템 개발 및 PLC 제어시스템 개발",
       "url": "https://kmong.com/enterprise/requests/226563",
       "budget": "30,000,000원",
@@ -340,20 +608,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "부분 방전 검출 회로 및 펌웨어 개발",
-      "url": "https://kmong.com/enterprise/requests/226558",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "104일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[여의도] KB계정계 Starburst 권한 연계 개발",
       "url": "https://kmong.com/enterprise/requests/226550",
       "budget": "9,000,000원/월",
@@ -364,6 +618,20 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "150일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "신규 교육서비스 론칭 광고소재 제작(상세페이지,영상)",
+      "url": "https://kmong.com/enterprise/requests/226552",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "마케팅",
+        "종합광고대행",
+        "30일"
       ]
     },
     {
@@ -686,30 +954,6 @@
         "영상·사진·음향",
         "기업 유튜브 제작",
         "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "이러닝 콘텐츠 영상 디자인 시안",
-      "url": "https://kmong.com/enterprise/requests/226446",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "교육 영상 제작",
-        "28일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[경상북도 경주시] 경주화백컨벤션센터 CRM 서버 및 홈페이지 구축 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01628504",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     },
     {
