@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T03:37:32.834865+00:00",
+  "generated_at": "2026-08-02T03:37:17.412903+00:00",
   "count": 71,
   "items": [
     {
@@ -443,20 +443,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "굴착기 장비 및 현장 안전관리용 시제품 앱 개발",
-      "url": "https://kmong.com/enterprise/requests/226582",
-      "budget": "8,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "모바일앱 개발",
-        "54일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "Flutter 소개팅·라운지 앱 신규 개발",
       "url": "https://kmong.com/enterprise/requests/226637",
       "budget": "35,000,000원",
@@ -625,6 +611,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "굴착기 장비 및 현장 안전관리용 시제품 앱 개발",
+      "url": "https://kmong.com/enterprise/requests/226582",
+      "budget": "8,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "모바일앱 개발",
+        "54일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "자사 신제품 관리 웹페이지 및 에이전트 UI 퍼블리싱",
       "url": "https://kmong.com/enterprise/requests/226627",
       "budget": "8,000,000원",
@@ -733,6 +733,20 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[강서] 경영관리 배치 개발(Oracle PL/SQL)",
+      "url": "https://kmong.com/enterprise/requests/226615",
+      "budget": "7,500,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "120일"
       ]
     },
     {
@@ -943,20 +957,6 @@
         "IT·프로그래밍",
         "시스템·네트워크·인프라",
         "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "위치기반 중개 플랫폼 개발",
-      "url": "https://kmong.com/enterprise/requests/226542",
-      "budget": "15,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "72일"
       ]
     },
     {
