@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T02:05:42.029120+00:00",
-  "count": 74,
+  "generated_at": "2026-08-09T02:16:40.519346+00:00",
+  "count": 70,
   "items": [
     {
       "source": "위시켓",
@@ -492,20 +492,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[상주] DR센터 구축 ISP 고특급 AA/TA",
-      "url": "https://kmong.com/enterprise/requests/226492",
-      "budget": "9,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "IT컨설팅",
-        "180일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[크몽] 분야별 IT 프리랜서 상시 모집",
       "url": "https://kmong.com/enterprise/requests/226444",
       "budget": "7,000,000원/월",
@@ -516,6 +502,20 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "360일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "Simphony POS 결제연동 솔루션 홍보영상 제작",
+      "url": "https://kmong.com/enterprise/requests/226712",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "영상·사진·음향",
+        "광고 영상 제작",
+        "20일"
       ]
     },
     {
@@ -964,46 +964,6 @@
         "IT·프로그래밍",
         "시스템·네트워크·인프라",
         "360일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[주식회사 포드림] 실시간 데이터 수집을 위한 배터리 연결 커넥터 제작 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01650388",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국소비자원] AI 데이터 분석 활용 환경 구축 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01650403",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[국립금오공과대학교산학협력단] 인공지능 예지보전을 위한 시계열 드론 및 공간정보 데이터셋 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01649645",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[재단법인 차세대융합기술연구원] 2026년 미래모빌리티 소프트웨어 전문인력 양성 실습 교육 행사 대행 용역(재공고)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01650873",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     }
   ]
