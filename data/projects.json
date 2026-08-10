@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T02:16:40.519346+00:00",
-  "count": 70,
+  "generated_at": "2026-08-10T02:22:33.517168+00:00",
+  "count": 73,
   "items": [
     {
       "source": "위시켓",
@@ -86,6 +86,17 @@
     },
     {
       "source": "위시켓",
+      "title": "출고량 기반 총판·대리점 수당 정산 WEB 시스템",
+      "url": "https://www.wishket.com/project/157556/",
+      "budget": "35,000,000원",
+      "posted_at": "2026-08-10",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "O2O 플랫폼 통합 브랜드(BI/BX) 구축",
       "url": "https://www.wishket.com/project/157362/",
       "budget": "15,000,000원",
@@ -118,17 +129,6 @@
     },
     {
       "source": "위시켓",
-      "title": "기업-평가위원 자동 배정 API 개발(기존 웹사이트 연동)",
-      "url": "https://www.wishket.com/project/157444/",
-      "budget": "1,500,000원",
-      "posted_at": "2026-08-06",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "교육 콘텐츠 문제은행 웹 플랫폼 풀스택 개발",
       "url": "https://www.wishket.com/project/157206/",
       "budget": "6,000,000원/월",
@@ -147,6 +147,31 @@
     },
     {
       "source": "위시켓",
+      "title": "대기업 통신사 AA(Application Architect)",
+      "url": "https://www.wishket.com/project/157528/",
+      "budget": "7,800,000원/월",
+      "posted_at": "2026-08-10",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 Admin API 및 웹 개발",
+      "url": "https://www.wishket.com/project/157557/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-08-10",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "JAVA, JSP, Spring Framework · 5년 이하",
+        "React · 5년 이하",
+        "TypeScript · 5년 이하"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "Python 기반 자율비행 경진대회 AI 및 비전 인식 멘토링",
       "url": "https://www.wishket.com/project/157140/",
       "budget": "1,000,000원/월",
@@ -156,6 +181,28 @@
         "기간제",
         "Python · 3년 이상",
         "C · 3년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "데이터센터 보안장비 운영 유지보수",
+      "url": "https://www.wishket.com/project/157543/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-10",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "데이터센터 네트워크 및 L4 기술지원",
+      "url": "https://www.wishket.com/project/157544/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-10",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
       ]
     },
     {
@@ -216,54 +263,17 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Java/Spring Framework 기반 보험사 프로젝트 PL",
-      "url": "https://www.wishket.com/project/157413/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-08-06",
+      "source": "크몽엔터프라이즈",
+      "title": "PMO(2년 이상) 채용",
+      "url": "https://kmong.com/enterprise/requests/226730",
+      "budget": "4,000,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Java · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/React 기반 공공기관 구 시스템 전환 풀스택 개발",
-      "url": "https://www.wishket.com/project/157480/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-06",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "React · 경력 무관",
-        "Java · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/Spring/Kotlin 기반 대기업 물류시스템 백엔드 개발",
-      "url": "https://www.wishket.com/project/157481/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-06",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring · 경력 무관",
-        "AWS · 경력 무관",
-        "코틀린 · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Figma 기반 증권사 MTS 프로젝트 UI/UX 기획",
-      "url": "https://www.wishket.com/project/157482/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-06",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
+        "상주",
+        "기획",
+        "PM・PO",
+        "360일"
       ]
     },
     {
@@ -394,20 +404,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "React 기반 신기술사업 실적관리Web 구축 및 진단",
-      "url": "https://kmong.com/enterprise/requests/226700",
-      "budget": "15,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "32일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "무인 스티커 키오스크 서비스 브랜드 전략 BI/BX",
       "url": "https://kmong.com/enterprise/requests/226688",
       "budget": "20,000,000원",
@@ -418,34 +414,6 @@
         "디자인",
         "브랜드 디자인·가이드",
         "61일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "DLP 3D Printer Interface 개발",
-      "url": "https://kmong.com/enterprise/requests/226691",
-      "budget": "50,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "하드웨어",
-        "143일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "미용실 고객 설문지 디지털화 및 데이터 관리 시스템 구축",
-      "url": "https://kmong.com/enterprise/requests/226676",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "67일"
       ]
     },
     {
@@ -548,6 +516,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "React 기반 신기술사업 실적관리Web 구축 및 진단",
+      "url": "https://kmong.com/enterprise/requests/226700",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "32일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "[모바일 웹 UI 디자인] 아이돌 카드 맞추기 미니게임",
       "url": "https://kmong.com/enterprise/requests/226695",
       "budget": "2,500,000원",
@@ -614,6 +596,34 @@
         "기획",
         "PM・PO",
         "210일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "DLP 3D Printer Interface 개발",
+      "url": "https://kmong.com/enterprise/requests/226691",
+      "budget": "50,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "143일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "미용실 고객 설문지 디지털화 및 데이터 관리 시스템 구축",
+      "url": "https://kmong.com/enterprise/requests/226676",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "67일"
       ]
     },
     {
@@ -953,17 +963,33 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[상암] 메시징 인프라 구축 및 운영 (Linux)",
-      "url": "https://kmong.com/enterprise/requests/226641",
-      "budget": "6,500,000원/월",
+      "source": "나라장터",
+      "title": "[국립금오공과대학교산학협력단] 인공지능 예지보전을 위한 시계열 드론 및 공간정보 데이터셋 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01649645",
+      "budget": "",
       "posted_at": "",
-      "work_type": "상주",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "360일"
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 차세대융합기술연구원] 2026년 미래모빌리티 소프트웨어 전문인력 양성 실습 교육 행사 대행 용역(재공고)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01650873",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[농협경제지주(주)젖소개량사업소] 젖소개량사업소 홈페이지 고도화 개발 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01650815",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
