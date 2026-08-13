@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-12T02:30:52.039837+00:00",
-  "count": 72,
+  "generated_at": "2026-08-13T02:32:38.654527+00:00",
+  "count": 70,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "B2B 의료 통역 SaaS 자동 결제 시스템 정책 및 로직 설계",
+      "url": "https://www.wishket.com/project/157642/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-08-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "모바일 게임 백엔드 구축 기술 지원 및 서버·보안 최적화 컨설팅",
+      "url": "https://www.wishket.com/project/157619/",
+      "budget": "18,000,000원",
+      "posted_at": "2026-08-12",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "상용 소프트웨어 수준의 코드 난독화 방법론 자문 및 코드 분석",
+      "url": "https://www.wishket.com/project/157641/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "전기차 충전기 관제(CSMS) 백엔드 시스템 및 VPP 연동 API 구축",
@@ -88,43 +121,10 @@
     },
     {
       "source": "위시켓",
-      "title": "EMS 연동 피크제어 및 Auto-DR 서버 백엔드 개발",
-      "url": "https://www.wishket.com/project/157477/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-08-06",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Airtable 기반 원단 데이터 관리 및 라벨 출력 시스템 세팅",
-      "url": "https://www.wishket.com/project/157503/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-08-07",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "라이브커머스 방송 성과 수집·리포트 자동화 시스템 구축",
-      "url": "https://www.wishket.com/project/157500/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-08-07",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "현장 서비스 관리(FSM) 모바일 웹 백엔드 구축 및 프론트 연동",
-      "url": "https://www.wishket.com/project/157442/",
-      "budget": "20,000,000원",
-      "posted_at": "2026-08-05",
+      "title": "총판·대리점 수당 자동정산 + B2B 간편주문 통합 웹 플랫폼 신규 구축",
+      "url": "https://www.wishket.com/project/157624/",
+      "budget": "50,000,000원",
+      "posted_at": "2026-08-13",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -136,6 +136,17 @@
       "url": "https://www.wishket.com/project/157419/",
       "budget": "9,000,000원/월",
       "posted_at": "2026-08-04",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "반응형 기업 홈페이지 웹 개발 (주 20시간, 재택 혼합)",
+      "url": "https://www.wishket.com/project/157646/",
+      "budget": "2,000,000원/월",
+      "posted_at": "2026-08-13",
       "work_type": "상주",
       "tags": [
         "기간제"
@@ -168,6 +179,51 @@
         "Python · 경력 무관",
         "Agentic AI · 경력 무관",
         "agent · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "C++ 및 C# 기반 의료기기 콘솔 SW 및 DICOM 뷰어 개발",
+      "url": "https://www.wishket.com/project/157631/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-08-12",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "C++, MFC · 10년 이상",
+        "c++/cli · 10년 이상",
+        "C# WPF · 5년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "C/C++ 기반 노래방 반주기 임베디드 소프트웨어 개발",
+      "url": "https://www.wishket.com/project/157620/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-08-12",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "C++ · 경력 무관",
+        "C · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "SpringBoot 기반 스토어 연동 백엔드 리팩토링 (2주 근무)",
+      "url": "https://www.wishket.com/project/157634/",
+      "budget": "2,000,000원/월",
+      "posted_at": "2026-08-12",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "WSL · 경력 무관",
+        "Aurora MySQL · 경력 무관",
+        "Java · 경력 무관",
+        "IntelliJ · 경력 무관",
+        "MySQL · 경력 무관",
+        "Spring Boot · 경력 무관",
+        "AWS · 경력 무관"
       ]
     },
     {
@@ -209,54 +265,17 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Python/MySQL 기반 AI 결빙 예측 데이터 파이프라인 엔지니어",
-      "url": "https://www.wishket.com/project/157602/",
-      "budget": "3,500,000원/월",
-      "posted_at": "2026-08-11",
+      "source": "크몽엔터프라이즈",
+      "title": "GTA5 기반 (FiveM)",
+      "url": "https://kmong.com/enterprise/requests/226762",
+      "budget": "6,000,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 제로페이 신규 서비스 및 유지보수 백엔드 개발",
-      "url": "https://www.wishket.com/project/157607/",
-      "budget": "4,500,000원/월",
-      "posted_at": "2026-08-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring · 경력 무관",
-        "PostgreSQL · 경력 무관",
-        "Jex framework · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React/Java 기반 금융기관 정보자원관리시스템 구축 PM",
-      "url": "https://www.wishket.com/project/157608/",
-      "budget": "8,500,000원/월",
-      "posted_at": "2026-08-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "pm · 10년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/Kubernetes 기반 산업용 AI MLOps 파이프라인 백엔드 개발",
-      "url": "https://www.wishket.com/project/157610/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Python · 경력 무관",
-        "Kubernetes · 경력 무관"
+        "상주",
+        "IT·프로그래밍",
+        "게임",
+        "360일"
       ]
     },
     {
@@ -943,40 +962,6 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "어나더선데이 인스타그램 트래픽 및 팔로워 증대 광고 집행",
-      "url": "https://kmong.com/enterprise/requests/226654",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "마케팅",
-        "퍼포먼스 마케팅",
-        "60일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[안동과학대학교 산학협력단] 안동과학대학교 차세대통합정보시스템 구축 감리 용역 입찰(긴급)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01655584",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[주식회사 과학기술전략연구소] 항체의약품 특화 오송 AI 바이오 데이터센터 구축을 위한 정보화전략계획(ISP) 수립",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01655666",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     }
   ]
