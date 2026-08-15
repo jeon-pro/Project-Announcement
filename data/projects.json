@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-14T02:30:53.021095+00:00",
-  "count": 70,
+  "generated_at": "2026-08-15T01:40:38.266930+00:00",
+  "count": 75,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "장례식장 예약 및 용품 견적 플랫폼 구축",
+      "url": "https://www.wishket.com/project/157672/",
+      "budget": "20,000,000원",
+      "posted_at": "2026-08-14",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "중고차 B2B 경공매 통합 플랫폼 구축",
@@ -79,16 +90,12 @@
     {
       "source": "위시켓",
       "title": "Wordpress 기반 프리미엄 예술심리 브랜드 하이엔드 웹사이트 구축",
-      "url": "https://www.wishket.com/project/157559/",
-      "budget": "8,000,000원",
-      "posted_at": "2026-08-10",
+      "url": "https://www.wishket.com/project/157680/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-08-14",
       "work_type": "원격",
       "tags": [
-        "외주",
-        "CSS",
-        "JavaScript",
-        "UI/UX 디자인",
-        "web design"
+        "외주"
       ]
     },
     {
@@ -109,17 +116,6 @@
       "url": "https://www.wishket.com/project/157578/",
       "budget": "2,000,000원",
       "posted_at": "2026-08-11",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "AI 기반 제조 구매/재고 관리 및 통계 대시보드 웹 개발",
-      "url": "https://www.wishket.com/project/157651/",
-      "budget": "70,000,000원",
-      "posted_at": "2026-08-14",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -217,31 +213,40 @@
     },
     {
       "source": "위시켓",
-      "title": "JAVA 중급 SM 유지보수 백엔드 개발자",
-      "url": "https://www.wishket.com/project/157271/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-07-29",
+      "title": "Python/Kubernetes 기반 산업용 AI MLOps 파이프라인 백엔드 개발",
+      "url": "https://www.wishket.com/project/157678/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-14",
       "work_type": "상주",
       "tags": [
         "기간제",
-        "Java · 5년 이상",
-        "k8s · 2년 이상",
-        "Kafka · 2년 이상"
+        "Python · 경력 무관",
+        "Kubernetes · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "AI Agent/LLM 기반 B2C·B2B 서비스 기획 및 PM",
-      "url": "https://www.wishket.com/project/157614/",
-      "budget": "5,500,000원/월",
-      "posted_at": "2026-08-12",
+      "title": "PyTorch/Python 기반 산업용 비전 AI 리뷰 필터링 시스템 MLE",
+      "url": "https://www.wishket.com/project/157679/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-14",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "PRD · 경력 무관",
-        "Python · 경력 무관",
-        "Agentic AI · 경력 무관",
-        "agent · 경력 무관"
+        "기간제"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "건강식품 이커머스 통합 마케팅 및 콘텐츠·영상 제작",
+      "url": "https://kmong.com/enterprise/requests/226781",
+      "budget": "10,750,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "마케팅",
+        "종합광고대행",
+        "58일"
       ]
     },
     {
@@ -344,16 +349,16 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "앱 UI/UX 및 랜딩페이지, 로고 디자인 고도화",
-      "url": "https://kmong.com/enterprise/requests/226740",
-      "budget": "5,000,000원",
+      "title": "모니터거치대 제품 마케팅 전략 진단 및 바이럴 대행",
+      "url": "https://kmong.com/enterprise/requests/226756",
+      "budget": "6,000,000원",
       "posted_at": "",
       "work_type": "원격",
       "tags": [
         "외주",
-        "디자인",
-        "웹·모바일 디자인",
-        "34일"
+        "마케팅",
+        "종합광고대행",
+        "71일"
       ]
     },
     {
@@ -442,20 +447,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "무인 스티커 키오스크 서비스 브랜드 전략 BI/BX",
-      "url": "https://kmong.com/enterprise/requests/226688",
-      "budget": "20,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "브랜드 디자인·가이드",
-        "61일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "정산 및 지불 Back Office 기획 및 운영",
       "url": "https://kmong.com/enterprise/requests/226577",
       "budget": "5,000,000원/월",
@@ -484,20 +475,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "모니터거치대 제품 마케팅 전략 진단 및 바이럴 대행",
-      "url": "https://kmong.com/enterprise/requests/226756",
-      "budget": "6,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "마케팅",
-        "종합광고대행",
-        "71일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "환자이송시스템 소개 영상 (2D 모션그래픽 or AI)",
       "url": "https://kmong.com/enterprise/requests/226757",
       "budget": "5,000,000원",
@@ -522,6 +499,20 @@
         "마케팅",
         "콘텐츠 마케팅·브랜디드 콘텐츠",
         "91일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "앱 UI/UX 및 랜딩페이지, 로고 디자인 고도화",
+      "url": "https://kmong.com/enterprise/requests/226740",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "웹·모바일 디자인",
+        "34일"
       ]
     },
     {
@@ -736,6 +727,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "무인 스티커 키오스크 서비스 브랜드 전략 BI/BX",
+      "url": "https://kmong.com/enterprise/requests/226688",
+      "budget": "20,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "브랜드 디자인·가이드",
+        "61일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "DLP 3D Printer Interface 개발",
       "url": "https://kmong.com/enterprise/requests/226691",
       "budget": "50,000,000원",
@@ -931,17 +936,53 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "상품권 매입 홈페이지 구축",
-      "url": "https://kmong.com/enterprise/requests/226602",
-      "budget": "5,000,000원",
+      "source": "나라장터",
+      "title": "[케이지아이씨티 주식회사] 가상환경 기반 사이버보안 검증 데이터 관리 및 모니터링 시스템 개발",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661660",
+      "budget": "",
       "posted_at": "",
-      "work_type": "원격",
       "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "81일"
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(주) 셀빅] 드라마 로케이션 데이터셋 제작 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01654673",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[아주대학교 산학협력단] 아주대학교 데이터보안·활용융합분야 CO-SHOW 행사 기획 및 운영업체 선정 입찰",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661792",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국콘텐츠진흥원] 2025~26년 한국콘텐츠진흥원 정보시스템 통합위탁운영(2차년도) 감리 위탁용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661902",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 충북지방조달청] 청주시 홈페이지 통합유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661783",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
