@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:40:38.266930+00:00",
-  "count": 75,
+  "generated_at": "2026-08-16T01:48:31.082284+00:00",
+  "count": 70,
   "items": [
     {
       "source": "위시켓",
@@ -391,20 +391,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[종로] 글로벌 금융사 DB 운영 및 유지보수",
-      "url": "https://kmong.com/enterprise/requests/226739",
-      "budget": "6,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "데이터베이스",
-        "150일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[역삼] 클라우드 보안 구축/운영 (DevSecOps)",
       "url": "https://kmong.com/enterprise/requests/226736",
       "budget": "6,000,000원/월",
@@ -429,20 +415,6 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "홀로그램 연동 키오스크 외관 디자인 및 시제품 제작",
-      "url": "https://kmong.com/enterprise/requests/226709",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "패키지·제품 디자인",
-        "38일"
       ]
     },
     {
@@ -545,6 +517,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "[종로] 글로벌 금융사 DB 운영 및 유지보수",
+      "url": "https://kmong.com/enterprise/requests/226739",
+      "budget": "6,500,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "150일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "Simphony POS 결제연동 솔루션 홍보영상 제작",
       "url": "https://kmong.com/enterprise/requests/226712",
       "budget": "5,000,000원",
@@ -555,6 +541,20 @@
         "영상·사진·음향",
         "광고 영상 제작",
         "20일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "홀로그램 연동 키오스크 외관 디자인 및 시제품 제작",
+      "url": "https://kmong.com/enterprise/requests/226709",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "패키지·제품 디자인",
+        "38일"
       ]
     },
     {
@@ -933,56 +933,6 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "98일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[케이지아이씨티 주식회사] 가상환경 기반 사이버보안 검증 데이터 관리 및 모니터링 시스템 개발",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661660",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[(주) 셀빅] 드라마 로케이션 데이터셋 제작 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01654673",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[아주대학교 산학협력단] 아주대학교 데이터보안·활용융합분야 CO-SHOW 행사 기획 및 운영업체 선정 입찰",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661792",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국콘텐츠진흥원] 2025~26년 한국콘텐츠진흥원 정보시스템 통합위탁운영(2차년도) 감리 위탁용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661902",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 충북지방조달청] 청주시 홈페이지 통합유지관리 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01661783",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     }
   ]
