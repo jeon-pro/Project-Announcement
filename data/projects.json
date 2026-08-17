@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T01:48:31.082284+00:00",
+  "generated_at": "2026-08-17T01:45:57.400785+00:00",
   "count": 70,
   "items": [
     {
@@ -112,10 +112,10 @@
     },
     {
       "source": "위시켓",
-      "title": "채용 플랫폼 공고 상세페이지 디자인 제작",
-      "url": "https://www.wishket.com/project/157578/",
-      "budget": "2,000,000원",
-      "posted_at": "2026-08-11",
+      "title": "HMI 패널 PC용 Single Board(마더보드) 설계 개발",
+      "url": "https://www.wishket.com/project/157571/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-10",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -377,20 +377,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[중구] 대기업 웹 서비스 개발 및 운영 프로젝트",
-      "url": "https://kmong.com/enterprise/requests/226738",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[역삼] 클라우드 보안 구축/운영 (DevSecOps)",
       "url": "https://kmong.com/enterprise/requests/226736",
       "budget": "6,000,000원/월",
@@ -443,6 +429,20 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "360일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "스팀 출시 인디 게임 UI/UX 디자인 전체 제작",
+      "url": "https://kmong.com/enterprise/requests/226759",
+      "budget": "7,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "게임 그래픽 디자인",
+        "140일"
       ]
     },
     {
@@ -513,6 +513,20 @@
         "디자인",
         "웹·모바일 디자인",
         "74일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[중구] 대기업 웹 서비스 개발 및 운영 프로젝트",
+      "url": "https://kmong.com/enterprise/requests/226738",
+      "budget": "6,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "360일"
       ]
     },
     {
@@ -919,20 +933,6 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "AR 기반iOS 하이브리드 안경 커머스앱 MVP 구축",
-      "url": "https://kmong.com/enterprise/requests/226658",
-      "budget": "30,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "98일"
       ]
     }
   ]
