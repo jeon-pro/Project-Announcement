@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:45:57.400785+00:00",
+  "generated_at": "2026-08-18T01:40:46.697367+00:00",
   "count": 70,
   "items": [
     {
@@ -71,6 +71,24 @@
     },
     {
       "source": "위시켓",
+      "title": "Vision AI 기반 스포츠 대회 사진 대용량 자동 분류 및 매칭",
+      "url": "https://www.wishket.com/project/157700/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-08-18",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "amazon s3",
+        "AWS",
+        "celery",
+        "Docker",
+        "fastapi",
+        "OCR",
+        "OpenCV"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "전기차 충전기 관제(CSMS) 백엔드 시스템 및 VPP 연동 API 구축",
       "url": "https://www.wishket.com/project/157595/",
       "budget": "45,000,000원",
@@ -108,17 +126,6 @@
       "tags": [
         "외주",
         "next.js"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "HMI 패널 PC용 Single Board(마더보드) 설계 개발",
-      "url": "https://www.wishket.com/project/157571/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-10",
-      "work_type": "원격",
-      "tags": [
-        "외주"
       ]
     },
     {
