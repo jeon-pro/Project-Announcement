@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T01:43:09.781296+00:00",
-  "count": 70,
+  "generated_at": "2026-08-20T01:41:37.914668+00:00",
+  "count": 73,
   "items": [
     {
       "source": "위시켓",
@@ -11,6 +11,24 @@
       "work_type": "원격",
       "tags": [
         "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "복지관 이용자 통합관리 배리어프리 키오스크 프로그램 개발",
+      "url": "https://www.wishket.com/project/157751/",
+      "budget": "25,000,000원",
+      "posted_at": "2026-08-19",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "C++",
+        "JavaScript",
+        "Node.js",
+        "Payment Gateway Integration",
+        "Python",
+        "React",
+        "Rest api"
       ]
     },
     {
@@ -40,13 +58,32 @@
     },
     {
       "source": "위시켓",
-      "title": "공공·시설 안내형 반응형 홈페이지 구축",
-      "url": "https://www.wishket.com/project/157733/",
-      "budget": "20,000,000원",
-      "posted_at": "2026-08-18",
+      "title": "사내 업무/사건 관리 Airtable 시스템 고도화",
+      "url": "https://www.wishket.com/project/157736/",
+      "budget": "5,500,000원",
+      "posted_at": "2026-08-19",
       "work_type": "원격",
       "tags": [
-        "외주"
+        "외주",
+        "Airtable"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "여행 커머스 사이트 재구축 (WordPress → Next.js)",
+      "url": "https://www.wishket.com/project/157764/",
+      "budget": "30,000,000원",
+      "posted_at": "2026-08-19",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "Data Migration",
+        "next.js",
+        "Node.js",
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "woocommerce"
       ]
     },
     {
@@ -85,35 +122,19 @@
     },
     {
       "source": "위시켓",
-      "title": "B2B 의료 통역 SaaS 자동 결제 시스템 정책 및 로직 설계",
-      "url": "https://www.wishket.com/project/157642/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-08-13",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "봉사대원 복지 리워드 플랫폼/앱 개발",
-      "url": "https://www.wishket.com/project/157741/",
-      "budget": "30,000,000원",
+      "title": "스마트횡단보도 시스템SW개발 (HW제외)",
+      "url": "https://www.wishket.com/project/157648/",
+      "budget": "120,000,000원",
       "posted_at": "2026-08-19",
       "work_type": "원격",
       "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "모바일 게임 백엔드 구축 기술 지원 및 서버·보안 최적화 컨설팅",
-      "url": "https://www.wishket.com/project/157619/",
-      "budget": "18,000,000원",
-      "posted_at": "2026-08-12",
-      "work_type": "원격",
-      "tags": [
-        "외주"
+        "외주",
+        "AWS",
+        "C++",
+        "Edge",
+        "Fast API",
+        "Python",
+        "React"
       ]
     },
     {
@@ -146,6 +167,90 @@
     },
     {
       "source": "위시켓",
+      "title": "PG 선불시스템 기반 결제 정산 및 RM 기획",
+      "url": "https://www.wishket.com/project/157755/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-08-19",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "JavaScript/HTML 기반 증권사 MTS 화면 개발",
+      "url": "https://www.wishket.com/project/157760/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-08-19",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "HTML/CSS 기반 증권사 MTS 화면 퍼블리싱",
+      "url": "https://www.wishket.com/project/157761/",
+      "budget": "5,300,000원/월",
+      "posted_at": "2026-08-19",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Databricks 기반 생명보험사 데이터 플랫폼 구축 데이터 엔지니어",
+      "url": "https://www.wishket.com/project/157766/",
+      "budget": "12,000,000원/월",
+      "posted_at": "2026-08-20",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AI 기반 생명보험사 시스템 구축 에이전트 개발",
+      "url": "https://www.wishket.com/project/157765/",
+      "budget": "11,000,000원/월",
+      "posted_at": "2026-08-20",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "agent 개발 · 1년 이상",
+        "Python · 6년 이상",
+        "langchain · 경력 무관",
+        "langgraph · 경력 무관",
+        "RAG · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Databricks 기반 데이터 플랫폼 구축 데이터 엔지니어",
+      "url": "https://www.wishket.com/project/157463/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-08-05",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Databricks · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Claude Code 활용 서비스 포털 분석·설계·개발·테스트",
+      "url": "https://www.wishket.com/project/157464/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-08-05",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Claude Code · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "Python LangChain 기반 AI Agent 개발 (급구)",
       "url": "https://www.wishket.com/project/157419/",
       "budget": "9,000,000원/월",
@@ -156,90 +261,31 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "React / Cloudflare 기반 뷰티 콘텐츠 웹앱 풀스택 개발 (부분 재택)",
-      "url": "https://www.wishket.com/project/157689/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-08-18",
+      "source": "크몽엔터프라이즈",
+      "title": "[서울역] 영업지원 시스템 구축(Next Kotlin)",
+      "url": "https://kmong.com/enterprise/requests/226808",
+      "budget": "7,200,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "180일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Java/Nexacro 기반 자동차 판매법인 업무시스템 개발",
-      "url": "https://www.wishket.com/project/157701/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-18",
+      "source": "크몽엔터프라이즈",
+      "title": "[강남] 계정계 시스템 개발 (Java, DB2)",
+      "url": "https://kmong.com/enterprise/requests/226809",
+      "budget": "7,200,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "API연동 · 경력 무관",
-        "Nexacro · 경력 무관",
-        "Spring Boot · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/Spring 기반 사내 제안 및 과제관리 시스템 고도화 개발",
-      "url": "https://www.wishket.com/project/157719/",
-      "budget": "4,300,000원/월",
-      "posted_at": "2026-08-18",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Web3.js 기반 블록체인 플랫폼 백엔드 개발",
-      "url": "https://www.wishket.com/project/157696/",
-      "budget": "3,500,000원/월",
-      "posted_at": "2026-08-18",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Defi · 3년 이하",
-        "web3.js · 5년 이하"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 온라인 교육 서비스 백엔드 개발",
-      "url": "https://www.wishket.com/project/157732/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-18",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "MySQL · 경력 무관",
-        "Redis · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "인테리어 플랫폼 신규 서비스 기획",
-      "url": "https://www.wishket.com/project/157667/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-08-14",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React 기반 차세대 PG 백오피스 풀스택 개발",
-      "url": "https://www.wishket.com/project/157669/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-08-14",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Spring Boot, Spring Batch, React, Oracle · 경력 무관"
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "120일"
       ]
     },
     {
@@ -338,20 +384,6 @@
         "IT·프로그래밍",
         "보안",
         "60일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "Blender3D+ComfyUI 생성형AI 애니 컷제작",
-      "url": "https://kmong.com/enterprise/requests/226782",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "3D 애니메이션",
-        "91일"
       ]
     },
     {
@@ -520,6 +552,20 @@
         "마케팅",
         "종합광고대행",
         "58일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "Blender3D+ComfyUI 생성형AI 애니 컷제작",
+      "url": "https://kmong.com/enterprise/requests/226782",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "영상·사진·음향",
+        "3D 애니메이션",
+        "91일"
       ]
     },
     {
@@ -915,31 +961,33 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "건설현장 공종별 이미지 데이터 수집·라벨링·전처리",
-      "url": "https://kmong.com/enterprise/requests/226679",
-      "budget": "26,230,000원",
+      "source": "나라장터",
+      "title": "[경북대학교병원] 급성 뇌졸중 AI 검출, 진단 보조 소프트웨어 렌탈(재공고)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01668770",
+      "budget": "",
       "posted_at": "",
-      "work_type": "원격",
       "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "AI",
-        "89일"
+        "공공입찰"
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[문래] 통신사 SM 개발자 (React, Java)",
-      "url": "https://kmong.com/enterprise/requests/226683",
-      "budget": "6,000,000원/월",
+      "source": "나라장터",
+      "title": "[재단법인 국립극단] 국립극단 홈페이지 통합 구축 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01668826",
+      "budget": "",
       "posted_at": "",
-      "work_type": "상주",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "90일"
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 서울지방조달청] 외교 개방인프라 데이터 확대 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01668747",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
