@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T01:46:43.086625+00:00",
-  "count": 74,
+  "generated_at": "2026-08-22T01:40:12.167781+00:00",
+  "count": 70,
   "items": [
     {
       "source": "위시켓",
@@ -121,10 +121,10 @@
     },
     {
       "source": "위시켓",
-      "title": "중고차 B2B 경공매 통합 플랫폼 구축",
-      "url": "https://www.wishket.com/project/157653/",
-      "budget": "100,000,000원",
-      "posted_at": "2026-08-13",
+      "title": "회원제 커뮤니티 및 모임 웹서비스 MVP 개발",
+      "url": "https://www.wishket.com/project/157716/",
+      "budget": "5,000,000원",
+      "posted_at": "2026-08-21",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -139,6 +139,21 @@
       "work_type": "상주",
       "tags": [
         "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Vue 기반 반응형 웹 퍼블리싱",
+      "url": "https://www.wishket.com/project/157573/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-08-10",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "CSS · 경력 무관",
+        "JavaScript · 경력 무관",
+        "HTML5 · 경력 무관",
+        "Vue.js · 경력 무관"
       ]
     },
     {
@@ -197,66 +212,71 @@
     },
     {
       "source": "위시켓",
-      "title": "유치원 어린이집 교사용 업무 지원 앱 서비스 기획",
-      "url": "https://www.wishket.com/project/157779/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-08-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "JavaScript 기반 증권 MTS 모바일 웹 화면 개발",
-      "url": "https://www.wishket.com/project/157788/",
+      "title": "Kotlin /Spring Boot 기반 백엔드 개발",
+      "url": "https://www.wishket.com/project/157818/",
       "budget": "6,000,000원/월",
-      "posted_at": "2026-08-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Flutter 기반 유아교육 AI 서비스 모바일 앱 개발",
-      "url": "https://www.wishket.com/project/157787/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-08-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "VC++/MFC 기반 양산 테스트 설비 제어 프로그램 개발",
-      "url": "https://www.wishket.com/project/157796/",
-      "budget": "10,500,000원/월",
-      "posted_at": "2026-08-20",
+      "posted_at": "2026-08-21",
       "work_type": "상주",
       "tags": [
         "기간제",
-        "MFC · 7년 이상",
-        "VC++ · 7년 이상"
+        "Kotlin · 경력 무관",
+        "Spring Boot · 경력 무관",
+        "Redis · 경력 무관",
+        "MySQL · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "WebSquare5 기반 공공 및 금융 시스템 UI 개발 (재택)",
-      "url": "https://www.wishket.com/project/157794/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-20",
+      "title": "Node.js/TypeScript 기반 AI 마케팅 에이전트 풀스택 개발 (주 36시간)",
+      "url": "https://www.wishket.com/project/157815/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-08-21",
       "work_type": "상주",
       "tags": [
         "기간제",
+        "Node.js · 경력 무관",
+        "Express · 경력 무관",
+        "TypeScript · 경력 무관",
         "JavaScript · 경력 무관",
-        "xml · 경력 무관",
-        "HTML5 · 경력 무관",
-        "CSS3 · 경력 무관",
-        "Rest api · 경력 무관",
-        "JSON · 경력 무관",
-        "websquare5 · 경력 무관"
+        "next.js · 경력 무관",
+        "React · 경력 무관",
+        "MySQL · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/LLM 기반 생성형 AI 서비스 개발",
+      "url": "https://www.wishket.com/project/157778/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "생명보험 콜센터 시스템 개발 및 유지보수",
+      "url": "https://www.wishket.com/project/157820/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "전기 분전반 개발",
+      "url": "https://kmong.com/enterprise/requests/226792",
+      "budget": "8,800,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "31일"
       ]
     },
     {
@@ -411,20 +431,6 @@
         "IT·프로그래밍",
         "보안",
         "60일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "파워빌더 기반 제조업 관리 시스템 운영 및 유지보수",
-      "url": "https://kmong.com/enterprise/requests/226774",
-      "budget": "6,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "150일"
       ]
     },
     {
@@ -957,46 +963,6 @@
         "IT·프로그래밍",
         "웹사이트 개발",
         "67일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[서울특별시 서남병원] 의료정보시스템 전산운영 및 유지관리 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01670767",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 부산지방조달청] 2026년 정보화사업부 정보시스템 통합감리 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01664688",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[(재)군포산업진흥원] 진흥원 홈페이지 재구축 용역(긴급)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01671105",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국과학기술정보연구원] 과학기술산업화 플랫폼 활성화를 위한 데이터 관련 법⋅제도 대응 방안 연구",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01671367",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     }
   ]
