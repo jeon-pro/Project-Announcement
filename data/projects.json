@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T01:49:47.941979+00:00",
+  "generated_at": "2026-08-24T01:47:25.584708+00:00",
   "count": 71,
   "items": [
     {
@@ -99,10 +99,23 @@
     },
     {
       "source": "위시켓",
-      "title": "장례식장 예약 및 용품 견적 플랫폼 구축",
-      "url": "https://www.wishket.com/project/157672/",
+      "title": "자사 플랫폼 통합을 위한 신규 쇼핑몰 구축 및 백오피스 고도화",
+      "url": "https://www.wishket.com/project/157851/",
       "budget": "20,000,000원",
-      "posted_at": "2026-08-14",
+      "posted_at": "2026-08-24",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "Nestjs",
+        "React"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "기업 네이버 블로그 전면 리뉴얼 기획 및 디자인",
+      "url": "https://www.wishket.com/project/157858/",
+      "budget": "2,500,000원",
+      "posted_at": "2026-08-24",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -110,21 +123,10 @@
     },
     {
       "source": "위시켓",
-      "title": "초음파 마사지기 1MHz 출력 PCB/회로 설계",
-      "url": "https://www.wishket.com/project/157508/",
+      "title": "여행 커뮤니티 모바일 앱 MVP 구축",
+      "url": "https://www.wishket.com/project/157854/",
       "budget": "5,000,000원",
-      "posted_at": "2026-08-21",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "회원제 커뮤니티 및 모임 웹서비스 MVP 개발",
-      "url": "https://www.wishket.com/project/157716/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-08-21",
+      "posted_at": "2026-08-24",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -171,6 +173,18 @@
         "Spark · 1년 이상",
         "Python · 4년 이상",
         "Java · 1년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 UI/UX 디자이너",
+      "url": "https://www.wishket.com/project/157859/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-24",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Figma · 3년 이상"
       ]
     },
     {
@@ -247,17 +261,6 @@
       "source": "위시켓",
       "title": "Python/LLM 기반 생성형 AI 서비스 개발",
       "url": "https://www.wishket.com/project/157778/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-21",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "생명보험 콜센터 시스템 개발 및 유지보수",
-      "url": "https://www.wishket.com/project/157820/",
       "budget": "협의 후 결정",
       "posted_at": "2026-08-21",
       "work_type": "상주",
@@ -463,34 +466,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[로봇AI스타트업] UI 디자이너 모집",
-      "url": "https://kmong.com/enterprise/requests/226775",
-      "budget": "4,200,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "디자인",
-        "웹·모바일 디자인",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[의왕] 금융 컴플라이언스 Azure 랜딩존 구축 TA",
-      "url": "https://kmong.com/enterprise/requests/226776",
-      "budget": "9,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "클라우드",
-        "120일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "금융권(보험사) SI 프로젝트 PL",
       "url": "https://kmong.com/enterprise/requests/226714",
       "budget": "8,000,000원/월",
@@ -557,6 +532,34 @@
         "영상·사진·음향",
         "3D 애니메이션",
         "91일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[로봇AI스타트업] UI 디자이너 모집",
+      "url": "https://kmong.com/enterprise/requests/226775",
+      "budget": "4,200,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "디자인",
+        "웹·모바일 디자인",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[의왕] 금융 컴플라이언스 Azure 랜딩존 구축 TA",
+      "url": "https://kmong.com/enterprise/requests/226776",
+      "budget": "9,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "클라우드",
+        "120일"
       ]
     },
     {
