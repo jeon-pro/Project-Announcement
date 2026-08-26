@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T01:41:43.734557+00:00",
-  "count": 73,
+  "generated_at": "2026-08-26T01:47:31.880267+00:00",
+  "count": 74,
   "items": [
     {
       "source": "위시켓",
@@ -165,6 +165,17 @@
     },
     {
       "source": "위시켓",
+      "title": "Linux 기반 금융권 P-CLOUD 마이그레이션 지원",
+      "url": "https://www.wishket.com/project/157925/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-08-26",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "React/Java 기반 금융기관 정보자원관리시스템 개발",
       "url": "https://www.wishket.com/project/157893/",
       "budget": "6,000,000원/월",
@@ -195,55 +206,39 @@
     },
     {
       "source": "위시켓",
-      "title": "GCP/AWS 기반 AI 비정형 주문 처리 시스템 아키텍처 설계 (주 4일 재택)",
-      "url": "https://www.wishket.com/project/157579/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-08-11",
+      "title": "Labview 기반 인포테인먼트 검사기 시스템 개발",
+      "url": "https://www.wishket.com/project/157883/",
+      "budget": "5,800,000원/월",
+      "posted_at": "2026-08-25",
       "work_type": "상주",
       "tags": [
         "기간제",
-        "NoSQL · 경력 무관",
-        "GCP · 경력 무관",
-        "AWS · 경력 무관",
-        "SQL · 경력 무관",
-        "SQL Server · 경력 무관"
+        "labview · 5년 이상",
+        "Serial 통신 · 5년 이상",
+        "DMM · 5년 이상",
+        "PLC 통신 · 5년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Kubernetes/Airflow 기반 데이터 ETL 플랫폼 및 파이프라인 개발",
-      "url": "https://www.wishket.com/project/157568/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-08-10",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "ETL · 4년 이상",
-        "k8s · 3년 이상",
-        "Airflow · 2년 이상",
-        "Spark · 1년 이상",
-        "Python · 4년 이상",
-        "Java · 1년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Figma 기반 산업용 반응형 플랫폼 UI/UX 디자인",
-      "url": "https://www.wishket.com/project/157859/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-24",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Figma · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/PyTorch 기반 제조 도메인 LLM AI 추론 모델 개발",
-      "url": "https://www.wishket.com/project/157862/",
+      "title": "Electron/TypeScript 기반 의료 실시간 처방 점검 플랫폼 풀스택 개발",
+      "url": "https://www.wishket.com/project/157894/",
       "budget": "5,000,000원/월",
-      "posted_at": "2026-08-24",
+      "posted_at": "2026-08-25",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Nestjs · 경력 무관",
+        "GraphQL · 경력 무관",
+        "React Native · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/Snowflake/AWS 기반 AI Agent 및 데이터 플랫폼 구축 사업 수행 PM",
+      "url": "https://www.wishket.com/project/157892/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-25",
       "work_type": "상주",
       "tags": [
         "기간제"
@@ -251,42 +246,52 @@
     },
     {
       "source": "위시켓",
-      "title": "Elastic Search/Java 기반 검색 시스템 고도화 개발",
-      "url": "https://www.wishket.com/project/157861/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-24",
+      "title": "세금 계산 및 세무 데이터 처리 시스템 개발 (재택 근무 가능)",
+      "url": "https://www.wishket.com/project/157896/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-08-25",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Java · 5~12년",
-        "Elasticsearch · 5~12년"
+        "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Vue/JavaScript 기반 웹 프런트엔드 개발",
-      "url": "https://www.wishket.com/project/157863/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-24",
+      "title": "네트워크/클라우드 보안 기반 사이버보안 훈련과정 강의",
+      "url": "https://www.wishket.com/project/157904/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-08-25",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Vue.js · 경력 무관",
-        "JavaScript · 경력 무관"
+        "기간제"
       ]
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[천안] 한국기술교육대학교 AI 교육 사업 PM",
-      "url": "https://kmong.com/enterprise/requests/226854",
-      "budget": "3,700,000원/월",
+      "title": "[삼성역/안산] 앵귤러 프론트 웹 가시화 개발",
+      "url": "https://kmong.com/enterprise/requests/226853",
+      "budget": "6,000,000원/월",
       "posted_at": "",
       "work_type": "상주",
       "tags": [
         "상주",
         "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
+        "프로그램 개발",
         "150일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[안산] AlmaLinux OS 업데이트 스크립트 개발",
+      "url": "https://kmong.com/enterprise/requests/226856",
+      "budget": "7,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "90일"
       ]
     },
     {
@@ -525,6 +530,20 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "360일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[천안] 한국기술교육대학교 AI 교육 사업 PM",
+      "url": "https://kmong.com/enterprise/requests/226854",
+      "budget": "3,700,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "150일"
       ]
     },
     {
@@ -948,37 +967,9 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "무인 스티커 키오스크 서비스 브랜드 전략 BI/BX",
-      "url": "https://kmong.com/enterprise/requests/226688",
-      "budget": "20,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "브랜드 디자인·가이드",
-        "61일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "DLP 3D Printer Interface 개발",
-      "url": "https://kmong.com/enterprise/requests/226691",
-      "budget": "50,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "하드웨어",
-        "143일"
-      ]
-    },
-    {
       "source": "나라장터",
-      "title": "[주식회사 라임씨에스아이] 산업용 무선통신망 통합관제 NMS 소프트웨어 개발 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01675470",
+      "title": "[엔에이치엔클라우드 주식회사] 천안시 거점형 스마트도시 조성사업 클라우드 기반 통합 데이터 플랫폼 구축 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01678079",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -987,8 +978,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청 서울지방조달청] 마이데이터 지원 플랫폼 구축(3차) 감리 및 개인정보 영향평가",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01668046",
+      "title": "[한국철도기술연구원] 지방광역권 철도 확충을 위한 경제적 가치 및 정책지원 분석을 위한 카드사용 데이터 DB 구매",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01678196",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -997,8 +988,18 @@
     },
     {
       "source": "나라장터",
-      "title": "[해양수산부 국립수산과학원] AI-Ready 데이터(멀티모달) 플랫폼 구축 기획연구",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01674888",
+      "title": "[(재)지능형자동차부품진흥원] (재공고)경남 하동 자율주행 시범운행지구 도로데이터 수집 및 가상환경 구축 용역 (긴급)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01678256",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[국방과학연구소] (재공고) VxWorks 7 소프트웨어 유지보수",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01678523",
       "budget": "",
       "posted_at": "",
       "tags": [
