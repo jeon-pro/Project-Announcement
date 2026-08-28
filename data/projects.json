@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-27T08:52:19.699585+00:00",
-  "count": 70,
+  "generated_at": "2026-08-28T11:04:49.053433+00:00",
+  "count": 74,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "가방 키링(참) NFC 태그로 보는 운세·사주 모바일 웹 구축",
+      "url": "https://www.wishket.com/project/158004/",
+      "budget": "8,000,000원",
+      "posted_at": "2026-08-28",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "항공용 디스플레이 내장형 컴퓨터 모듈 개발 (방산/항공)",
+      "url": "https://www.wishket.com/project/157606/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-08-11",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "운영 중인 웹사이트 4개 상시 유지보수 (월 단위)",
@@ -67,21 +89,10 @@
     },
     {
       "source": "위시켓",
-      "title": "아임웹 연동 패키지 여행사 전용 ERP 신규 구축 (행사·예약·정산·통계)",
-      "url": "https://www.wishket.com/project/157941/",
-      "budget": "20,000,000원",
-      "posted_at": "2026-08-27",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "폐기물 수거 앱 React Native 전환",
-      "url": "https://www.wishket.com/project/157949/",
+      "url": "https://www.wishket.com/project/157995/",
       "budget": "15,000,000원",
-      "posted_at": "2026-08-27",
+      "posted_at": "2026-08-28",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -89,10 +100,10 @@
     },
     {
       "source": "위시켓",
-      "title": "아임웹 기반 액세서리 자사몰 구축",
-      "url": "https://www.wishket.com/project/157974/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-08-27",
+      "title": "보고서 QR 연동 관리 플랫폼 신규 구축",
+      "url": "https://www.wishket.com/project/157993/",
+      "budget": "10,000,000원",
+      "posted_at": "2026-08-28",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -100,10 +111,10 @@
     },
     {
       "source": "위시켓",
-      "title": "소상공인 현장진단·컨설팅 실습형 강사모집(4개 권역)",
-      "url": "https://www.wishket.com/project/157978/",
-      "budget": "3,000,000원",
-      "posted_at": "2026-08-27",
+      "title": "스마트폰 내장 센서로 화면 터치 충격 강도 수치화 검증 (iOS)",
+      "url": "https://www.wishket.com/project/158003/",
+      "budget": "1,500,000원",
+      "posted_at": "2026-08-28",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -111,20 +122,27 @@
     },
     {
       "source": "위시켓",
-      "title": "복지관 이용자 통합관리 배리어프리 키오스크 프로그램 개발",
-      "url": "https://www.wishket.com/project/157751/",
-      "budget": "25,000,000원",
-      "posted_at": "2026-08-19",
-      "work_type": "원격",
+      "title": "Databricks 기반 데이터 플랫폼 구축 데이터 엔지니어",
+      "url": "https://www.wishket.com/project/157463/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-08-05",
+      "work_type": "상주",
       "tags": [
-        "외주",
-        "C++",
-        "JavaScript",
-        "Node.js",
-        "Payment Gateway Integration",
-        "Python",
-        "React",
-        "Rest api"
+        "기간제",
+        "Databricks · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Web3.js 기반 블록체인 플랫폼 백엔드 개발",
+      "url": "https://www.wishket.com/project/157696/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-08-18",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Defi · 3년 이하",
+        "web3.js · 5년 이하"
       ]
     },
     {
@@ -193,6 +211,21 @@
     },
     {
       "source": "위시켓",
+      "title": "Kotlin /Spring Boot 기반 백엔드 개발",
+      "url": "https://www.wishket.com/project/157818/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-08-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Kotlin · 경력 무관",
+        "Spring Boot · 경력 무관",
+        "Redis · 경력 무관",
+        "MySQL · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "React/Java 기반 금융기관 정보자원관리시스템 개발",
       "url": "https://www.wishket.com/project/157893/",
       "budget": "6,000,000원/월",
@@ -218,42 +251,6 @@
         "Java · 경력 무관",
         "Spring Boot · 경력 무관",
         "Vue.js · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 공공서비스 클라우드 네이티브 아키텍처 설계",
-      "url": "https://www.wishket.com/project/157584/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-08-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "(서울 양재)공공 교육서비스(LMS) 풀스택 개발자 구인",
-      "url": "https://www.wishket.com/project/157601/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "React · 3년 이상",
-        "Java · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React/Java 기반 금융기관 정보자원관리시스템 구축 PM",
-      "url": "https://www.wishket.com/project/157608/",
-      "budget": "8,500,000원/월",
-      "posted_at": "2026-08-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "pm · 10년 이상"
       ]
     },
     {
@@ -324,20 +321,6 @@
         "IT·프로그래밍",
         "모바일앱 개발",
         "58일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "전기 분전반 개발",
-      "url": "https://kmong.com/enterprise/requests/226792",
-      "budget": "8,800,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "하드웨어",
-        "31일"
       ]
     },
     {
@@ -534,6 +517,20 @@
         "마케팅",
         "콘텐츠 마케팅·브랜디드 콘텐츠",
         "91일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "전기 분전반 개발",
+      "url": "https://kmong.com/enterprise/requests/226792",
+      "budget": "8,800,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "31일"
       ]
     },
     {
@@ -954,6 +951,46 @@
         "기획",
         "PM・PO",
         "210일"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 대전지방조달청] 고준위위원회 행정정보시스템 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01682425",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 대전지방조달청] 경찰대학 치안데이터사이언스 연구 분석용 워크스테이션 구매",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01678343",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국농어촌공사] 농업진흥지역 밖 농지 데이터 분석 및 등급화 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01682875",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청] 2026년 기후에너지환경부 행정정보시스템 기능개선",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01681152",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
