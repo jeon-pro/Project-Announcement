@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T11:04:49.053433+00:00",
-  "count": 74,
+  "generated_at": "2026-08-29T06:49:52.032361+00:00",
+  "count": 70,
   "items": [
     {
       "source": "위시켓",
@@ -951,46 +951,6 @@
         "기획",
         "PM・PO",
         "210일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 대전지방조달청] 고준위위원회 행정정보시스템 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01682425",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 대전지방조달청] 경찰대학 치안데이터사이언스 연구 분석용 워크스테이션 구매",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01678343",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국농어촌공사] 농업진흥지역 밖 농지 데이터 분석 및 등급화 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01682875",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청] 2026년 기후에너지환경부 행정정보시스템 기능개선",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01681152",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     }
   ]
