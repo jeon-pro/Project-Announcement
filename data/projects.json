@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T06:49:52.032361+00:00",
-  "count": 70,
+  "generated_at": "2026-08-30T05:03:00.854652+00:00",
+  "count": 73,
   "items": [
     {
       "source": "위시켓",
@@ -951,6 +951,36 @@
         "기획",
         "PM・PO",
         "210일"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국생명공학연구원] 연구행정 데이터 기반 AI 플랫폼 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01684335",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(재)제주테크노파크] 제주데이터허브, 제주빅데이터센터 시스템 유지보수 및 고도화 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01684379",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[주택도시보증공사] 주택도시기금 정보시스템 통합 유지보수 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01683310",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
