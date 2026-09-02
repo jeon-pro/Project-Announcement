@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-01T04:46:43.343145+00:00",
+  "generated_at": "2026-09-02T04:08:02.824795+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "비철금속 B2B 거래 플랫폼 개발",
+      "url": "https://www.wishket.com/project/158040/",
+      "budget": "50,000,000원",
+      "posted_at": "2026-09-01",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "재단 홈페이지 메인 디자인 시안 제작 (3종)",
+      "url": "https://www.wishket.com/project/158090/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-09-01",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "가방 키링(참) NFC 태그로 보는 운세·사주 모바일 웹 구축",
@@ -19,6 +41,17 @@
       "url": "https://www.wishket.com/project/157606/",
       "budget": "협의 후 결정",
       "posted_at": "2026-08-11",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "사내 업무관리시스템 전면 재구축 (PHP 레거시 유지보수 병행)",
+      "url": "https://www.wishket.com/project/158092/",
+      "budget": "95,000,000원",
+      "posted_at": "2026-09-01",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -51,6 +84,24 @@
     },
     {
       "source": "위시켓",
+      "title": "아임웹 기반 B2B 기업 글로벌 반응형 홈페이지 제작",
+      "url": "https://www.wishket.com/project/158123/",
+      "budget": "6,000,000원",
+      "posted_at": "2026-09-02",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "AEO",
+        "CSS",
+        "Figma",
+        "HTML",
+        "JavaScript",
+        "seo",
+        "아임웹"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "아이 동반 외출 코스 추천 서비스 1차 MVP (지도 기반 반응형 웹)",
       "url": "https://www.wishket.com/project/157924/",
       "budget": "10,000,000원",
@@ -62,32 +113,9 @@
     },
     {
       "source": "위시켓",
-      "title": "노션 기반 작가 섭외 관리 시스템 구축",
-      "url": "https://www.wishket.com/project/158015/",
-      "budget": "20,000,000원",
-      "posted_at": "2026-08-31",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "POS·SCM 데이터 연동으로 루커 스튜디오 BI 고도화",
-      "url": "https://www.wishket.com/project/158007/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-08-31",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "구글데이터스튜디오"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "소개팅 앱 신규 구축",
-      "url": "https://www.wishket.com/project/158075/",
-      "budget": "30,000,000원",
+      "title": "모바일 커머스 앱 연동 셀러센터·운영 어드민 구축",
+      "url": "https://www.wishket.com/project/158102/",
+      "budget": "15,000,000원",
       "posted_at": "2026-09-01",
       "work_type": "원격",
       "tags": [
@@ -96,24 +124,26 @@
     },
     {
       "source": "위시켓",
-      "title": "시니어 방문재활 매칭 PWA 고도화",
-      "url": "https://www.wishket.com/project/158069/",
-      "budget": "22,000,000원",
-      "posted_at": "2026-09-01",
-      "work_type": "원격",
+      "title": "Figma 기반 대규모 시스템 UX 디자인 테크 리드",
+      "url": "https://www.wishket.com/project/158122/",
+      "budget": "8,000,000원/월",
+      "posted_at": "2026-09-02",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제",
+        "Figma · 3년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "증권사 데이터를 자체 파이썬 엔진에 연결 (LS증권 /GPT API 연동)",
-      "url": "https://www.wishket.com/project/158080/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-09-01",
-      "work_type": "원격",
+      "title": "Figma 기반 대규모 시스템 UX 디자인 실무",
+      "url": "https://www.wishket.com/project/158128/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-09-02",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제",
+        "Figma · 3년 이상"
       ]
     },
     {
@@ -154,36 +184,6 @@
     },
     {
       "source": "위시켓",
-      "title": "Java 기반 온라인 교육 서비스 백엔드 개발",
-      "url": "https://www.wishket.com/project/157732/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-18",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "MySQL · 경력 무관",
-        "Redis · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Kotlin /Spring Boot 기반 백엔드 개발",
-      "url": "https://www.wishket.com/project/157818/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-21",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Kotlin · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "Redis · 경력 무관",
-        "MySQL · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "Vue/JavaScript 기반 웹 프런트엔드 개발",
       "url": "https://www.wishket.com/project/157863/",
       "budget": "6,000,000원/월",
@@ -212,35 +212,44 @@
     },
     {
       "source": "위시켓",
-      "title": "PyTorch/Python 기반 산업용 비전 AI 리뷰 필터링 시스템 MLE",
-      "url": "https://www.wishket.com/project/157679/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-14",
+      "title": "HTML/CSS 기반 웹 페이지 퍼블리싱 수정 업무 (5일)",
+      "url": "https://www.wishket.com/project/158088/",
+      "budget": "1,000,000원/월",
+      "posted_at": "2026-09-01",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "기간제",
+        "퍼블리싱 · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "BSS 기반 통신사 시스템 어플리케이션 아키텍처 분석 및 설계",
-      "url": "https://www.wishket.com/project/158022/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-08-31",
+      "title": "PaaS 클라우드 인프라 엔지니어 / PM",
+      "url": "https://www.wishket.com/project/158097/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-09-01",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "기간제",
+        "AWS · 10년 이하"
       ]
     },
     {
       "source": "위시켓",
-      "title": "OSS 기반 통신사 시스템 솔루션 아키텍처 분석 및 설계",
-      "url": "https://www.wishket.com/project/158044/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-08-31",
+      "title": "Node.js/React 기반 물류 WMS 풀스택 개발 및 운영 (주 1일 재택)",
+      "url": "https://www.wishket.com/project/158101/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-09-01",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "기간제",
+        "TypeScript · 경력 무관",
+        "Node.js · 경력 무관",
+        "GraphQL · 경력 무관",
+        "prisma · 경력 무관",
+        "React · 경력 무관",
+        "ant design · 경력 무관",
+        "AWS · 경력 무관"
       ]
     },
     {
@@ -255,20 +264,6 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "웹 페이지 크롤링 지원 업무",
-      "url": "https://kmong.com/enterprise/requests/226866",
-      "budget": "20,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "60일"
       ]
     },
     {
@@ -329,20 +324,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "초등 실과 가상실습 웹 기반 게임 개발",
-      "url": "https://kmong.com/enterprise/requests/226831",
-      "budget": "9,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "게임",
-        "115일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[삼성역/안산] 앵귤러 프론트 웹 가시화 개발",
       "url": "https://kmong.com/enterprise/requests/226853",
       "budget": "6,000,000원/월",
@@ -395,6 +376,34 @@
         "디자인",
         "패키지·제품 디자인",
         "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "웹 페이지 크롤링 지원 업무",
+      "url": "https://kmong.com/enterprise/requests/226866",
+      "budget": "20,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "60일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "초등 실과 가상실습 웹 기반 게임 개발",
+      "url": "https://kmong.com/enterprise/requests/226831",
+      "budget": "9,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "게임",
+        "115일"
       ]
     },
     {
