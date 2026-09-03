@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-09-02T04:08:02.824795+00:00",
+  "generated_at": "2026-09-03T04:05:22.430944+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "AI로 만든 건강기능식품 추천 서비스 MVP 코드 리뷰 및 기술 자문",
+      "url": "https://www.wishket.com/project/158156/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-09-02",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "Git",
+        "JavaScript",
+        "next.js",
+        "Node.js",
+        "OpenAI",
+        "PostgreSQL",
+        "React"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "글로벌 B2B 쇼핑몰 신규 구축 (WordPress + WooCommerce)",
+      "url": "https://www.wishket.com/project/158096/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-09-02",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "비철금속 B2B 거래 플랫폼 개발",
@@ -22,6 +51,20 @@
       "work_type": "원격",
       "tags": [
         "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "아파트 분양사이트 템플릿 기반 구축 및 CMS 유지운영",
+      "url": "https://www.wishket.com/project/158125/",
+      "budget": "2,500,000원",
+      "posted_at": "2026-09-02",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "Figma",
+        "html Coding",
+        "Photoshop"
       ]
     },
     {
@@ -59,6 +102,17 @@
     },
     {
       "source": "위시켓",
+      "title": "RAG 챗봇 검색·답변 품질 진단 및 개선",
+      "url": "https://www.wishket.com/project/158150/",
+      "budget": "8,000,000원",
+      "posted_at": "2026-09-03",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "운영 중인 웹사이트 4개 상시 유지보수 (월 단위)",
       "url": "https://www.wishket.com/project/157956/",
       "budget": "300,000원",
@@ -70,56 +124,58 @@
     },
     {
       "source": "위시켓",
-      "title": "소개팅앱 마켓 등록 및 6개월 유지보수",
-      "url": "https://www.wishket.com/project/157964/",
-      "budget": "3,000,000원",
-      "posted_at": "2026-08-27",
-      "work_type": "원격",
+      "title": "Java 기반 제로페이 신규 서비스 및 유지보수 백엔드 개발",
+      "url": "https://www.wishket.com/project/158168/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-09-03",
+      "work_type": "상주",
       "tags": [
-        "외주",
-        "Firebase",
-        "React Native",
-        "TypeScript"
+        "기간제",
+        "Java · 경력 무관",
+        "Spring · 경력 무관",
+        "PostgreSQL · 경력 무관",
+        "Jex framework · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "아임웹 기반 B2B 기업 글로벌 반응형 홈페이지 제작",
-      "url": "https://www.wishket.com/project/158123/",
-      "budget": "6,000,000원",
-      "posted_at": "2026-09-02",
-      "work_type": "원격",
+      "title": "대기업 AI Agent 플랫폼 Python BE 개발",
+      "url": "https://www.wishket.com/project/158169/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-09-03",
+      "work_type": "상주",
       "tags": [
-        "외주",
-        "AEO",
-        "CSS",
-        "Figma",
-        "HTML",
-        "JavaScript",
-        "seo",
-        "아임웹"
+        "기간제",
+        "Python · 3년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "아이 동반 외출 코스 추천 서비스 1차 MVP (지도 기반 반응형 웹)",
-      "url": "https://www.wishket.com/project/157924/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-08-26",
-      "work_type": "원격",
+      "title": "대기업 AI Agent 플랫폼 Vue/Vite FE 개발",
+      "url": "https://www.wishket.com/project/158172/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-09-03",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제",
+        "Vue.js · 경력 무관",
+        "Vite · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "모바일 커머스 앱 연동 셀러센터·운영 어드민 구축",
-      "url": "https://www.wishket.com/project/158102/",
-      "budget": "15,000,000원",
-      "posted_at": "2026-09-01",
-      "work_type": "원격",
+      "title": "Next.js/TypeScript 기반 전문가 매칭 웹 플랫폼 풀스택 개발 (주 32시간)",
+      "url": "https://www.wishket.com/project/158152/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-09-03",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제",
+        "next.js · 2년 이상",
+        "TypeScript · 3년 이상",
+        "React · 3년 이상",
+        "supabase · 1년 이상",
+        "PostgreSQL · 2년 이상"
       ]
     },
     {
@@ -148,35 +204,10 @@
     },
     {
       "source": "위시켓",
-      "title": "Databricks 기반 데이터 플랫폼 구축 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/157463/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-08-05",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Databricks · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Web3.js 기반 블록체인 플랫폼 백엔드 개발",
-      "url": "https://www.wishket.com/project/157696/",
-      "budget": "3,500,000원/월",
-      "posted_at": "2026-08-18",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Defi · 3년 이하",
-        "web3.js · 5년 이하"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React/antd 기반 운영 서비스 프론트엔드 추가 개발",
-      "url": "https://www.wishket.com/project/157729/",
-      "budget": "5,800,000원/월",
-      "posted_at": "2026-08-18",
+      "title": "대형통신사 차세대사업 PMO 및 프로젝트 지원",
+      "url": "https://www.wishket.com/project/158129/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-09-02",
       "work_type": "상주",
       "tags": [
         "기간제"
@@ -184,72 +215,42 @@
     },
     {
       "source": "위시켓",
-      "title": "Vue/JavaScript 기반 웹 프런트엔드 개발",
-      "url": "https://www.wishket.com/project/157863/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-08-24",
+      "title": "MSA 및 AI 아키텍처 기반 대형통신사 차세대 BSS 총괄",
+      "url": "https://www.wishket.com/project/158133/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-09-02",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Vue.js · 경력 무관",
-        "JavaScript · 경력 무관"
+        "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Flutter/Laravel 기반 팬 플랫폼 앱 유지보수 및 광고 연동 (주 4일 재택)",
-      "url": "https://www.wishket.com/project/158082/",
-      "budget": "2,500,000원/월",
-      "posted_at": "2026-09-01",
+      "title": "TypeScript/AWS 기반 탄소데이터 SaaS 플랫폼 구축 PM",
+      "url": "https://www.wishket.com/project/158119/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-09-02",
       "work_type": "상주",
       "tags": [
         "기간제",
-        "Flutter/Dart · 5년 이하",
-        "Laravel (PHP) · 5년 이하",
-        "Firebase Cloud Messaging · 5년 이하",
-        "sdk · 5년 이하"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "HTML/CSS 기반 웹 페이지 퍼블리싱 수정 업무 (5일)",
-      "url": "https://www.wishket.com/project/158088/",
-      "budget": "1,000,000원/월",
-      "posted_at": "2026-09-01",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "퍼블리싱 · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "PaaS 클라우드 인프라 엔지니어 / PM",
-      "url": "https://www.wishket.com/project/158097/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-09-01",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "AWS · 10년 이하"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Node.js/React 기반 물류 WMS 풀스택 개발 및 운영 (주 1일 재택)",
-      "url": "https://www.wishket.com/project/158101/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-09-01",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "TypeScript · 경력 무관",
-        "Node.js · 경력 무관",
-        "GraphQL · 경력 무관",
-        "prisma · 경력 무관",
+        "CSS · 경력 무관",
+        "HTML · 경력 무관",
+        "JavaScript · 경력 무관",
+        "NextJS · 경력 무관",
         "React · 경력 무관",
-        "ant design · 경력 무관",
-        "AWS · 경력 무관"
+        "TypeScript · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "물류(재고 및 주문) 통합 서비스 기획",
+      "url": "https://www.wishket.com/project/158140/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-09-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
       ]
     },
     {
