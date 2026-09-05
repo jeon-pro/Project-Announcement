@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-09-04T04:10:32.134517+00:00",
-  "count": 70,
+  "generated_at": "2026-09-05T04:06:13.794775+00:00",
+  "count": 77,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "영업 CRM 개발 및 데이터 분석",
+      "url": "https://www.wishket.com/project/158213/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-09-04",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "AI 영어회화 앱 3D 캐릭터 디자인 3종",
       "url": "https://www.wishket.com/project/158186/",
       "budget": "협의 후 결정",
       "posted_at": "2026-09-03",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "웨비나·세미나 다시보기 및 제품 자료 제공 회원제 웹사이트",
+      "url": "https://www.wishket.com/project/158187/",
+      "budget": "7,000,000원",
+      "posted_at": "2026-09-04",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -77,6 +99,18 @@
     },
     {
       "source": "위시켓",
+      "title": "K-POP 공동구매 플랫폼 UI 디자인 개선",
+      "url": "https://www.wishket.com/project/158230/",
+      "budget": "2,000,000원",
+      "posted_at": "2026-09-04",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "Figma"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "아파트 분양사이트 템플릿 기반 구축 및 CMS 유지운영",
       "url": "https://www.wishket.com/project/158125/",
       "budget": "2,500,000원",
@@ -87,39 +121,6 @@
         "Figma",
         "html Coding",
         "Photoshop"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "가방 키링(참) NFC 태그로 보는 운세·사주 모바일 웹 구축",
-      "url": "https://www.wishket.com/project/158004/",
-      "budget": "8,000,000원",
-      "posted_at": "2026-08-28",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "항공용 디스플레이 내장형 컴퓨터 모듈 개발 (방산/항공)",
-      "url": "https://www.wishket.com/project/157606/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-08-11",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "사내 업무관리시스템 전면 재구축 (PHP 레거시 유지보수 병행)",
-      "url": "https://www.wishket.com/project/158092/",
-      "budget": "95,000,000원",
-      "posted_at": "2026-09-01",
-      "work_type": "원격",
-      "tags": [
-        "외주"
       ]
     },
     {
@@ -213,42 +214,49 @@
     },
     {
       "source": "위시켓",
-      "title": "Java 기반 제로페이 신규 서비스 및 유지보수 백엔드 개발",
-      "url": "https://www.wishket.com/project/158168/",
-      "budget": "4,500,000원/월",
-      "posted_at": "2026-09-03",
+      "title": "AI 및 AICC 기반 솔루션 구축 개발 PM",
+      "url": "https://www.wishket.com/project/158216/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-09-04",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring · 경력 무관",
-        "PostgreSQL · 경력 무관",
-        "Jex framework · 경력 무관"
+        "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": "대기업 AI Agent 플랫폼 Python BE 개발",
-      "url": "https://www.wishket.com/project/158169/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-09-03",
+      "title": "GCP 기반 클라우드 인프라 아키텍처 TA 설계 및 운영",
+      "url": "https://www.wishket.com/project/158231/",
+      "budget": "8,000,000원/월",
+      "posted_at": "2026-09-04",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Python · 3년 이상"
+        "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": "대기업 AI Agent 플랫폼 Vue/Vite FE 개발",
-      "url": "https://www.wishket.com/project/158172/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-09-03",
+      "title": "AWS 및 GitLab 기반 데브옵스 환경 구축 및 마이그레이션 PM",
+      "url": "https://www.wishket.com/project/158235/",
+      "budget": "8,500,000원/월",
+      "posted_at": "2026-09-04",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Vue.js · 경력 무관",
-        "Vite · 경력 무관"
+        "기간제"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "제조업 맞춤형 ERP 구축 및 데이터 이관 기획·개발",
+      "url": "https://kmong.com/enterprise/requests/226919",
+      "budget": "30,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "77일"
       ]
     },
     {
@@ -291,20 +299,6 @@
         "마케팅",
         "콘텐츠 마케팅·브랜디드 콘텐츠",
         "29일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[양재] 한교육과정평가원 LMS/LCMS 연동 개발",
-      "url": "https://kmong.com/enterprise/requests/226890",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "90일"
       ]
     },
     {
@@ -949,6 +943,76 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "360일"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국특허전략개발원] 2026년 특허 빅데이터 포털 기능개선 및 유지보수 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01690644",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 대전지방조달청] AI데이터센터(AIDC) 국가전략산업 초격차 추진을 위한 종합 체계 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01688299",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[국립군산대학교] eClass 데이터 추적 솔루션 임차",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01694196",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 대구지방조달청] 교육행정데이터통합관리시스템 과학행정 예측·지원 서비스 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01692755",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국기술교육대학교] 한국기술교육대학교 통합데이터 허브 구축 (2단계)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01694264",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[강원대학교 산학협력단] 2026년 첨단분야 혁신융합대학사업 데이터보안·활용융합 분야 성과공유포럼",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01694098",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국과학기술정보연구원] 과학기술산업화 플랫폼 활성화를 위한 데이터 관련 법⋅제도 대응 방안 연구",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01694362",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
