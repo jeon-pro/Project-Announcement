@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-09-11T04:17:23.220726+00:00",
-  "count": 70,
+  "generated_at": "2026-09-12T04:15:45.014243+00:00",
+  "count": 73,
   "items": [
     {
       "source": "위시켓",
       "title": "AI 두피진단 서비스 구축(AI 모델 개발 포함)",
       "url": "https://www.wishket.com/project/158343/",
       "budget": "협의 후 결정",
+      "posted_at": "2026-09-11",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "기존 PHP 웹 프로그램 수탁 및 유지보수(월 40만 원)",
+      "url": "https://www.wishket.com/project/158425/",
+      "budget": "4,800,000원",
+      "posted_at": "2026-09-11",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "MySQL",
+        "PHP"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "고양·파주 마사지샵 지도 검색 모바일 웹 1차 구축",
+      "url": "https://www.wishket.com/project/158413/",
+      "budget": "8,000,000원",
       "posted_at": "2026-09-11",
       "work_type": "원격",
       "tags": [
@@ -92,39 +116,15 @@
     },
     {
       "source": "위시켓",
-      "title": "완성된 AI 러닝분석 엔진의 재학습 자동화 시스템 구축(ML 경험 필수)",
-      "url": "https://www.wishket.com/project/158260/",
-      "budget": "17,000,000원",
+      "title": "리브랜딩에 맞춘 화장품 제품 2종 상세페이지 디자인 리뉴얼",
+      "url": "https://www.wishket.com/project/158238/",
+      "budget": "1,000,000원",
       "posted_at": "2026-09-07",
       "work_type": "원격",
       "tags": [
         "외주",
-        "fastapi",
-        "Python",
-        "PyTorch"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "건강 위험 조기감지 웨어러블 연동 MVP (안드로이드/갤럭시 워치 한정)",
-      "url": "https://www.wishket.com/project/158292/",
-      "budget": "23,000,000원",
-      "posted_at": "2026-09-09",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Figma 기반 지역 관계인구 CRM 플랫폼 UI/UX 디자인",
-      "url": "https://www.wishket.com/project/158244/",
-      "budget": "4,000,000원",
-      "posted_at": "2026-09-07",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "Figma"
+        "Adobe Illustrator",
+        "Adobe Photoshop"
       ]
     },
     {
@@ -221,49 +221,87 @@
     },
     {
       "source": "위시켓",
-      "title": "Salesforce Marketing Cloud 기반 CRM 개발",
-      "url": "https://www.wishket.com/project/157992/",
+      "title": "학원 및 교육 AI 서비스 기획",
+      "url": "https://www.wishket.com/project/158408/",
       "budget": "4,500,000원/월",
-      "posted_at": "2026-08-28",
+      "posted_at": "2026-09-11",
       "work_type": "상주",
       "tags": [
         "기간제",
-        "Salesforce · 2~10년"
+        "Figma · 경력 무관",
+        "AI Agent · 경력 무관",
+        "office · 경력 무관",
+        "GoogleAnalytics · 경력 무관",
+        "App Design · 경력 무관",
+        "App · 경력 무관",
+        "Admin기획 · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "ChatGPT 활용 소상공인 대상 AI 집체교육 강사 (경북 지역)",
-      "url": "https://www.wishket.com/project/158390/",
-      "budget": "2,600,000원/월",
-      "posted_at": "2026-09-10",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Android/iOS 네이티브 앱 영상 플레이어 개발",
-      "url": "https://www.wishket.com/project/158396/",
-      "budget": "4,500,000원/월",
-      "posted_at": "2026-09-10",
+      "title": "Figma 기반 UX/UI 서비스 기획",
+      "url": "https://www.wishket.com/project/158430/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-09-11",
       "work_type": "상주",
       "tags": [
         "기간제",
-        "iOS · 경력 무관",
-        "Android · 경력 무관"
+        "Figma · 경력 무관",
+        "wireframe · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "AI Agent 기반 금융권 기업여신 심사지원 서비스 구축 PL",
-      "url": "https://www.wishket.com/project/158403/",
-      "budget": "11,000,000원/월",
-      "posted_at": "2026-09-10",
+      "title": "Python /멀티 에이전트 이용 포탈 백엔드 개발",
+      "url": "https://www.wishket.com/project/158433/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-09-11",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "기간제",
+        "Python · 3년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "바이브코딩 기반 기존 서비스 추가 개발 (React.js / Next.js)",
+      "url": "https://www.wishket.com/project/158432/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-09-11",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "바이브코딩 · 경력 무관",
+        "React · 경력 무관",
+        "next.js · 경력 무관"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "시댄스 등 농촌투어패스 3D 캐릭터 홍보 AI영상 제작",
+      "url": "https://kmong.com/enterprise/requests/226977",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "영상·사진·음향",
+        "AI 영상·음악",
+        "30일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "프로젝트별 지출/수입 관리용 내부 경영지원 프로그램",
+      "url": "https://kmong.com/enterprise/requests/226964",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "48일"
       ]
     },
     {
@@ -939,31 +977,33 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[로봇AI스타트업] UI 디자이너 모집",
-      "url": "https://kmong.com/enterprise/requests/226775",
-      "budget": "4,200,000원/월",
+      "source": "나라장터",
+      "title": "[한국부동산원] 2026년 부동산 빅데이터 플랫폼 기능 개발",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01704085",
+      "budget": "",
       "posted_at": "",
-      "work_type": "상주",
       "tags": [
-        "상주",
-        "디자인",
-        "웹·모바일 디자인",
-        "90일"
+        "공공입찰"
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[의왕] 금융 컴플라이언스 Azure 랜딩존 구축 TA",
-      "url": "https://kmong.com/enterprise/requests/226776",
-      "budget": "9,000,000원/월",
+      "source": "나라장터",
+      "title": "[한국부동산원] 2026년 부동산 빅데이터 플랫폼 운영 및 유지관리",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01704073",
+      "budget": "",
       "posted_at": "",
-      "work_type": "상주",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "클라우드",
-        "120일"
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(재)부산디자인진흥원] 2028 세계디자인수도(WDC) 부산 디지털 플랫폼(홈페이지) 구축 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01704164",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
