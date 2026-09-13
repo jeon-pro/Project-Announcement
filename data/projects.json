@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T04:15:45.014243+00:00",
-  "count": 73,
+  "generated_at": "2026-09-13T04:33:03.001665+00:00",
+  "count": 70,
   "items": [
     {
       "source": "위시켓",
@@ -502,20 +502,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "차량 외관 검사 시스템 기구·전장 설계",
-      "url": "https://kmong.com/enterprise/requests/226814",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "패키지·제품 디자인",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "ERP 연동 의약품 B2B 폐쇄주문시스템(WOS) 구축",
       "url": "https://kmong.com/enterprise/requests/226957",
       "budget": "10,000,000원",
@@ -782,6 +768,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "차량 외관 검사 시스템 기구·전장 설계",
+      "url": "https://kmong.com/enterprise/requests/226814",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "패키지·제품 디자인",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "[서울역] 영업지원 시스템 구축(Next Kotlin)",
       "url": "https://kmong.com/enterprise/requests/226808",
       "budget": "7,200,000원/월",
@@ -974,36 +974,6 @@
         "IT·프로그래밍",
         "AI",
         "720일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국부동산원] 2026년 부동산 빅데이터 플랫폼 기능 개발",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01704085",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국부동산원] 2026년 부동산 빅데이터 플랫폼 운영 및 유지관리",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01704073",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[(재)부산디자인진흥원] 2028 세계디자인수도(WDC) 부산 디지털 플랫폼(홈페이지) 구축 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01704164",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     }
   ]
