@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T04:18:21.673353+00:00",
-  "count": 76,
+  "generated_at": "2026-09-20T04:37:10.334519+00:00",
+  "count": 70,
   "items": [
     {
       "source": "위시켓",
@@ -448,20 +448,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[상주] 공공기관 클라우드 랜딩존 구축 보안 설계 지원",
-      "url": "https://kmong.com/enterprise/requests/226965",
-      "budget": "7,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "보안",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[고양] IT 보안관제 및 관리 운영",
       "url": "https://kmong.com/enterprise/requests/226932",
       "budget": "4,000,000원/월",
@@ -584,6 +570,20 @@
         "디자인",
         "패키지·제품 디자인",
         "18일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 공공기관 클라우드 랜딩존 구축 보안 설계 지원",
+      "url": "https://kmong.com/enterprise/requests/226965",
+      "budget": "7,500,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "보안",
+        "90일"
       ]
     },
     {
@@ -962,66 +962,6 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "180일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[주식회사 라임씨에스아이] 산업용 무선통신망 통합관제 NMS 소프트웨어 개발 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01701399",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[사단법인 대한민국농구협회] 대한민국농구협회 통합정보시스템 AI 에이전트 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01715250",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[강원대학교 산학협력단] [재공고] 2026년 첨단분야 혁신융합대학사업 데이터보안·활용융합 분야 성과공유포럼",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01714779",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 인천지방조달청] 화성시 버스정보시스템(BIS) 통합 운영체계 구축 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01714832",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[사단법인 대한불교조계종 해인사 장경도감] 2026년 팔만대장경 P-XRF 분석 및 데이터 해석 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01714435",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국디자인진흥원] 디자인 산업 특화 멀티모달 AI 데이터 구축 및 품질관리 가이드라인 조사·검증 및 개발",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01715519",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     }
   ]
