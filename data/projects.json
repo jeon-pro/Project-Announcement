@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-20T04:37:10.334519+00:00",
-  "count": 70,
+  "generated_at": "2026-09-21T04:35:12.123702+00:00",
+  "count": 75,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "Java 기반 경비청구 시스템과 SAP ERP(FI) 간 연동 인터페이스 구축",
+      "url": "https://www.wishket.com/project/158615/",
+      "budget": "25,000,000원",
+      "posted_at": "2026-09-21",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "SAP ABAP",
+        "SAP RFC",
+        "SAP 연동"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "자동차 부품 검색·거래 플랫폼 MVP 개발",
@@ -56,6 +70,46 @@
     },
     {
       "source": "위시켓",
+      "title": "공사기간 적정성 검토 보고서 자동 산정 프로그램",
+      "url": "https://www.wishket.com/project/158600/",
+      "budget": "20,000,000원",
+      "posted_at": "2026-09-21",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AI 영어학습 앱 잔여 기능 개발 및 양대 마켓 출시",
+      "url": "https://www.wishket.com/project/158622/",
+      "budget": "8,000,000원",
+      "posted_at": "2026-09-21",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "공간대여 예약 홈페이지 리뉴얼",
+      "url": "https://www.wishket.com/project/158456/",
+      "budget": "10,000,000원",
+      "posted_at": "2026-09-14",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "ADOBE XD",
+        "AWS",
+        "express.js",
+        "Figma",
+        "MySQL",
+        "Node.js",
+        "React"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "항공용 디스플레이 내장형 컴퓨터 모듈 개발 (방산/항공)",
       "url": "https://www.wishket.com/project/157606/",
       "budget": "협의 후 결정",
@@ -76,50 +130,6 @@
         "외주",
         "WordPress",
         "아임웹"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "여성의류 당일 렌탈 서비스 예약·운영 시스템 구축",
-      "url": "https://www.wishket.com/project/158418/",
-      "budget": "35,000,000원",
-      "posted_at": "2026-09-17",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "거래처별 접수·정산 현황 조회 웹사이트 구축",
-      "url": "https://www.wishket.com/project/158592/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-09-18",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "스마트 미러 기반 욕실 통합 제어 앱 개발",
-      "url": "https://www.wishket.com/project/158597/",
-      "budget": "9,000,000원",
-      "posted_at": "2026-09-18",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "AI 두피진단 서비스 구축(AI 모델 개발 포함)",
-      "url": "https://www.wishket.com/project/158343/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-09-11",
-      "work_type": "원격",
-      "tags": [
-        "외주"
       ]
     },
     {
@@ -152,6 +162,31 @@
         "restful api · 1년 이상",
         "Fast API · 1년 이상",
         "GitHub · 1년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Unity 기반 게임 그래픽 디자인 수정 및 애니메이션 작업 (재택)",
+      "url": "https://www.wishket.com/project/158623/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-09-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관",
+        "Unity · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 AI 노무 업무 지원 플랫폼 백엔드 개발",
+      "url": "https://www.wishket.com/project/158605/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-09-21",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "RAG · 경력 무관"
       ]
     },
     {
@@ -238,30 +273,17 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "대형 통신사 웹 서비스 운영 및 유지보수 퍼블리셔",
-      "url": "https://www.wishket.com/project/158584/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-09-18",
+      "source": "크몽엔터프라이즈",
+      "title": "[목동] SGI신용정보 온라인·배치 서비스 (초급)",
+      "url": "https://kmong.com/enterprise/requests/227034",
+      "budget": "5,000,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "HTML · 경력 무관",
-        "CSS · 경력 무관",
-        "Figma · 경력 무관",
-        "Vanilla JS · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python 플랫폼 연동 백엔드 개발",
-      "url": "https://www.wishket.com/project/158174/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-09-03",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Python · 4년 이상"
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "270일"
       ]
     },
     {
@@ -951,17 +973,53 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[서초] 삼성생명 RPA 시스템 운영 및 개발(10월)",
-      "url": "https://kmong.com/enterprise/requests/226821",
-      "budget": "5,000,000원/월",
+      "source": "나라장터",
+      "title": "[사단법인 대한민국농구협회] 대한민국농구협회 통합정보시스템 AI 에이전트 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01715250",
+      "budget": "",
       "posted_at": "",
-      "work_type": "상주",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "180일"
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[강원대학교 산학협력단] [재공고] 2026년 첨단분야 혁신융합대학사업 데이터보안·활용융합 분야 성과공유포럼",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01714779",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 인천지방조달청] 화성시 버스정보시스템(BIS) 통합 운영체계 구축 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01714832",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[사단법인 대한불교조계종 해인사 장경도감] 2026년 팔만대장경 P-XRF 분석 및 데이터 해석 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01714435",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국디자인진흥원] 디자인 산업 특화 멀티모달 AI 데이터 구축 및 품질관리 가이드라인 조사·검증 및 개발",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01715519",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
