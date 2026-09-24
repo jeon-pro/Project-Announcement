@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:27:35.273057+00:00",
+  "generated_at": "2026-09-24T04:25:00.408317+00:00",
   "count": 72,
   "items": [
     {
@@ -204,6 +204,57 @@
     },
     {
       "source": "위시켓",
+      "title": "Gemini 기반 비전공자 대상 AI 온라인 교육 강사",
+      "url": "https://www.wishket.com/project/158711/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-09-23",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "AI · 2년 이상",
+        "Gemini · 1년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AI 챗봇 및 콜봇 기반 상담 어플리케이션 기획",
+      "url": "https://www.wishket.com/project/158718/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-09-23",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "AI 솔루션 · 경력 무관",
+        "Claude Code · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AI 챗봇/콜봇 기반 AICC 구축 사업 컨설팅 및 서비스 기획",
+      "url": "https://www.wishket.com/project/158717/",
+      "budget": "12,000,000원/월",
+      "posted_at": "2026-09-23",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "AI · 10년 이하",
+        "챗봇 · 14년 이하",
+        "콜봇 · 14년 이하"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React/Next.js 기반 챗봇 대화 인터페이스 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/158257/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-09-07",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "React 기반 TCG 거래 플랫폼 MVP 완성 및 유지보수 (주 4일 재택)",
       "url": "https://www.wishket.com/project/158659/",
       "budget": "4,000,000원/월",
@@ -225,55 +276,17 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "MSA 기반 사용자 관리 시스템 구축 TA",
-      "url": "https://www.wishket.com/project/158679/",
-      "budget": "7,500,000원/월",
-      "posted_at": "2026-09-22",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "서버·앱·결제·대시보드·임베디드 펌웨어·전장 설계",
+      "url": "https://kmong.com/enterprise/requests/227072",
+      "budget": "50,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 공공기관 구 시스템 전환 풀스택 개발",
-      "url": "https://www.wishket.com/project/158682/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-09-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "BigQuery 기반 사내 데이터 통합 파이프라인 구축 데이터 엔지니어 (재택 협의)",
-      "url": "https://www.wishket.com/project/158677/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-09-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "보안 솔루션 리뉴얼 구축 BE 개발(Java/Spring Boot)",
-      "url": "https://www.wishket.com/project/158688/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-09-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관",
-        "MyBatis · 경력 무관",
-        "MariaDB · 경력 무관",
-        "Kubernetes · 경력 무관",
-        "Gradle · 경력 무관",
-        "bitbucket · 경력 무관"
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "63일"
       ]
     },
     {
@@ -502,20 +515,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "웹 기반 통계 시스템 재구축 및 데이터 이관 제안",
-      "url": "https://kmong.com/enterprise/requests/227029",
-      "budget": "77,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "IT컨설팅",
-        "181일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "ESP32 기반 원본 데이터 저장 전용 모듈 개발",
       "url": "https://kmong.com/enterprise/requests/227035",
       "budget": "5,000,000원",
@@ -526,20 +525,6 @@
         "IT·프로그래밍",
         "하드웨어",
         "53일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "제품 외관 검사 카메라 장비 제작",
-      "url": "https://kmong.com/enterprise/requests/227028",
-      "budget": "15,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "하드웨어",
-        "77일"
       ]
     },
     {
@@ -712,6 +697,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "웹 기반 통계 시스템 재구축 및 데이터 이관 제안",
+      "url": "https://kmong.com/enterprise/requests/227029",
+      "budget": "77,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "IT컨설팅",
+        "181일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "멀티스코어보드 (통합대시보드) 디자인",
       "url": "https://kmong.com/enterprise/requests/227026",
       "budget": "30,000,000원",
@@ -722,6 +721,20 @@
         "디자인",
         "웹·모바일 디자인",
         "63일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "제품 외관 검사 카메라 장비 제작",
+      "url": "https://kmong.com/enterprise/requests/227028",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "77일"
       ]
     },
     {
@@ -963,23 +976,9 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "ai 바이브코딩으로 만든 미용실앱 기술진단",
-      "url": "https://kmong.com/enterprise/requests/226917",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "20일"
-      ]
-    },
-    {
       "source": "나라장터",
-      "title": "[경기도교육청 경기도교육청남부연수원] [입찰참가자격확대]2026 AI·빅데이터 기반 학교 리더십 전략과정 직무연수 4기 연수시설 임차 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01718984",
+      "title": "[재단법인 경북아이티융합 산업기술원] 도시 정밀데이터 수집 및 라벨링 가공/운영/유지보수 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01722132",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -988,8 +987,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[경기도교육청 경기도교육청남부연수원] [입찰참가자격확대]2026 AI·빅데이터 기반 학교 리더십 전략과정 직무연수 3기 연수시설 임차 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01718581",
+      "title": "[연세대학교 미래캠퍼스] [앵커사업] 멀티모달 헬스케어 파운데이션 모델 사전학습·미세조정 및 임상데이터 연계·성능 검증 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01722494",
       "budget": "",
       "posted_at": "",
       "tags": [
