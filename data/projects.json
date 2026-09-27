@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T04:39:56.664060+00:00",
-  "count": 70,
+  "generated_at": "2026-09-27T05:00:00.658204+00:00",
+  "count": 79,
   "items": [
     {
       "source": "위시켓",
@@ -305,20 +305,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[마곡] LG이노텍 ETL 배치 개발 및 고도화",
-      "url": "https://kmong.com/enterprise/requests/227075",
-      "budget": "7,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "데이터베이스",
-        "120일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[마곡] LG전자 인텔리틱스 인프라 PM",
       "url": "https://kmong.com/enterprise/requests/227076",
       "budget": "9,000,000원/월",
@@ -413,34 +399,6 @@
         "IT·프로그래밍",
         "웹사이트 개발",
         "38일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[동대문역사문화공원역] AWS 클라우드 엔지니어",
-      "url": "https://kmong.com/enterprise/requests/227061",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "150일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[청라] 카드사 운영 Java 개발자",
-      "url": "https://kmong.com/enterprise/requests/227063",
-      "budget": "5,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "90일"
       ]
     },
     {
@@ -637,6 +595,48 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "300일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[마곡] LG이노텍 ETL 배치 개발 및 고도화",
+      "url": "https://kmong.com/enterprise/requests/227075",
+      "budget": "7,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "120일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[동대문역사문화공원역] AWS 클라우드 엔지니어",
+      "url": "https://kmong.com/enterprise/requests/227061",
+      "budget": "6,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "150일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[청라] 카드사 운영 Java 개발자",
+      "url": "https://kmong.com/enterprise/requests/227063",
+      "budget": "5,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "90일"
       ]
     },
     {
@@ -973,6 +973,96 @@
         "IT·프로그래밍",
         "웹사이트 개발",
         "51일"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국부동산원] 토지특성 GIS분석 및 지리정보데이터 구매",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01725803",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국산업인력공단] 2026년 HRD4U 정보시스템 고도화 사업 감리용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01726778",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[사단법인 한국원전수출산업협회] 원전수출정보지원시스템(K-NEISS) 공공 마이데이터 활용 시스템 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01726711",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[아주대학교 산학협력단] 데이터보안·활용융합분야 AI 보안 비교과 Skill-up(2Track) 교육 운영업체 선정 입찰",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01726739",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(주)에스비에스] SBS 창사특집 대기획 가제:미래인류 AI 페르소나 소프트웨어 구축 및 콘텐츠 제작 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01726683",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인익산문화관광재단] (재)익산문화관광재단 홈페이지 리뉴얼 구축 사업 용역 입찰 공고",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01726578",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청] 충청남도개발공사 경영정보시스템 통합유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01723600",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[(주)에스비에스] SBS 창사특집 대기획 가제:미래인류 AI 페르소나 소프트웨어 구축 및 콘텐츠 제작 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01726683",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청] 2026년 정보시스템 재구축사업 감리",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01718977",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
