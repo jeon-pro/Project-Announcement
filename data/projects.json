@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T05:14:11.708176+00:00",
-  "count": 73,
+  "generated_at": "2026-10-01T05:29:04.427490+00:00",
+  "count": 71,
   "items": [
     {
       "source": "위시켓",
@@ -15,9 +15,33 @@
     },
     {
       "source": "위시켓",
+      "title": "박물관 스마트 쇼케이스 통합 관리 SW 구축(폐쇄망 모바일 앱 + PC 중앙관제)",
+      "url": "https://www.wishket.com/project/158841/",
+      "budget": "50,000,000원",
+      "posted_at": "2026-10-01",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "AI 코딩으로 제작된 웹서비스 보안 점검 및 안정화 고도화",
       "url": "https://www.wishket.com/project/158815/",
       "budget": "3,000,000원",
+      "posted_at": "2026-09-30",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "포토부스 전용 필터 관리 프로그램 및 렌더링 엔진 구축",
+      "url": "https://www.wishket.com/project/158819/",
+      "budget": "13,000,000원",
       "posted_at": "2026-09-30",
       "work_type": "원격",
       "tags": [
@@ -37,10 +61,10 @@
     },
     {
       "source": "위시켓",
-      "title": "B2B 전용 주문·견적 쇼핑몰 자체 구축",
-      "url": "https://www.wishket.com/project/158766/",
-      "budget": "28,000,000원",
-      "posted_at": "2026-09-29",
+      "title": "NVIDIA Jetson Orin NX 기반 소형 커스텀 캐리어보드 및 BSP 개발",
+      "url": "https://www.wishket.com/project/158734/",
+      "budget": "18,000,000원",
+      "posted_at": "2026-09-28",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -48,10 +72,10 @@
     },
     {
       "source": "위시켓",
-      "title": "NVIDIA Jetson Orin NX 기반 소형 커스텀 캐리어보드 및 BSP 개발",
-      "url": "https://www.wishket.com/project/158734/",
-      "budget": "18,000,000원",
-      "posted_at": "2026-09-28",
+      "title": "스포츠 코치 매칭·레슨 관리 앱 구축",
+      "url": "https://www.wishket.com/project/158830/",
+      "budget": "35,000,000원",
+      "posted_at": "2026-10-01",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -106,37 +130,6 @@
     },
     {
       "source": "위시켓",
-      "title": "시멘트 제조 협회 통계시스템 웹 개편",
-      "url": "https://www.wishket.com/project/158558/",
-      "budget": "75,000,000원",
-      "posted_at": "2026-09-22",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "Docker",
-        "Java",
-        "React",
-        "SQL"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "쇼핑몰 특수상품 판매를 위한 고도화 및 수정",
-      "url": "https://www.wishket.com/project/158667/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-09-22",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "Java",
-        "JSP",
-        "MyBatis",
-        "MySQL",
-        "Spring"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "Java 기반 레거시 시스템 리팩토링 백엔드 개발",
       "url": "https://www.wishket.com/project/158705/",
       "budget": "7,300,000원/월",
@@ -151,6 +144,59 @@
         "Aurora MySQL · 1년 이상",
         "GitHub · 2년 이상",
         "grafana · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "삼성 Java+오픈소스 기반 모니터링 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/158840/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-10-01",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Go · 1년 이상",
+        "Java · 5년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React 기반 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/158842/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-01",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "next.js · 경력 무관",
+        "TypeScript · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "병원·약국용 시럽 자동 조제기 임베디드 펌웨어 개발",
+      "url": "https://www.wishket.com/project/158829/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-10-01",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/Kubernetes 기반 MLOps 및 AI 백엔드 개발",
+      "url": "https://www.wishket.com/project/158843/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-01",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Python · 경력 무관",
+        "Kubernetes · 경력 무관",
+        "restful api · 경력 무관",
+        "Docker · 경력 무관"
       ]
     },
     {
@@ -177,17 +223,6 @@
       "tags": [
         "기간제",
         "labview · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Payroll 시스템 업무 로직 상세 설계 및 기획",
-      "url": "https://www.wishket.com/project/158781/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-09-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
       ]
     },
     {
@@ -227,36 +262,45 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Java 기반 금융권 계정계 상담 시스템 운영 및 유지보수",
-      "url": "https://www.wishket.com/project/158775/",
-      "budget": "7,500,000원/월",
-      "posted_at": "2026-09-29",
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 유통사 사업관리 PL",
+      "url": "https://kmong.com/enterprise/requests/227118",
+      "budget": "9,500,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "240일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "IT 솔루션 운영 및 유지보수 프로젝트 운영 PM",
-      "url": "https://www.wishket.com/project/158774/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-09-29",
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 유통사 사업관리 PMO",
+      "url": "https://kmong.com/enterprise/requests/227119",
+      "budget": "6,000,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "240일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "AWS/Python 기반 바이오제약 데이터 파이프라인 데이터 엔지니어",
-      "url": "https://www.wishket.com/project/158777/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-09-29",
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 대기업 복지몰 마이그레이션 DBA",
+      "url": "https://kmong.com/enterprise/requests/227120",
+      "budget": "10,000,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "90일"
       ]
     },
     {
@@ -285,20 +329,6 @@
         "영상·사진·음향",
         "교육 영상 제작",
         "49일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "아무것도 안 사는 날 모바일 웹게임 이벤트 개발",
-      "url": "https://kmong.com/enterprise/requests/227109",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "게임",
-        "40일"
       ]
     },
     {
@@ -373,48 +403,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "HoloLens2기반건설안전ARUI/UX및VFX고도화",
-      "url": "https://kmong.com/enterprise/requests/227081",
-      "budget": "5,500,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "3D·VR·AR 디자인",
-        "14일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "원 아시아 허브 초경량 웹사이트 구축",
-      "url": "https://kmong.com/enterprise/requests/227055",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "17일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[마곡] LG전자 인텔리틱스 인프라 PM",
-      "url": "https://kmong.com/enterprise/requests/227076",
-      "budget": "9,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "120일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[종로/영등포] M365, Copilot 구축 및 운영",
       "url": "https://kmong.com/enterprise/requests/227068",
       "budget": "6,000,000원/월",
@@ -443,20 +431,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[3m계약직] 공공ISP 데이터베이스 아키텍트/관리자",
-      "url": "https://kmong.com/enterprise/requests/227067",
-      "budget": "10,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "데이터베이스",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[마곡] 대기업 그룹 계열사 및 대외 DB 구축",
       "url": "https://kmong.com/enterprise/requests/227062",
       "budget": "10,000,000원/월",
@@ -471,30 +445,16 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[상주] C/C++ 기반 BLE 통신 모듈 개발",
-      "url": "https://kmong.com/enterprise/requests/227056",
-      "budget": "7,000,000원/월",
+      "title": "원 아시아 허브 초경량 웹사이트 구축",
+      "url": "https://kmong.com/enterprise/requests/227055",
+      "budget": "5,000,000원",
       "posted_at": "",
-      "work_type": "상주",
+      "work_type": "원격",
       "tags": [
-        "상주",
+        "외주",
         "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[서초] 보안 사후 컨설팅 (네트워크/인프라)",
-      "url": "https://kmong.com/enterprise/requests/226972",
-      "budget": "7,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "IT컨설팅",
-        "60일"
+        "웹사이트・모바일앱 개발",
+        "17일"
       ]
     },
     {
@@ -541,6 +501,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "[마곡] LG전자 인텔리틱스 인프라 PM",
+      "url": "https://kmong.com/enterprise/requests/227076",
+      "budget": "9,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "120일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "[잠실] 브랜드 캠페인 성과 분석 및 인사이트 도출",
       "url": "https://kmong.com/enterprise/requests/227058",
       "budget": "6,000,000원/월",
@@ -564,6 +538,20 @@
         "상주",
         "IT·프로그래밍",
         "웹사이트 개발",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[3m계약직] 공공ISP 데이터베이스 아키텍트/관리자",
+      "url": "https://kmong.com/enterprise/requests/227067",
+      "budget": "10,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
         "90일"
       ]
     },
@@ -649,6 +637,20 @@
         "IT·프로그래밍",
         "데이터베이스",
         "360일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] C/C++ 기반 BLE 통신 모듈 개발",
+      "url": "https://kmong.com/enterprise/requests/227056",
+      "budget": "7,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "90일"
       ]
     },
     {
@@ -933,56 +935,36 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[인덕원] NH농협 자금수수 시스템 (Pro*c, C)",
-      "url": "https://kmong.com/enterprise/requests/226955",
+      "title": "[서초] 보안 사후 컨설팅 (네트워크/인프라)",
+      "url": "https://kmong.com/enterprise/requests/226972",
       "budget": "7,500,000원/월",
       "posted_at": "",
       "work_type": "상주",
       "tags": [
         "상주",
         "IT·프로그래밍",
-        "프로그램 개발",
-        "120일"
+        "IT컨설팅",
+        "60일"
       ]
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[여의도] 데이터마트 구축/모델링 Snowflake",
-      "url": "https://kmong.com/enterprise/requests/226963",
-      "budget": "9,000,000원/월",
+      "title": "[마곡] 정산 고도화 백엔드 개발 (중급)",
+      "url": "https://kmong.com/enterprise/requests/226971",
+      "budget": "6,000,000원/월",
       "posted_at": "",
       "work_type": "상주",
       "tags": [
         "상주",
         "IT·프로그래밍",
-        "데이터베이스",
-        "60일"
+        "프로그램 개발",
+        "90일"
       ]
     },
     {
       "source": "나라장터",
-      "title": "[한국해양수산개발원] 차세대 글로벌 물류기술 통합정보시스템 개발 및 운영(7단계)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01731623",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[한국국제협력단] 우간다 뮬라고 국립전원병원 통합 의료정보시스템 구축을 통한 디지털 전환 사업 PMC 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01723015",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[(주)코스콤] 시장데이터 사업관리 플랫폼(KMBS) 고도화 개발용역(재공고)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01731838",
+      "title": "[한국과학기술정보연구원] KACADEMY 홈페이지 카드 결제 시스템 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01734320",
       "budget": "",
       "posted_at": "",
       "tags": [
