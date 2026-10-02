@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:29:04.427490+00:00",
+  "generated_at": "2026-10-02T05:16:50.195770+00:00",
   "count": 71,
   "items": [
     {
@@ -24,6 +24,28 @@
         "외주",
         "Android",
         "iOS"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "워드프레스 기반 시니어 대상 유학원 신규 웹사이트 구축",
+      "url": "https://www.wishket.com/project/158847/",
+      "budget": "5,000,000원",
+      "posted_at": "2026-10-01",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "콘텐츠·문화 사이트 반응형 웹 개발(디자인 제공)",
+      "url": "https://www.wishket.com/project/158859/",
+      "budget": "7,500,000원",
+      "posted_at": "2026-10-02",
+      "work_type": "원격",
+      "tags": [
+        "외주"
       ]
     },
     {
@@ -72,60 +94,25 @@
     },
     {
       "source": "위시켓",
-      "title": "스포츠 코치 매칭·레슨 관리 앱 구축",
-      "url": "https://www.wishket.com/project/158830/",
-      "budget": "35,000,000원",
+      "title": "LiDAR 기반 운동형 인터랙티브 콘텐츠 개발",
+      "url": "https://www.wishket.com/project/158846/",
+      "budget": "7,000,000원",
+      "posted_at": "2026-10-01",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "Unity"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "교육 웹서비스 운영 기록·보존자료 제작 (화면 녹화 영상 · 고해상도 캡처 · PDF 기록 문서)",
+      "url": "https://www.wishket.com/project/158645/",
+      "budget": "7,000,000원",
       "posted_at": "2026-10-01",
       "work_type": "원격",
       "tags": [
         "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "태국 무인 생수 락커 결제·관리 시스템 및 펌웨어 개발",
-      "url": "https://www.wishket.com/project/158700/",
-      "budget": "100,000,000원",
-      "posted_at": "2026-09-23",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Android 게이밍 단말기 제작 (컨트롤러 보드 + HW 미들웨어)",
-      "url": "https://www.wishket.com/project/158737/",
-      "budget": "30,000,000원",
-      "posted_at": "2026-09-30",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "andriod",
-        "bill acceptor",
-        "embedded",
-        "firmware",
-        "gpio",
-        "i2c",
-        "iot"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "외식업 프랜차이즈 POS 주문·판매 데이터 수집 및 통합 관리 시스템 구축",
-      "url": "https://www.wishket.com/project/158808/",
-      "budget": "20,000,000원",
-      "posted_at": "2026-09-30",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "API연동",
-        "backend",
-        "C#",
-        "Database",
-        "database설계",
-        "MSSQL",
-        ".Net"
       ]
     },
     {
@@ -144,6 +131,68 @@
         "Aurora MySQL · 1년 이상",
         "GitHub · 2년 이상",
         "grafana · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Figma 기반 중고차 플랫폼 UI/UX 디자인",
+      "url": "https://www.wishket.com/project/158873/",
+      "budget": "3,700,000원/월",
+      "posted_at": "2026-10-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Figma · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/Docker 기반 한국어 AI 코딩 벤치마크 평가 과제 제작",
+      "url": "https://www.wishket.com/project/158876/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-10-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Python · 경력 무관",
+        "pytest · 경력 무관",
+        "Linux CLI · 경력 무관",
+        "Terminal · 경력 무관",
+        "Git · 경력 무관",
+        "Docker · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS/Airflow/Spark 기반 시청 통계 데이터 배치 개발",
+      "url": "https://www.wishket.com/project/158875/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-10-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "중등 온라인 교육 서비스 모바일 앱·반응형 웹 QA",
+      "url": "https://www.wishket.com/project/158878/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-10-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Spring Boot 기반 PG사 선불시스템 구축 개발",
+      "url": "https://www.wishket.com/project/158882/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-10-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
       ]
     },
     {
@@ -175,7 +224,7 @@
     },
     {
       "source": "위시켓",
-      "title": "병원·약국용 시럽 자동 조제기 임베디드 펌웨어 개발",
+      "title": "병원·약국용 시럽 자동 조제기 임베디드 펌웨어 및 하드웨어 개발",
       "url": "https://www.wishket.com/project/158829/",
       "budget": "5,000,000원/월",
       "posted_at": "2026-10-01",
@@ -197,68 +246,6 @@
         "Kubernetes · 경력 무관",
         "restful api · 경력 무관",
         "Docker · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Pay 앱 화면설계서 현행화 및 업무 효율화 기획",
-      "url": "https://www.wishket.com/project/158801/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-09-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Excel · 경력 무관",
-        "PowerPoint · 경력 무관",
-        "Figma · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "LabVIEW 기반 IVI Issue 및 전장 검사 시스템 개발",
-      "url": "https://www.wishket.com/project/158802/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-09-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "labview · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Figma 기반 온라인 교육 서비스 앱·반응형 웹 UI/UX 디자인",
-      "url": "https://www.wishket.com/project/158811/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-09-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "HTML5/CSS 기반 온라인 교육 서비스 반응형 웹 퍼블리싱",
-      "url": "https://www.wishket.com/project/158813/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-09-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "CSS · 경력 무관",
-        "HTML5 · 경력 무관",
-        "JavaScript · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/Spring 기반 식음료 멤버십·오더 앱 풀스택 개발",
-      "url": "https://www.wishket.com/project/158812/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-09-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
       ]
     },
     {
@@ -441,6 +428,20 @@
         "IT·프로그래밍",
         "데이터베이스",
         "360일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "HoloLens2기반건설안전ARUI/UX및VFX고도화",
+      "url": "https://kmong.com/enterprise/requests/227081",
+      "budget": "5,500,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "3D·VR·AR 디자인",
+        "14일"
       ]
     },
     {
@@ -948,23 +949,9 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[마곡] 정산 고도화 백엔드 개발 (중급)",
-      "url": "https://kmong.com/enterprise/requests/226971",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "90일"
-      ]
-    },
-    {
       "source": "나라장터",
-      "title": "[한국과학기술정보연구원] KACADEMY 홈페이지 카드 결제 시스템 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01734320",
+      "title": "[한국생산기술연구원] 플랜트 PID 구조화 및 추론 데이터셋 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01736566",
       "budget": "",
       "posted_at": "",
       "tags": [
