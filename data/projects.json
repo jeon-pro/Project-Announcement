@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T04:59:46.735614+00:00",
-  "count": 72,
+  "generated_at": "2026-10-04T05:32:09.699049+00:00",
+  "count": 73,
   "items": [
     {
       "source": "위시켓",
@@ -243,34 +243,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[원주] 공공기관 DW 엔지니어",
-      "url": "https://kmong.com/enterprise/requests/227136",
-      "budget": "9,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "데이터베이스",
-        "60일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[잠실] 개발 운영 (Java, Vue)",
-      "url": "https://kmong.com/enterprise/requests/227137",
-      "budget": "5,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[을지로] 금융권 Oracle DBA",
       "url": "https://kmong.com/enterprise/requests/227138",
       "budget": "8,000,000원/월",
@@ -435,6 +407,48 @@
         "IT·프로그래밍",
         "데이터베이스",
         "360일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[원주] 공공기관 DW 엔지니어",
+      "url": "https://kmong.com/enterprise/requests/227136",
+      "budget": "9,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "60일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[잠실] 개발 운영 (Java, Vue)",
+      "url": "https://kmong.com/enterprise/requests/227137",
+      "budget": "5,500,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "HoloLens2 기반 AR 앱 UIUX·VFX 고도화",
+      "url": "https://kmong.com/enterprise/requests/227123",
+      "budget": "5,500,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "3D·VR·AR 디자인",
+        "8일"
       ]
     },
     {
@@ -928,20 +942,6 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "글로벌 이커머스 플랫폼 고도화 Tech PMO 상주 인력 소싱",
-      "url": "https://kmong.com/enterprise/requests/226979",
-      "budget": "10,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "IT컨설팅",
-        "180일"
-      ]
-    },
-    {
       "source": "나라장터",
       "title": "[군장대학산학협력단] 군장대학교 혁신지원사업단 「데이터기반 대학 그룹웨어 고도화」용역",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01732495",
@@ -955,6 +955,16 @@
       "source": "나라장터",
       "title": "[충남대학교 산학협력단] 데이터보안활용 혁신융합대학사업 블록체인 해커톤 본선 행사 운영",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01731260",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 부산지방조달청] 사하구 정보시스템 통합 유지관리 용역(2027년~2028년)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01738229",
       "budget": "",
       "posted_at": "",
       "tags": [
