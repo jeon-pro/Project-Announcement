@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:32:09.699049+00:00",
+  "generated_at": "2026-10-05T05:15:35.438379+00:00",
   "count": 73,
   "items": [
     {
@@ -313,20 +313,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "기능운동 콘텐츠 영상 10편 제작 (기획,촬영,편집)",
-      "url": "https://kmong.com/enterprise/requests/227096",
-      "budget": "6,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "교육 영상 제작",
-        "49일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[마곡] 빌링 정산 고도화 (중급, AWS/boot)",
       "url": "https://kmong.com/enterprise/requests/227108",
       "budget": "6,000,000원/월",
@@ -337,34 +323,6 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "인스타그램 카드뉴스(캐러셀) 반복/상시 디자인",
-      "url": "https://kmong.com/enterprise/requests/227100",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "온라인 마케팅 소재 디자인",
-        "91일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "AI 사진 해석·의사 소견 비교 및 시술 지식 DB",
-      "url": "https://kmong.com/enterprise/requests/227083",
-      "budget": "12,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "AI",
-        "60일"
       ]
     },
     {
@@ -453,6 +411,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "기능운동 콘텐츠 영상 10편 제작 (기획,촬영,편집)",
+      "url": "https://kmong.com/enterprise/requests/227096",
+      "budget": "6,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "영상·사진·음향",
+        "교육 영상 제작",
+        "49일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "DMZ숲 AI AI 시네마틱 정보형 쇼츠 시리즈 제작",
       "url": "https://kmong.com/enterprise/requests/227088",
       "budget": "5,500,000원",
@@ -463,6 +435,34 @@
         "영상·사진·음향",
         "AI 영상·음악",
         "24일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "인스타그램 카드뉴스(캐러셀) 반복/상시 디자인",
+      "url": "https://kmong.com/enterprise/requests/227100",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "온라인 마케팅 소재 디자인",
+        "91일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "AI 사진 해석·의사 소견 비교 및 시술 지식 DB",
+      "url": "https://kmong.com/enterprise/requests/227083",
+      "budget": "12,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "AI",
+        "60일"
       ]
     },
     {
