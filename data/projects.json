@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T05:15:35.438379+00:00",
-  "count": 73,
+  "generated_at": "2026-10-06T06:00:26.274672+00:00",
+  "count": 74,
   "items": [
     {
       "source": "위시켓",
@@ -15,13 +15,30 @@
     },
     {
       "source": "위시켓",
-      "title": "스크린 파크골프 브랜드 신규 홈페이지 제작",
-      "url": "https://www.wishket.com/project/158892/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-10-02",
+      "title": "공장·플랜트 작업·안전관리 통합 웹서비스 구축",
+      "url": "https://www.wishket.com/project/158930/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-06",
       "work_type": "원격",
       "tags": [
-        "외주"
+        "외주",
+        "AWS",
+        "Flask"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "동물구조 단체 홈페이지 리뉴얼 (카페24 → 아임웹)",
+      "url": "https://www.wishket.com/project/158911/",
+      "budget": "5,000,000원",
+      "posted_at": "2026-10-06",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "UIUX디자인"
       ]
     },
     {
@@ -83,6 +100,18 @@
     },
     {
       "source": "위시켓",
+      "title": "법무법인 홈페이지 리뉴얼 및 집단소송 플랫폼 신규 구축",
+      "url": "https://www.wishket.com/project/158838/",
+      "budget": "5,000,000원",
+      "posted_at": "2026-10-06",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "WordPress"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "포토부스 전용 필터 관리 프로그램 및 렌더링 엔진 구축",
       "url": "https://www.wishket.com/project/158819/",
       "budget": "13,000,000원",
@@ -94,24 +123,15 @@
     },
     {
       "source": "위시켓",
-      "title": "온디바이스 AI 전문 강사 모집",
-      "url": "https://www.wishket.com/project/158788/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-09-29",
-      "work_type": "원격",
+      "title": "삼성 Java+오픈소스 기반 모니터링 시스템 백엔드 개발",
+      "url": "https://www.wishket.com/project/158840/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-10-01",
+      "work_type": "상주",
       "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "NVIDIA Jetson Orin NX 기반 소형 커스텀 캐리어보드 및 BSP 개발",
-      "url": "https://www.wishket.com/project/158734/",
-      "budget": "18,000,000원",
-      "posted_at": "2026-09-28",
-      "work_type": "원격",
-      "tags": [
-        "외주"
+        "기간제",
+        "Go · 1년 이상",
+        "Java · 5년 이상"
       ]
     },
     {
@@ -130,6 +150,28 @@
         "Aurora MySQL · 1년 이상",
         "GitHub · 2년 이상",
         "grafana · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Flutter 기반 해외 라스트 마일 배송 모바일 서비스 기획 및 UI/UX",
+      "url": "https://www.wishket.com/project/158924/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-10-06",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/LangGraph 기반 금융조회 AI Agent 백엔드 개발",
+      "url": "https://www.wishket.com/project/158906/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-06",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
       ]
     },
     {
@@ -207,38 +249,73 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Oracle 기반 생산계획 시스템 구축 PL",
-      "url": "https://www.wishket.com/project/158884/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-10-02",
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 대기업 홈쇼핑 큐시트 react 개발",
+      "url": "https://kmong.com/enterprise/requests/227156",
+      "budget": "5,500,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Oracle · 경력 무관",
-        "PL/SQL · 경력 무관"
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "60일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "TypeScript/React 기반 유통·홈쇼핑 WMS 재구축 풀스택 개발",
-      "url": "https://www.wishket.com/project/158886/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-10-02",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "시연용 보훈 위탁병원 찾기 앱 제작 및 스토어 등록",
+      "url": "https://kmong.com/enterprise/requests/227141",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제"
+        "외주",
+        "IT·프로그래밍",
+        "모바일앱 개발",
+        "60일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "EDW/CDC·ETL 기반 금융권 차세대 정보계 분석·설계",
-      "url": "https://www.wishket.com/project/158888/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-10-02",
+      "source": "크몽엔터프라이즈",
+      "title": "물류 배차 앱 「엔젤물류」 1차 MVP",
+      "url": "https://kmong.com/enterprise/requests/227143",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "모바일앱 개발",
+        "16일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "경매 대리입찰 중개서비스 / 예 바토너, 대리입찰톡",
+      "url": "https://kmong.com/enterprise/requests/227146",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "52일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[상주] 금융권 프로젝트 관리 PM",
+      "url": "https://kmong.com/enterprise/requests/227152",
+      "budget": "8,500,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "150일"
       ]
     },
     {
@@ -295,20 +372,6 @@
         "IT·프로그래밍",
         "데이터베이스",
         "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "해외 트레킹 여행상품 온라인 마케팅 대행",
-      "url": "https://kmong.com/enterprise/requests/227113",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "마케팅",
-        "종합광고대행",
-        "60일"
       ]
     },
     {
@@ -411,6 +474,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "해외 트레킹 여행상품 온라인 마케팅 대행",
+      "url": "https://kmong.com/enterprise/requests/227113",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "마케팅",
+        "종합광고대행",
+        "60일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "기능운동 콘텐츠 영상 10편 제작 (기획,촬영,편집)",
       "url": "https://kmong.com/enterprise/requests/227096",
       "budget": "6,000,000원",
@@ -421,6 +498,20 @@
         "영상·사진·음향",
         "교육 영상 제작",
         "49일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "아무것도 안 사는 날 모바일 웹게임 이벤트 개발",
+      "url": "https://kmong.com/enterprise/requests/227109",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "게임",
+        "40일"
       ]
     },
     {
@@ -858,93 +949,9 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[을지로] 기업은행 클라우드·인프라 운영 (TA)",
-      "url": "https://kmong.com/enterprise/requests/227000",
-      "budget": "8,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "510일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "쇼핑몰 브랜딩,디자인,sns마케팅,라이브커머스 올인원",
-      "url": "https://kmong.com/enterprise/requests/227001",
-      "budget": "6,380,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "브랜드 디자인·가이드",
-        "34일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[상주] 여의도 AWS EKS 운영",
-      "url": "https://kmong.com/enterprise/requests/227004",
-      "budget": "7,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "클라우드",
-        "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "AI 기반 이동객체 분석 플랫폼 홍보 영상 2종 제작",
-      "url": "https://kmong.com/enterprise/requests/226983",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "광고 영상 제작",
-        "36일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[마포] ISMS-P 인프라 보안성 검토, 본사 컨설팅",
-      "url": "https://kmong.com/enterprise/requests/226996",
-      "budget": "7,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "IT컨설팅",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[을지로] 여신사후관리시스템 운영(Java, 넥사크로)",
-      "url": "https://kmong.com/enterprise/requests/226997",
-      "budget": "6,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "720일"
-      ]
-    },
-    {
       "source": "나라장터",
-      "title": "[군장대학산학협력단] 군장대학교 혁신지원사업단 「데이터기반 대학 그룹웨어 고도화」용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01732495",
+      "title": "[한국식품연구원부설 세계김치연구소] 세계김치연구소 정보시스템 웹 전환 및 기능 개선",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01740153",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -953,8 +960,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[충남대학교 산학협력단] 데이터보안활용 혁신융합대학사업 블록체인 해커톤 본선 행사 운영",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01731260",
+      "title": "[(사)대한약사회] 2026 의약품 조제·판매 및 상담 정보 데이터 분석 연구용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01739685",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -963,8 +970,18 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청 부산지방조달청] 사하구 정보시스템 통합 유지관리 용역(2027년~2028년)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01738229",
+      "title": "[한국뇌연구원] 인체유래 데이터 통합 관리 시스템 기능 개선 및 모듈 확충 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01693376",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[문화체육관광부 국립민속박물관] 국립민속박물관 AI 학습데이터 구축 기반 아카이브 자료 디지털화 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01740849",
       "budget": "",
       "posted_at": "",
       "tags": [
