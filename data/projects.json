@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T05:43:33.541691+00:00",
-  "count": 70,
+  "generated_at": "2026-10-09T05:47:35.569182+00:00",
+  "count": 74,
   "items": [
     {
       "source": "위시켓",
@@ -11,6 +11,32 @@
       "work_type": "원격",
       "tags": [
         "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "상용 AR SDK를 활용한 3D AR 가발 체험 앱 개발",
+      "url": "https://www.wishket.com/project/158986/",
+      "budget": "15,000,000원",
+      "posted_at": "2026-10-08",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "동물구조단체 공식 홈페이지 개발",
+      "url": "https://www.wishket.com/project/158999/",
+      "budget": "10,000,000원",
+      "posted_at": "2026-10-08",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "UIUX"
       ]
     },
     {
@@ -61,21 +87,6 @@
     },
     {
       "source": "위시켓",
-      "title": "노무법인 통합 ERP 신규 구축 및 기존 데이터 이관",
-      "url": "https://www.wishket.com/project/158907/",
-      "budget": "50,000,000원",
-      "posted_at": "2026-10-06",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "Node.js",
-        "PostgreSQL",
-        "React",
-        "TypeScript"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "웹서비스 통합 리뉴얼 (C# .NET → Java Spring Boot 전환) 및 상시 유지보수·고도화",
       "url": "https://www.wishket.com/project/158957/",
       "budget": "40,000,000원",
@@ -118,13 +129,13 @@
     },
     {
       "source": "위시켓",
-      "title": "콘텐츠·문화 사이트 반응형 웹 개발(디자인 제공)",
-      "url": "https://www.wishket.com/project/158859/",
-      "budget": "7,500,000원",
-      "posted_at": "2026-10-02",
-      "work_type": "원격",
+      "title": "Python/LangGraph 기반 금융조회 AI Agent 백엔드 개발",
+      "url": "https://www.wishket.com/project/158906/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-06",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제"
       ]
     },
     {
@@ -153,6 +164,62 @@
     },
     {
       "source": "위시켓",
+      "title": "React/Python 기반 금융권 AI-Agent 시스템 풀스택 개발",
+      "url": "https://www.wishket.com/project/158357/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-09-09",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 3~10년"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/LLM 기반 금융권 AI-Agent 서비스 개발 (주니어)",
+      "url": "https://www.wishket.com/project/158361/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-09-09",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/LLM 기반 금융권 AI-Agent 서비스 설계 및 개발 (테크 리드)",
+      "url": "https://www.wishket.com/project/158364/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-09-09",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Databricks 기반 제조 설비·생산 데이터 파이프라인 및 Data Mart 구축",
+      "url": "https://www.wishket.com/project/158370/",
+      "budget": "8,000,000원/월",
+      "posted_at": "2026-09-09",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React/TypeScript 기반 W2P 그래픽 에디터 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/158289/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-09-08",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "AI Agent 연계 서비스 운영 및 유지보수",
       "url": "https://www.wishket.com/project/158984/",
       "budget": "5,000,000원/월",
@@ -169,91 +236,27 @@
     },
     {
       "source": "위시켓",
-      "title": "Java 기반 레거시 시스템 리팩토링 백엔드 개발",
-      "url": "https://www.wishket.com/project/158705/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-09-23",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 5년 이상",
-        "msa · 4년 이상",
-        "Spring Boot · 4년 이상",
-        "PostgreSQL · 4년 이상",
-        "Aurora MySQL · 1년 이상",
-        "GitHub · 2년 이상",
-        "grafana · 2년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React/Next.js 기반 챗봇 대화 인터페이스 프론트엔드 개발",
-      "url": "https://www.wishket.com/project/158257/",
-      "budget": "3,500,000원/월",
-      "posted_at": "2026-09-07",
+      "title": "React/Vue.js 기반 B2C 웹 서비스 퍼블리싱",
+      "url": "https://www.wishket.com/project/158988/",
+      "budget": "5,800,000원/월",
+      "posted_at": "2026-10-08",
       "work_type": "상주",
       "tags": [
         "기간제"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "솔루션 운영(SM) 관리 플랫폼 서비스 기획자 (재택)",
-      "url": "https://www.wishket.com/project/158943/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-10-07",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "학생 AI 교육 행사 촬영 및 편집 의뢰",
+      "url": "https://kmong.com/enterprise/requests/227170",
+      "budget": "8,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제",
-        "Figma · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "온프레미스 인프라 기반 지자체 공공사업 TA",
-      "url": "https://www.wishket.com/project/158950/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-10-07",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 자재관리 프로그램 기존 기능확장",
-      "url": "https://www.wishket.com/project/158958/",
-      "budget": "10,000,000원/월",
-      "posted_at": "2026-10-07",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "MySQL · 경력 무관",
-        "MyBatis · 경력 무관",
-        "Gradle · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "DX-AX 구축 프로젝트 품질관리",
-      "url": "https://www.wishket.com/project/158956/",
-      "budget": "8,500,000원/월",
-      "posted_at": "2026-10-07",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "AWS 및 GitLab 기반 데브옵스 환경 구축 및 마이그레이션",
-      "url": "https://www.wishket.com/project/158961/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-10-07",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
+        "외주",
+        "영상·사진·음향",
+        "광고 영상 제작",
+        "21일"
       ]
     },
     {
@@ -943,17 +946,43 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[상주] 교육기업 닷넷 초급 개발자",
-      "url": "https://kmong.com/enterprise/requests/227008",
-      "budget": "5,000,000원/월",
+      "source": "나라장터",
+      "title": "[부산대학교] 대학일자리플러스센터 홈페이지 구축사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01744830",
+      "budget": "",
       "posted_at": "",
-      "work_type": "상주",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "180일"
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국교원대학교 산학협력단] 2026년 하반기 학교 현장 실증데이터 수집 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01736584",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국기초과학지원연구원] 한국형 과학데이터랩 구축 및 확산 사업기획 지원 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01742856",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 포항소재산업진흥원] 자원순환 데이터 관계모델 설계 및 정보화전략계획(ISP) 수립",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01745068",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
