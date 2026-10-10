@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T05:47:35.569182+00:00",
-  "count": 74,
+  "generated_at": "2026-10-10T05:30:48.821050+00:00",
+  "count": 75,
   "items": [
     {
       "source": "위시켓",
@@ -317,20 +317,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[을지로] 금융권 Oracle DBA",
-      "url": "https://kmong.com/enterprise/requests/227138",
-      "budget": "8,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "데이터베이스",
-        "330일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[상주] 유통사 사업관리 PL",
       "url": "https://kmong.com/enterprise/requests/227118",
       "budget": "9,500,000원/월",
@@ -467,6 +453,20 @@
         "IT·프로그래밍",
         "웹사이트 개발",
         "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[을지로] 금융권 Oracle DBA",
+      "url": "https://kmong.com/enterprise/requests/227138",
+      "budget": "8,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "데이터베이스",
+        "330일"
       ]
     },
     {
@@ -979,6 +979,16 @@
       "source": "나라장터",
       "title": "[재단법인 포항소재산업진흥원] 자원순환 데이터 관계모델 설계 및 정보화전략계획(ISP) 수립",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01745068",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[재단법인 포항소재산업진흥원] 자원순환 데이터 표준화 및 물질흐름 지식DB 구축 용역(1차)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01745011",
       "budget": "",
       "posted_at": "",
       "tags": [
