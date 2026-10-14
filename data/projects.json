@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T06:33:22.598098+00:00",
-  "count": 70,
+  "generated_at": "2026-10-14T04:34:16.857599+00:00",
+  "count": 72,
   "items": [
     {
       "source": "위시켓",
@@ -33,17 +33,6 @@
     },
     {
       "source": "위시켓",
-      "title": "음악학원 홈페이지 및 학원 관리 시스템 연간 유지보수",
-      "url": "https://www.wishket.com/project/159005/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-10-12",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "동물구조단체 공식 홈페이지 개발",
       "url": "https://www.wishket.com/project/158999/",
       "budget": "10,000,000원",
@@ -59,10 +48,10 @@
     },
     {
       "source": "위시켓",
-      "title": "전자교탁 메인 컨트롤러 재개발",
-      "url": "https://www.wishket.com/project/158965/",
+      "title": "AI 기반 의사 찾기 챗봇 개발",
+      "url": "https://www.wishket.com/project/159089/",
       "budget": "협의 후 결정",
-      "posted_at": "2026-10-07",
+      "posted_at": "2026-10-14",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -70,10 +59,10 @@
     },
     {
       "source": "위시켓",
-      "title": "반려동물 분양형 쇼핑몰(지사몰) 플랫폼 구축",
-      "url": "https://www.wishket.com/project/159050/",
-      "budget": "70,000,000원",
-      "posted_at": "2026-10-13",
+      "title": "전자교탁 메인 컨트롤러 재개발",
+      "url": "https://www.wishket.com/project/158965/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-07",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -136,6 +125,17 @@
     },
     {
       "source": "위시켓",
+      "title": "실시간 스포츠 앱 내 레벨 시스템 도입 및 서비스 기획",
+      "url": "https://www.wishket.com/project/159070/",
+      "budget": "4,500,000원",
+      "posted_at": "2026-10-13",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "Python/LangGraph 기반 금융조회 AI Agent 백엔드 개발",
       "url": "https://www.wishket.com/project/158906/",
       "budget": "협의 후 결정",
@@ -183,6 +183,46 @@
     },
     {
       "source": "위시켓",
+      "title": "Java 기반 금융권 신용 업무 기간계 개발 및 운영",
+      "url": "https://www.wishket.com/project/159082/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-10-14",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java · 10년 이하"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java 기반 금융권 계약 및 채권 업무 기간계 운영",
+      "url": "https://www.wishket.com/project/159083/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-10-14",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java · 10년 이하"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "ETL 기반 반도체 Data Lake 시스템 개발",
+      "url": "https://www.wishket.com/project/159091/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-10-14",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "ETL · 4년 이상",
+        "Airflow · 3년 이상",
+        "k8s · 3년 이상",
+        "S3 · 2년 이상",
+        "Spark · 1년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "PostgreSQL/Python 기반 공공 AI 데이터 플랫폼 DA 리드 PL",
       "url": "https://www.wishket.com/project/159047/",
       "budget": "9,500,000원/월",
@@ -222,37 +262,45 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "React 기반 디지털 트윈 웹 서비스 프론트엔드 개발 (재택)",
-      "url": "https://www.wishket.com/project/159057/",
-      "budget": "3,500,000원/월",
-      "posted_at": "2026-10-13",
+      "source": "크몽엔터프라이즈",
+      "title": "금융권 웹사이트 개발 (JAVA)",
+      "url": "https://kmong.com/enterprise/requests/227173",
+      "budget": "10,000,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "16일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "AI/SEO 기반 웹사이트 제작 및 콘텐츠 생산 시스템 개발",
-      "url": "https://www.wishket.com/project/159059/",
-      "budget": "4,160,000원/월",
-      "posted_at": "2026-10-13",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "상품 재고, 거래처 및 발주 관리 웹 시스템 구축",
+      "url": "https://kmong.com/enterprise/requests/227185",
+      "budget": "9,900,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제"
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "61일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "보험 계정계 고객관리 및 보전 시스템 운영 개발",
-      "url": "https://www.wishket.com/project/159066/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-10-13",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "신규입사자 OT용 안전보건교육영상 제작",
+      "url": "https://kmong.com/enterprise/requests/227190",
+      "budget": "6,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제",
-        "Java · 6년 이상"
+        "외주",
+        "영상·사진·음향",
+        "교육 영상 제작",
+        "18일"
       ]
     },
     {
@@ -914,45 +962,23 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "웹 기반 통계 시스템 재구축 및 데이터 이관 제안",
-      "url": "https://kmong.com/enterprise/requests/227029",
-      "budget": "77,000,000원",
+      "source": "나라장터",
+      "title": "[한국해양수산개발원] 차세대 글로벌 물류기술 통합정보시스템 개발 및 운영(7단계)",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01749858",
+      "budget": "",
       "posted_at": "",
-      "work_type": "원격",
       "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "IT컨설팅",
-        "181일"
+        "공공입찰"
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "ESP32 기반 원본 데이터 저장 전용 모듈 개발",
-      "url": "https://kmong.com/enterprise/requests/227035",
-      "budget": "5,000,000원",
+      "source": "나라장터",
+      "title": "[한국건설기술연구원] 2026년 통합연구정보시스템(K-IRIS) 유지관리",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01750170",
+      "budget": "",
       "posted_at": "",
-      "work_type": "원격",
       "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "하드웨어",
-        "53일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "멀티스코어보드 (통합대시보드) 디자인",
-      "url": "https://kmong.com/enterprise/requests/227026",
-      "budget": "30,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "웹·모바일 디자인",
-        "63일"
+        "공공입찰"
       ]
     }
   ]
