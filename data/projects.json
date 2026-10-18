@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:02:34.481614+00:00",
+  "generated_at": "2026-10-18T04:10:11.218168+00:00",
   "count": 76,
   "items": [
     {
@@ -303,34 +303,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[동대문] B2C 웹 서비스 퍼블리싱",
-      "url": "https://kmong.com/enterprise/requests/227200",
-      "budget": "5,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "300일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[동대문] B2C 웹·모바일 서비스 운영 디자인",
-      "url": "https://kmong.com/enterprise/requests/227201",
-      "budget": "5,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "디자인",
-        "웹·모바일 디자인",
-        "300일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[마곡] 대기업 DBA (AWS)",
       "url": "https://kmong.com/enterprise/requests/227197",
       "budget": "9,500,000원/월",
@@ -429,20 +401,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "Franka·Robotiq 현장 설치 및 ROS 셋업",
-      "url": "https://kmong.com/enterprise/requests/227166",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "하드웨어",
-        "7일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[상주] S사 LLM 운영개발 사업",
       "url": "https://kmong.com/enterprise/requests/227162",
       "budget": "9,000,000원/월",
@@ -527,6 +485,34 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "[동대문] B2C 웹 서비스 퍼블리싱",
+      "url": "https://kmong.com/enterprise/requests/227200",
+      "budget": "5,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "300일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[동대문] B2C 웹·모바일 서비스 운영 디자인",
+      "url": "https://kmong.com/enterprise/requests/227201",
+      "budget": "5,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "디자인",
+        "웹·모바일 디자인",
+        "300일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "[발산] Oracle DBA",
       "url": "https://kmong.com/enterprise/requests/227211",
       "budget": "6,000,000원/월",
@@ -593,6 +579,20 @@
         "영상·사진·음향",
         "광고 영상 제작",
         "21일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "Franka·Robotiq 현장 설치 및 ROS 셋업",
+      "url": "https://kmong.com/enterprise/requests/227166",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "7일"
       ]
     },
     {
@@ -947,16 +947,6 @@
     },
     {
       "source": "나라장터",
-      "title": "[주식회사 마음에이아이] (긴급) 제조현장 산업안전 AI 솔루션 학습용 데이터 가공 정제 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01756010",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
       "title": "[연세대학교의료원 산학협력단] LCDC 플랫폼 앱 개발",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01752388",
       "budget": "",
@@ -999,6 +989,16 @@
       "source": "나라장터",
       "title": "[한국데이터산업진흥원] 2027년 한국데이터산업진흥원 사업관리 웹페이지 유지관리 용역",
       "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01756420",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[제주대학교 디지털정보처] 제주대학교 통합(학사행정)정보시스템 기능개선 사업",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01755213",
       "budget": "",
       "posted_at": "",
       "tags": [
