@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T04:25:48.910546+00:00",
-  "count": 70,
+  "generated_at": "2026-10-24T04:16:19.752095+00:00",
+  "count": 74,
   "items": [
     {
       "source": "위시켓",
@@ -60,17 +60,6 @@
     },
     {
       "source": "위시켓",
-      "title": "웰니스 브랜드 공식 쇼핑몰 디자인 (아임웹 기반, 브랜드 콘텐츠 중심 / 디자인만 의뢰)",
-      "url": "https://www.wishket.com/project/159212/",
-      "budget": "3,000,000원",
-      "posted_at": "2026-10-22",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "헤어 및 바디케어 브랜드 회사소개서·브로슈어 PPT 리뉴얼 디자인",
       "url": "https://www.wishket.com/project/159229/",
       "budget": "7,000,000원",
@@ -89,6 +78,8 @@
       "work_type": "원격",
       "tags": [
         "외주",
+        "next.js",
+        "supabase",
         "supabase, postgresql, next.js, typescript, vercel, playwright"
       ]
     },
@@ -101,6 +92,20 @@
       "work_type": "원격",
       "tags": [
         "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "nRF52 기반 무선 사운드 포스터 송수신기 1차 개발",
+      "url": "https://www.wishket.com/project/159258/",
+      "budget": "5,000,000원",
+      "posted_at": "2026-10-23",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "BLE",
+        "Bluetooth",
+        "JSON"
       ]
     },
     {
@@ -134,6 +139,54 @@
       "work_type": "상주",
       "tags": [
         "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React 기반 생산계획 최적화 시스템 개발 (증평 상주)",
+      "url": "https://www.wishket.com/project/159254/",
+      "budget": "8,600,000원/월",
+      "posted_at": "2026-10-23",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "wijmo · 경력 무관",
+        "SpringBoot · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python 기반 공공기관 웹 포털 구축 (주 3일 재택)",
+      "url": "https://www.wishket.com/project/159256/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-10-23",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React Native/Node.js 기반 리워드 앱 서비스 추가 개발 및 유지보수 (재택)",
+      "url": "https://www.wishket.com/project/159257/",
+      "budget": "4,000,000원/월",
+      "posted_at": "2026-10-23",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Moodle/PHP 기반 교육 시스템 업그레이드 개발",
+      "url": "https://www.wishket.com/project/159260/",
+      "budget": "10,000,000원/월",
+      "posted_at": "2026-10-23",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Moodle · 경력 무관"
       ]
     },
     {
@@ -185,58 +238,6 @@
       "work_type": "상주",
       "tags": [
         "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React/Java 기반 금융기관 정보자원관리시스템 개발",
-      "url": "https://www.wishket.com/project/159232/",
-      "budget": "6,000,000원/월",
-      "posted_at": "2026-10-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 5년 이상",
-        "react.js · 3~10년",
-        "DB2 · 3년 이상",
-        "전자정부표준프레임워크 · 3년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Upstage OCR 기반 사내 지식문서 자산화 ML 데이터 개발",
-      "url": "https://www.wishket.com/project/159235/",
-      "budget": "7,500,000원/월",
-      "posted_at": "2026-10-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "ML · 4년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React/TypeScript 기반 홈쇼핑 WMS 재구축 화면 개발",
-      "url": "https://www.wishket.com/project/159237/",
-      "budget": "7,500,000원/월",
-      "posted_at": "2026-10-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Unity/PICO VR 기반 LBVR 산업안전체험 콘텐츠 기획",
-      "url": "https://www.wishket.com/project/159240/",
-      "budget": "4,500,000원/월",
-      "posted_at": "2026-10-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "VR (가상현실) · 경력 무관",
-        "Unity · 경력 무관",
-        "3dsMax · 경력 무관"
       ]
     },
     {
@@ -293,20 +294,6 @@
         "디자인",
         "패키지·제품 디자인",
         "68일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "이커머스 브랜드 숏폼 바이럴 영상 제작 및 SNS 운영 프리랜서",
-      "url": "https://kmong.com/enterprise/requests/227182",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "기업 유튜브 제작",
-        "29일"
       ]
     },
     {
@@ -517,6 +504,20 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "38일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "이커머스 브랜드 숏폼 바이럴 영상 제작 및 SNS 운영 프리랜서",
+      "url": "https://kmong.com/enterprise/requests/227182",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "영상·사진·음향",
+        "기업 유튜브 제작",
+        "29일"
       ]
     },
     {
@@ -937,6 +938,46 @@
         "IT·프로그래밍",
         "AI",
         "60일"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[포항연일전통시장 문화관광형시장 육성사업단] 연일전통시장 홈페이지구축 및 홍보동영상 제작",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764006",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국식품연구원부설 세계김치연구소] 세계김치연구소 정보시스템 웹 전환 및 기능 개선",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764215",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[부산대학교 산학협력단] AI 기반 지역혁신 데이터 플랫폼 구축",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764019",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[주식회사 라이트플라이어] 26년 스마트팜 데이터 활용 AI 서비스 연계 및 개발 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764403",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
