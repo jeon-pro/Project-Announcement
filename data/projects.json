@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T04:16:19.752095+00:00",
-  "count": 74,
+  "generated_at": "2026-10-25T04:19:34.163453+00:00",
+  "count": 73,
   "items": [
     {
       "source": "위시켓",
@@ -522,6 +522,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "[양재] AI 통합챗봇 구축 UI/UX 기획 (중급)",
+      "url": "https://kmong.com/enterprise/requests/227228",
+      "budget": "6,200,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "기획",
+        "UI・UX 기획",
+        "180일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "[마곡] ETL 및 배치 고도화 (중급)",
       "url": "https://kmong.com/enterprise/requests/227219",
       "budget": "6,500,000원/월",
@@ -924,30 +938,6 @@
         "디자인",
         "온라인 마케팅 소재 디자인",
         "91일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "AI 사진 해석·의사 소견 비교 및 시술 지식 DB",
-      "url": "https://kmong.com/enterprise/requests/227083",
-      "budget": "12,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "AI",
-        "60일"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[포항연일전통시장 문화관광형시장 육성사업단] 연일전통시장 홈페이지구축 및 홍보동영상 제작",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764006",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
       ]
     },
     {
