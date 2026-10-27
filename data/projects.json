@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T04:23:09.280353+00:00",
-  "count": 73,
+  "generated_at": "2026-10-27T04:42:22.670104+00:00",
+  "count": 72,
   "items": [
     {
       "source": "위시켓",
-      "title": "리스·장기렌트 금리 계산기 웹 개발",
-      "url": "https://www.wishket.com/project/159219/",
-      "budget": "3,000,000원",
-      "posted_at": "2026-10-21",
+      "title": "더존 아마란스10, SAP, 이어카운트 연동 프로젝트",
+      "url": "https://www.wishket.com/project/159186/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-26",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -19,6 +19,17 @@
       "url": "https://www.wishket.com/project/159221/",
       "budget": "10,000,000원",
       "posted_at": "2026-10-22",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "국제특송 고객 포털 디자인·프론트엔드 개발",
+      "url": "https://www.wishket.com/project/159290/",
+      "budget": "5,000,000원",
+      "posted_at": "2026-10-27",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -48,10 +59,10 @@
     },
     {
       "source": "위시켓",
-      "title": "공간향기 B2B 현장 서비스 관리 웹 인수·검수 및 서버 배포",
-      "url": "https://www.wishket.com/project/159127/",
-      "budget": "8,000,000원",
-      "posted_at": "2026-10-16",
+      "title": "바디케어 고객관리 웹앱 MVP 개발",
+      "url": "https://www.wishket.com/project/159271/",
+      "budget": "1,350,000원",
+      "posted_at": "2026-10-26",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -59,10 +70,10 @@
     },
     {
       "source": "위시켓",
-      "title": "상용 AR SDK를 활용한 3D AR 가발 체험 앱 개발",
-      "url": "https://www.wishket.com/project/159067/",
-      "budget": "13,630,000원",
-      "posted_at": "2026-10-16",
+      "title": "AI 기반 개인주택 관리 플랫폼 MVP 개발",
+      "url": "https://www.wishket.com/project/159160/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-26",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -70,10 +81,10 @@
     },
     {
       "source": "위시켓",
-      "title": "헤어 및 바디케어 브랜드 회사소개서·브로슈어 PPT 리뉴얼 디자인",
-      "url": "https://www.wishket.com/project/159229/",
-      "budget": "7,000,000원",
-      "posted_at": "2026-10-22",
+      "title": "크리에이터 인증 기반 익명 커뮤니티 웹 및 모바일 앱 구축",
+      "url": "https://www.wishket.com/project/159280/",
+      "budget": "30,000,000원",
+      "posted_at": "2026-10-26",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -81,10 +92,10 @@
     },
     {
       "source": "위시켓",
-      "title": "안전보건교육 플랫폼 턴키 개발",
-      "url": "https://www.wishket.com/project/159248/",
-      "budget": "75,000,000원",
-      "posted_at": "2026-10-23",
+      "title": "마트 POS 및 본사 백오피스 구축",
+      "url": "https://www.wishket.com/project/159278/",
+      "budget": "50,000,000원",
+      "posted_at": "2026-10-26",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -92,27 +103,89 @@
     },
     {
       "source": "위시켓",
-      "title": "nRF52 기반 무선 사운드 포스터 송수신기 1차 개발",
-      "url": "https://www.wishket.com/project/159258/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-10-23",
+      "title": "대리인 위임장 자동 생성 및 특허청 연동 기반 웹 상표출원 자동화 플랫폼 구축",
+      "url": "https://www.wishket.com/project/159277/",
+      "budget": "50,000,000원",
+      "posted_at": "2026-10-26",
       "work_type": "원격",
       "tags": [
-        "외주",
-        "BLE",
-        "Bluetooth",
-        "JSON"
+        "외주"
       ]
     },
     {
       "source": "위시켓",
-      "title": "워드프레스 기반 자사 글로벌 홈페이지 반응형 리뉴얼 및 퍼블리싱",
-      "url": "https://www.wishket.com/project/159117/",
-      "budget": "8,000,000원",
-      "posted_at": "2026-10-15",
-      "work_type": "원격",
+      "title": "GCP 기반 클라우드 인프라 운영 TA",
+      "url": "https://www.wishket.com/project/159299/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-27",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "보안 솔루션 리뉴얼 구축 FE 개발(React/TypeScript)",
+      "url": "https://www.wishket.com/project/159302/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-10-27",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "TypeScript · 경력 무관",
+        "Styled-Components · 경력 무관",
+        "tanstack query · 경력 무관",
+        "jira · 경력 무관",
+        "confluence · 경력 무관",
+        "Claude Code · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 보안관제 솔루션 커스텀 개발 및 고도화",
+      "url": "https://www.wishket.com/project/159287/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-10-26",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React/TypeScript 기반 클라우드 모니터링 솔루션 프론트엔드 개발",
+      "url": "https://www.wishket.com/project/159289/",
+      "budget": "3,500,000원/월",
+      "posted_at": "2026-10-26",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 경력 무관",
+        "TypeScript · 경력 무관",
+        "Go · 경력 무관",
+        "k8s · 경력 무관",
+        "OpenShift · 경력 무관",
+        "React · 경력 무관",
+        "TypeScript · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Go 기반 인프라 통합 모니터링 에이전트 백엔드 개발",
+      "url": "https://www.wishket.com/project/159288/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-10-26",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Golang · 경력 무관",
+        "snmp · 경력 무관",
+        "Rest api · 경력 무관",
+        "Rest api · 경력 무관",
+        "SSH · 경력 무관",
+        "SSH · 경력 무관",
+        "cli · 경력 무관"
       ]
     },
     {
@@ -175,66 +248,17 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "React Native/Node.js 기반 리워드 앱 서비스 추가 개발 및 유지보수 (재택)",
-      "url": "https://www.wishket.com/project/159257/",
-      "budget": "4,000,000원/월",
-      "posted_at": "2026-10-23",
+      "source": "크몽엔터프라이즈",
+      "title": "[문래] 협업 포털 풀스택 (Pro*C, React)",
+      "url": "https://kmong.com/enterprise/requests/227276",
+      "budget": "7,200,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Moodle/PHP 기반 교육 시스템 업그레이드 개발",
-      "url": "https://www.wishket.com/project/159260/",
-      "budget": "10,000,000원/월",
-      "posted_at": "2026-10-23",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Moodle · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java Web/Oracle DB 기반 하나카드 시스템 운영 SM",
-      "url": "https://www.wishket.com/project/158933/",
-      "budget": "5,500,000원/월",
-      "posted_at": "2026-10-06",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "PCIe/NAND Flash 기반 메모리 인터페이스 하드웨어 설계 엔지니어",
-      "url": "https://www.wishket.com/project/159119/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-10-15",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "React/NestJS 기반 회계시스템 구축 풀스택 개발",
-      "url": "https://www.wishket.com/project/159228/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-10-22",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "vibe coding · 3년 이상",
-        "AI 활용 · 2년 이상",
-        "Nestjs · 5년 이상",
-        "NextJS · 5년 이상",
-        "React · 5년 이상",
-        "TypeScript · 3년 이상",
-        "PostgreSQL · 3년 이상"
+        "상주",
+        "IT·프로그래밍",
+        "프로그램 개발",
+        "210일"
       ]
     },
     {
@@ -924,23 +948,9 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "기능운동 콘텐츠 영상 10편 제작 (기획,촬영,편집)",
-      "url": "https://kmong.com/enterprise/requests/227096",
-      "budget": "6,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "교육 영상 제작",
-        "49일"
-      ]
-    },
-    {
       "source": "나라장터",
-      "title": "[한국식품연구원부설 세계김치연구소] 세계김치연구소 정보시스템 웹 전환 및 기능 개선",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764215",
+      "title": "[조달청 부산지방조달청] 2027년 부산도서관 정보시스템 통합 유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01767047",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -949,18 +959,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[부산대학교 산학협력단] AI 기반 지역혁신 데이터 플랫폼 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764019",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[주식회사 라이트플라이어] 26년 스마트팜 데이터 활용 AI 서비스 연계 및 개발 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764403",
+      "title": "[서울특별시] 2027년 서북병원 의료정보시스템 운영 및 유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01767164",
       "budget": "",
       "posted_at": "",
       "tags": [
