@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-01T05:41:17.657939+00:00",
-  "count": 70,
+  "generated_at": "2026-11-02T05:39:58.722221+00:00",
+  "count": 74,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "컨설팅 서비스 소개 홈페이지 제작",
+      "url": "https://www.wishket.com/project/159375/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-11-02",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "계측기·전자부품 B2B 쇼핑몰 구축 (장바구니 자동 견적 + 회원 유형별 가격)",
@@ -67,6 +78,17 @@
     },
     {
       "source": "위시켓",
+      "title": "자연 관찰·감정 기록 웰니스 서비스 MVP",
+      "url": "https://www.wishket.com/project/159394/",
+      "budget": "2,000,000원",
+      "posted_at": "2026-11-02",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "대리인 위임장 자동 생성 및 특허청 연동 기반 웹 상표출원 자동화 플랫폼 구축",
       "url": "https://www.wishket.com/project/159277/",
       "budget": "50,000,000원",
@@ -89,41 +111,13 @@
     },
     {
       "source": "위시켓",
-      "title": "숙박 예약 통합관리 웹 서비스 AI 숙소 메시지 구축 및 예약·요금 연동 안정화",
-      "url": "https://www.wishket.com/project/159359/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-10-30",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "Firebase",
-        "Node.js",
-        "React"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "청소 견적·인력매칭 플랫폼 1차 오픈 베타 구축",
-      "url": "https://www.wishket.com/project/159295/",
-      "budget": "18,000,000원",
-      "posted_at": "2026-10-30",
+      "title": "발레 학원 예약·결제 홈페이지 구축 및 관리자 페이지 연동",
+      "url": "https://www.wishket.com/project/159395/",
+      "budget": "4,000,000원",
+      "posted_at": "2026-11-02",
       "work_type": "원격",
       "tags": [
         "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "해외 고객용 한국 쇼핑·배송대행 통합 홈페이지 리뉴얼",
-      "url": "https://www.wishket.com/project/159353/",
-      "budget": "40,000,000원",
-      "posted_at": "2026-10-30",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "ASP.NET",
-        "C#",
-        "MSSQL"
       ]
     },
     {
@@ -132,6 +126,72 @@
       "url": "https://www.wishket.com/project/159312/",
       "budget": "3,500,000원/월",
       "posted_at": "2026-10-28",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/React 기반 LG전자 글로벌 플랫폼 기능 개선 풀스택 개발",
+      "url": "https://www.wishket.com/project/159403/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-11-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Python/FastAPI 기반 보험사 AI 활용체계 구축 개발 (고급)",
+      "url": "https://www.wishket.com/project/159402/",
+      "budget": "6,500,000원/월",
+      "posted_at": "2026-11-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Spring 기반 보험사 AI 대화형 질의응답 서비스 개발 (중급)",
+      "url": "https://www.wishket.com/project/159408/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-11-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Spring 기반 보험사 AI 활용체계 화면 및 외부 연계 개발 (초급)",
+      "url": "https://www.wishket.com/project/159409/",
+      "budget": "4,500,000원/월",
+      "posted_at": "2026-11-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "보험사 AI 활용체계 구축 UI/UX 기획",
+      "url": "https://www.wishket.com/project/159404/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-11-02",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "ROS2/MuJoCo/Python 기반 딥러닝·로봇 교육 강사",
+      "url": "https://www.wishket.com/project/159401/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-11-02",
       "work_type": "상주",
       "tags": [
         "기간제"
@@ -183,78 +243,31 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "ASP.NET/Azure 기반 글로벌 해운물류 ERP 데이터 통합 개발",
-      "url": "https://www.wishket.com/project/159113/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-10-15",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "대형 어학원 소속, 전용 홈페이지 및 앱 개발문의",
+      "url": "https://kmong.com/enterprise/requests/227304",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제",
-        "ASP.NET · 경력 무관",
-        "Azure · 경력 무관"
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "58일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Java/Spring Boot 기반 기업 웹 시스템 개발 및 운영 유지보수",
-      "url": "https://www.wishket.com/project/159368/",
-      "budget": "7,200,000원/월",
-      "posted_at": "2026-10-30",
+      "source": "크몽엔터프라이즈",
+      "title": "[잠실] 글로벌O2O플랫폼 확산 Biz PMO (영문)",
+      "url": "https://kmong.com/enterprise/requests/227312",
+      "budget": "7,500,000원/월",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제",
-        "Java · 경력 무관",
-        "Spring Boot · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Oracle/Spring 기반 면세점 업무시스템 DB 업그레이드 및 개발",
-      "url": "https://www.wishket.com/project/159358/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-10-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "SQL · 9년 이상",
-        "Spring · 5년 이상",
-        "Java · 5년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Gemini 기반 비전공자 대상 AI 온라인 교육 강사",
-      "url": "https://www.wishket.com/project/159376/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-10-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "AI · 2년 이상",
-        "Gemini · 1년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Figma 기반 식음료 멤버십 앱 서비스 기획",
-      "url": "https://www.wishket.com/project/159378/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-10-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "C#/.NET 기반 해외 생산법인 MES 시스템 백엔드 성능 개선",
-      "url": "https://www.wishket.com/project/159380/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-10-30",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
+        "상주",
+        "기획",
+        "PM・PO",
+        "210일"
       ]
     },
     {
@@ -283,20 +296,6 @@
         "디자인",
         "인쇄용 홍보물 디자인",
         "25일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "의료기기 제품 사진·모델 촬영 및 홍보영상 통합 제작",
-      "url": "https://kmong.com/enterprise/requests/227296",
-      "budget": "9,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "상업 사진",
-        "18일"
       ]
     },
     {
@@ -944,17 +943,43 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[원주] 공공기관 DW 엔지니어",
-      "url": "https://kmong.com/enterprise/requests/227136",
-      "budget": "9,000,000원/월",
+      "source": "나라장터",
+      "title": "[국방과학연구소] Amesim 소프트웨어 정비유지보수용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01777007",
+      "budget": "",
       "posted_at": "",
-      "work_type": "상주",
       "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "데이터베이스",
-        "60일"
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 대구지방조달청] 2027년 한국교육학술정보원 정보시스템 위탁운영",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01776808",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 서울지방조달청] 27년 금융위 국·영문 홈페이지 유지보수",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01764684",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 인천지방조달청] 2027년 홈페이지 유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01777044",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
       ]
     }
   ]
