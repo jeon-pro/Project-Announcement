@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T06:20:06.964271+00:00",
-  "count": 78,
+  "generated_at": "2026-11-04T05:54:40.809847+00:00",
+  "count": 75,
   "items": [
     {
       "source": "위시켓",
@@ -147,6 +147,47 @@
     },
     {
       "source": "위시켓",
+      "title": "금융 앱 커뮤니티 기능 개편 웹/모바일 앱 QA 테스터",
+      "url": "https://www.wishket.com/project/159446/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-11-04",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "웹 프로그래밍 및 AI 기초 교육 강사 (구미)",
+      "url": "https://www.wishket.com/project/159447/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-11-04",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "C++ · 경력 무관",
+        "Python · 경력 무관",
+        "Node.js · 경력 무관",
+        "Vue.js · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring Boot 기반 교육 기업 레거시 ERP 통합 이관 백엔드 개발",
+      "url": "https://www.wishket.com/project/159448/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-11-04",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java·Spring Boot · 5년 이하",
+        "MS SQL Serve · 5년 이하",
+        "MySQL·MariaDB · 5년 이하",
+        "Linux · 5년 이하"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "Java/Spring 기반 호텔 식음료 POS 및 구매원가 시스템 운영·개발",
       "url": "https://www.wishket.com/project/159424/",
       "budget": "7,500,000원/월",
@@ -214,36 +255,59 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Python/FastAPI 기반 보험사 AI 활용체계 구축 개발 (고급)",
-      "url": "https://www.wishket.com/project/159402/",
+      "source": "크몽엔터프라이즈",
+      "title": "고깃집 매장 반응형 홈페이지 및 예약/포장 주문 시스템 구축",
+      "url": "https://kmong.com/enterprise/requests/227326",
+      "budget": "10,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "37일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[여의도] 금융권 스타뱅킹·인터넷뱅킹 프론트 개발 운영",
+      "url": "https://kmong.com/enterprise/requests/227331",
       "budget": "6,500,000원/월",
-      "posted_at": "2026-11-02",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "360일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Spring 기반 보험사 AI 대화형 질의응답 서비스 개발 (중급)",
-      "url": "https://www.wishket.com/project/159408/",
-      "budget": "5,500,000원/월",
-      "posted_at": "2026-11-02",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "기업 대상 연말 온라인 기부 캠페인",
+      "url": "https://kmong.com/enterprise/requests/227316",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제"
+        "외주",
+        "마케팅",
+        "종합광고대행",
+        "79일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "Spring 기반 보험사 AI 활용체계 화면 및 외부 연계 개발 (초급)",
-      "url": "https://www.wishket.com/project/159409/",
-      "budget": "4,500,000원/월",
-      "posted_at": "2026-11-02",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "이철헤어커커 더드림 뷰티그룹  공식 인스타그램 콘텐츠",
+      "url": "https://kmong.com/enterprise/requests/227323",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제"
+        "외주",
+        "마케팅",
+        "SNS·커뮤니티 확산",
+        "110일"
       ]
     },
     {
@@ -891,65 +955,9 @@
       ]
     },
     {
-      "source": "크몽엔터프라이즈",
-      "title": "[송파] AI 개발사업 기획 (정규직)",
-      "url": "https://kmong.com/enterprise/requests/227193",
-      "budget": "4,500,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "기획",
-        "PM・PO",
-        "720일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[여의도] 예탁결제원 차세대 2단계 분석/설계 (1월)",
-      "url": "https://kmong.com/enterprise/requests/227192",
-      "budget": "8,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "900일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "파크골프 구장(18홀 x 2~3개) 유니티 기반디자인",
-      "url": "https://kmong.com/enterprise/requests/227180",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "3D·VR·AR 디자인",
-        "77일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "학생 AI 교육 행사 촬영 및 편집 의뢰",
-      "url": "https://kmong.com/enterprise/requests/227170",
-      "budget": "8,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "광고 영상 제작",
-        "21일"
-      ]
-    },
-    {
       "source": "나라장터",
-      "title": "[조달청 부산지방조달청] AI 기반 지역혁신 데이터 플랫폼 구축",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01771462",
+      "title": "[조달청 대전지방조달청] 2027년 지적정보시스템 통합 유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01782393",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -958,8 +966,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[경상국립대학교] 2026년 공동사용 소프트웨어(V3, 내PC지키미) 구매",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01779945",
+      "title": "[조달청 서울지방조달청] 27~28년 정보시스템 통합유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01780760",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -968,8 +976,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[(사)한국금형산업진흥회] 금형분야 리트로핏 제조데이터 수집체계 표준모델 수립 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01779872",
+      "title": "[재단법인 경기도평생교육진흥원] 2027년 클라우드 및 정보시스템 운영 · 유지보수 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01779371",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -978,8 +986,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[경상남도 창원시] 2027년 토지정보시스템 통합유지보수 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01779843",
+      "title": "[（재）한국섬유기계융합연구원] 염색 암묵지 AI모델 및 제조데이터 수집 컨설팅 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01772191",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -988,38 +996,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청] 소방정보시스템 통합유지보수 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01779897",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 서울지방조달청] 27~28년도 국립산림과학원 연구정보시스템 통합 운영 및 유지관리",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01778913",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[조달청 인천지방조달청] 2027년 수원시 빅데이터 플랫폼 유지관리 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01780042",
-      "budget": "",
-      "posted_at": "",
-      "tags": [
-        "공공입찰"
-      ]
-    },
-    {
-      "source": "나라장터",
-      "title": "[포항공과대학교 산학협력단] [52867]제조 파운데이션 모델 데이터플랫폼 구축 및 안정화 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01780312",
+      "title": "[조달청 인천지방조달청] 2027년 수원시 홈페이지·새빛톡톡 통합유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01781919",
       "budget": "",
       "posted_at": "",
       "tags": [
