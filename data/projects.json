@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T06:11:42.154712+00:00",
-  "count": 74,
+  "generated_at": "2026-11-07T05:40:16.202837+00:00",
+  "count": 79,
   "items": [
     {
       "source": "위시켓",
@@ -80,6 +80,17 @@
     },
     {
       "source": "위시켓",
+      "title": "지역 계란전문점 기반 아파트 정기배송 앱 개발 (Android·iOS 앱 + 관리자 웹)",
+      "url": "https://project.wishket.com/project/159499/",
+      "budget": "30,000,000원",
+      "posted_at": "2026-11-06",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "계측기·전자부품 B2B 쇼핑몰 구축 (장바구니 자동 견적 + 회원 유형별 가격)",
       "url": "https://project.wishket.com/project/159355/",
       "budget": "25,000,000원",
@@ -115,19 +126,6 @@
       "work_type": "원격",
       "tags": [
         "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "가비아 퍼스트몰 연동 및 독립몰(킴스몰) DB 이전·반응형 퍼블리싱·정기 패치",
-      "url": "https://project.wishket.com/project/159337/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-10-29",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "JavaScript",
-        "PHP"
       ]
     },
     {
@@ -245,6 +243,20 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "[천안] 자동화 설비 기구설계 프리랜서",
+      "url": "https://kmong.com/enterprise/requests/227314",
+      "budget": "6,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "125kHz RFID 통신 프로토콜 해석",
       "url": "https://kmong.com/enterprise/requests/227337",
       "budget": "7,000,000원/월",
@@ -353,20 +365,6 @@
         "마케팅",
         "SNS·커뮤니티 확산",
         "110일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "사내관리시스템 FE리뉴얼 (UIUX 개선, 언어 전환)",
-      "url": "https://kmong.com/enterprise/requests/227317",
-      "budget": "6,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "50일"
       ]
     },
     {
@@ -945,8 +943,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청 광주지방조달청] 정보시스템 이중화 및 노후장비 교체사업",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01785371",
+      "title": "[조달청] 27년 ODA 정보시스템 운영 및 유지관리",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01784794",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -955,8 +953,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청 인천지방조달청] 2027년 수원시 상수도사업소 홈페이지 및 요금관리시스템 통합유지관리",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01786583",
+      "title": "[한국건강관리협회] 협회 홈페이지 운영지원 및 유지보수 용역 입찰 공고",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01789873",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -965,8 +963,8 @@
     },
     {
       "source": "나라장터",
-      "title": "[조달청 인천지방조달청] 정보시스템 통합 유지보수 사업 용역(장기계속)",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01786216",
+      "title": "[조달청 서울지방조달청] 2027년 남양주시 홈페이지 통합유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01786020",
       "budget": "",
       "posted_at": "",
       "tags": [
@@ -975,8 +973,58 @@
     },
     {
       "source": "나라장터",
-      "title": "[서울특별시] 2027년 정보시스템 유지관리 용역",
-      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01787778",
+      "title": "[조달청 경남지방조달청] 국방정보시스템(DTiMS‧DISIS‧DRES) 성능개량 사업 감리용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01789606",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[서울특별시 양천구] 2027~2028년 양천구 홈페이지 개선 및 유지관리",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01785985",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[조달청 경남지방조달청] 2027년~2028년 행정정보시스템 물적기반 유지관리",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01789616",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[대구도시개발공사] 대구도시개발공사 정보시스템 통합 유지관리 용역",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01790036",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[강원대학교 산학협력단] 강원대학교 데이터 안심구역 지정 기반 구축 및 컨설팅",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01789980",
+      "budget": "",
+      "posted_at": "",
+      "tags": [
+        "공공입찰"
+      ]
+    },
+    {
+      "source": "나라장터",
+      "title": "[한국인터넷진흥원] 2027년 KISA 아카데미 홈페이지 유지보수",
+      "url": "https://www.g2b.go.kr/co/cnts/co/cnts2View.do?bidNo=R26BK01790208",
       "budget": "",
       "posted_at": "",
       "tags": [
