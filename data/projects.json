@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-10T06:57:43.263270+00:00",
-  "count": 94,
+  "generated_at": "2026-11-11T05:48:44.700068+00:00",
+  "count": 70,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "CAD/PDF 도면 인식 기반 견적 자동 산출 및 단가 관리 시스템 구축",
+      "url": "https://project.wishket.com/project/159323/",
+      "budget": "25,000,000원",
+      "posted_at": "2026-11-11",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "식음료 매장 매칭 웹 프로토타입 제작",
+      "url": "https://project.wishket.com/project/159577/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-11-11",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "액추에이터 제품 자동 선정·기술문서 생성 업무 시스템 구축",
+      "url": "https://project.wishket.com/project/159576/",
+      "budget": "40,000,000원",
+      "posted_at": "2026-11-11",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "의류 도매 사입·재고·거래처 주문·정산 관리 웹 시스템 구축",
+      "url": "https://project.wishket.com/project/159567/",
+      "budget": "50,000,000원",
+      "posted_at": "2026-11-11",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "주거단지 커뮤니티 홈페이지 및 입주민 골프 잔여티 예약 사이트 구축",
@@ -22,6 +66,19 @@
       "work_type": "원격",
       "tags": [
         "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "숙박업소 운영 관리 웹앱 다중 계정 전환 및 온보딩 고도화",
+      "url": "https://project.wishket.com/project/159551/",
+      "budget": "10,000,000원",
+      "posted_at": "2026-11-10",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "JavaScript",
+        "React"
       ]
     },
     {
@@ -63,60 +120,17 @@
     },
     {
       "source": "위시켓",
-      "title": "행사 초청장 연결 모바일 안내 페이지 3종 제작",
-      "url": "https://project.wishket.com/project/159548/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-11-09",
-      "work_type": "원격",
+      "title": "Java·Kubernetes 기반 대용량 이미지 처리 시스템 유지보수",
+      "url": "https://project.wishket.com/project/159436/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-11-03",
+      "work_type": "상주",
       "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "제조 생산 공정 실시간 트래킹 시스템 구축 (엑셀 수기 관리 → 반응형 웹·PWA)",
-      "url": "https://project.wishket.com/project/159550/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-11-10",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "충돌·유해가스 감지 선루프 강제 개방 모듈 개발 (샘플 3개 제작)",
-      "url": "https://project.wishket.com/project/159417/",
-      "budget": "8,000,000원",
-      "posted_at": "2026-11-02",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "인쇄물·포토카드 손상 검출·품질 등급 분류 AI 시스템 개발",
-      "url": "https://project.wishket.com/project/159498/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-11-06",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "computer vision",
-        "Deep Learning",
-        "VLM"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "사내 문서 RAG 데이터 파이프라인 구축 (판교 상주 4개월)",
-      "url": "https://project.wishket.com/project/159533/",
-      "budget": "44,000,000원",
-      "posted_at": "2026-11-09",
-      "work_type": "원격",
-      "tags": [
-        "외주"
+        "기간제",
+        "Java · 5년 이상",
+        "Kafka · 2년 이상",
+        "k8s · 2년 이상",
+        "ETL · 1년 이상"
       ]
     },
     {
@@ -132,114 +146,153 @@
     },
     {
       "source": "위시켓",
-      "title": "Flutter/Nuxt 기반 커뮤니티 및 중고차 서비스 프론트엔드 개발",
-      "url": "https://project.wishket.com/project/159562/",
+      "title": "Oracle WebLogic 서비스 운영 및 유지보수",
+      "url": "https://project.wishket.com/project/159347/",
       "budget": "4,000,000원/월",
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-10-29",
       "work_type": "상주",
       "tags": [
         "기간제",
-        "Flutter · 경력 무관",
-        "nuxt.js · 경력 무관"
+        "XQuery · 경력 무관",
+        "was · 경력 무관",
+        "Java · 1년 이상",
+        "JBOSS · 경력 무관",
+        "xml · 1년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Public/Private 클라우드 기반 데이터센터 보안 아키텍트",
-      "url": "https://project.wishket.com/project/159563/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-11-10",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "데이터 모델링 및 RAG 데이터 스토어 구축",
-      "url": "https://project.wishket.com/project/159556/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-11-10",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Dell/NetApp 기반 HPC 엔터프라이즈 스토리지 운영 엔지니어",
-      "url": "https://project.wishket.com/project/159560/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-11-10",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/전자정부 프레임워크 기반 정부 부처 행정 시스템 유지보수 개발자",
-      "url": "https://project.wishket.com/project/159559/",
-      "budget": "4,500,000원/월",
-      "posted_at": "2026-11-10",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 5년 이하"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Python/Oracle 기반 ML·백엔드 시스템 Python 3.12 마이그레이션 개발",
-      "url": "https://project.wishket.com/project/159565/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-11-10",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Python · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/K8s 기반 대규모 데이터레이크 AI Agent 및 MCP 개발",
-      "url": "https://project.wishket.com/project/159531/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-11-09",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "AI Agent · 2년 이상",
-        "MCP · 2년 이상",
-        "k8s · 경력 무관",
-        "Spark · 경력 무관",
-        "StarRocks · 경력 무관",
-        "Java · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Spark/Airflow 기반 대기업 데이터레이크 파이프라인 개발",
-      "url": "https://project.wishket.com/project/159535/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-11-09",
+      "title": "Java/React 기반 반도체 자산관리 시스템 개발",
+      "url": "https://project.wishket.com/project/159572/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-11-11",
       "work_type": "상주",
       "tags": [
         "기간제",
         "Java · 경력 무관",
-        "k8s · 경력 무관",
-        "Spark · 경력 무관"
+        "React · 경력 무관"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Java/Spring 기반 카드사 차세대 시스템 구축 API 연동 개발",
-      "url": "https://project.wishket.com/project/159538/",
-      "budget": "6,500,000원/월",
-      "posted_at": "2026-11-09",
+      "title": "Java/Spring 기반 대외 여신(대출) 및 대외 보증·정산 연계 개발",
+      "url": "https://project.wishket.com/project/159582/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-11-11",
       "work_type": "상주",
       "tags": [
         "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "KT OSS 인벤토리 영역 PI",
+      "url": "https://project.wishket.com/project/159477/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-11-11",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS EKS Fargate 기반 서비스 인프라 이관 프로젝트 Dev PM",
+      "url": "https://project.wishket.com/project/159583/",
+      "budget": "10,000,000원/월",
+      "posted_at": "2026-11-11",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "AWS/Java Spring Boot 기반 서비스 인프라 이관 DevOps·백엔드 개발",
+      "url": "https://project.wishket.com/project/159587/",
+      "budget": "8,000,000원/월",
+      "posted_at": "2026-11-11",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring Boot 기반 금융사 모바일 앱 차세대 구축 백엔드 개발",
+      "url": "https://project.wishket.com/project/159586/",
+      "budget": "5,000,000원/월",
+      "posted_at": "2026-11-11",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "금융 모바일 앱 출시 전 QA 테스터 (초급)",
+      "url": "https://project.wishket.com/project/159588/",
+      "budget": "2,500,000원/월",
+      "posted_at": "2026-11-11",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "언리얼 엔진 기반 스크린골프 게임 UI 디자인",
+      "url": "https://kmong.com/enterprise/requests/227336",
+      "budget": "5,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "디자인",
+        "게임 그래픽 디자인",
+        "180일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "성형외과 유튜브 숏폼 편집",
+      "url": "https://kmong.com/enterprise/requests/227382",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "영상·사진·음향",
+        "기업 유튜브 제작",
+        "21일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "구내방송 제품 개발(하드웨어, 소프트웨어 포함)",
+      "url": "https://kmong.com/enterprise/requests/227370",
+      "budget": "50,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "211일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "통합배선반 제품 개발(하드웨어, 소프트웨어 포함)",
+      "url": "https://kmong.com/enterprise/requests/227371",
+      "budget": "50,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "211일"
       ]
     },
     {
@@ -300,20 +353,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "제조업 데이터 실시간 현황 모니터링 웹사이트 구축",
-      "url": "https://kmong.com/enterprise/requests/227373",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "38일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "3D 캐릭터 10명 제작(VRM·모션)",
       "url": "https://kmong.com/enterprise/requests/227355",
       "budget": "25,000,000원",
@@ -366,20 +405,6 @@
         "IT·프로그래밍",
         "하드웨어",
         "30일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "5060여성타겟 K메신저오픈채팅·B모임 광고(월500)",
-      "url": "https://kmong.com/enterprise/requests/227347",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "마케팅",
-        "SNS·커뮤니티 확산",
-        "29일"
       ]
     },
     {
@@ -492,6 +517,20 @@
         "디자인",
         "웹·모바일 디자인",
         "13일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "5060여성타겟 K메신저오픈채팅·B모임 광고(월500)",
+      "url": "https://kmong.com/enterprise/requests/227347",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "마케팅",
+        "SNS·커뮤니티 확산",
+        "29일"
       ]
     },
     {
@@ -898,407 +937,6 @@
         "IT·프로그래밍",
         "웹사이트 개발",
         "35일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[양재] AI 통합챗봇 구축 UI/UX 기획 (중급)",
-      "url": "https://kmong.com/enterprise/requests/227228",
-      "budget": "6,200,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "기획",
-        "UI・UX 기획",
-        "180일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "IT 인프라 엔지니어",
-      "url": "https://kmong.com/enterprise/requests/227203",
-      "budget": "8,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "쇼핑몰 이전 및 리뉴얼 구축(마이그레이션 포함)",
-      "url": "https://kmong.com/enterprise/requests/227217",
-      "budget": "5,500,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "웹·모바일 디자인",
-        "51일"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [구로] Private LLM 실시간 강의 (2개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14762",
-      "budget": "800~1000만원 / 월급",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "LLM 기반 업무 자동화 설계",
-        "LLM Function Calling",
-        "LLM Evaluation",
-        "LLM Fine-tuning (LoRA",
-        "SFT)",
-        "머신러닝 엔지니어",
-        "데이터 사이언티스트",
-        "보안 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [기흥] 삼성전자 DS LLM 퍼블리셔 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14761",
-      "budget": "500~700만원 / 월급",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "React",
-        "웹 퍼블리셔"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [청라] 하나은행 시금고 프로젝트 AA/공통인력 모집(SI) (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14756",
-      "budget": "900~1000만원 / 월급",
-      "posted_at": "2026-11-23",
-      "work_type": "상주",
-      "tags": [
-        "Java",
-        "JavaScript",
-        "서버 개발자",
-        "소프트웨어 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [인덕원] NH농협은행 자산관리시스템(회계·예산) 기능 개선 및 고도화 (7개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14755",
-      "budget": "500~550만원 / 월급",
-      "posted_at": "2026-12-01",
-      "work_type": "상주",
-      "tags": [
-        "Oracle",
-        "Java",
-        "SQL",
-        "Spring Boot",
-        "websquare",
-        "웹 개발자",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [나주] 우체국 예금업무 운영(3년) (24개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14754",
-      "budget": "500~520만원 / 월급",
-      "posted_at": "2027-01-01",
-      "work_type": "상주",
-      "tags": [
-        "Java",
-        "JSP",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [강남] JAVA 기반 교육 기업 레거시 ERP 통합 이관 백엔드 개발 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14746",
-      "budget": "400~600만원 / 월급",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "MySQL",
-        "Java",
-        "MSSQL",
-        "Spring Boot",
-        "서버 개발자",
-        "자바 개발자",
-        "ERP전문가"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [중구] 웹 관리자 시스템 고도화 개발 (Vue.js ) (5개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14745",
-      "budget": "500~750만원 / 월급",
-      "posted_at": "2026-12-01",
-      "work_type": "상주",
-      "tags": [
-        "Spring",
-        "Java",
-        "JavaScript",
-        "SQL",
-        "JSP",
-        "Spring MVC",
-        "Vue.js",
-        "웹 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [구로디지털단지] Airflow 통합 워크플로우 플랫폼 구축 (5개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14744",
-      "budget": "700~850만원 / 월급",
-      "posted_at": "2026-12-01",
-      "work_type": "상주",
-      "tags": [
-        "GitHub",
-        "Redis",
-        "Python",
-        "PostgreSQL",
-        "Apache Airflow",
-        "서버 개발자",
-        "소프트웨어 엔지니어",
-        "데이터 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [역삼역] CICD POC (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14742",
-      "budget": "700~750만원 / 월급",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "GitHub",
-        "DevOps / 시스템 관리자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [판교] AI 음성 모델 관리 서비스 프론트엔드 개발 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14740",
-      "budget": "450~500만원 / 월급",
-      "posted_at": "2026-11-30",
-      "work_type": "상주",
-      "tags": [
-        "B2B",
-        "TypeScript",
-        "React.js",
-        "Figma",
-        "Next.js",
-        "Zustand",
-        "프론트엔드 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [여의도] 시계열 AI 예측 모델 엔지니어 (AI/ML Engineer) (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14739",
-      "budget": "450~500만원 / 월급",
-      "posted_at": "2026-11-03",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "Machine Learning",
-        "머신러닝 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [여의도] 증권사 생성형 AI 프롬프트 엔지니어 & 개발자 - 중급 (4개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14738",
-      "budget": "500~700만원 / 월급",
-      "posted_at": "2026-12-01",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "서버 개발자",
-        "소프트웨어 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [여의도] 증권사 생성형 AI 데이터 플랫폼 아키텍트 -특급 (4개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14737",
-      "budget": "800~1000만원 / 월급",
-      "posted_at": "2026-12-01",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "LangChain",
-        "웹 개발자",
-        "서버 개발자",
-        "소프트웨어 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [구로디지털단지] TMS 솔루션 개발 프로젝트 (4개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14736",
-      "budget": "650~800만원 / 월급",
-      "posted_at": "2026-12-01",
-      "work_type": "상주",
-      "tags": [
-        "React",
-        "Redis",
-        "Java",
-        "PostgreSQL",
-        "JPA",
-        "Spring Boot",
-        "Claude",
-        "웹 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [서초구] 모바일 인사시스템 운영/유지보수 (5개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14734",
-      "budget": "500~600만원 / 월급",
-      "posted_at": "2026-11-09",
-      "work_type": "상주",
-      "tags": [
-        "Java",
-        "Spring Boot",
-        "서버 개발자",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [종로] 손해보험사 SSO연동 모바일 개발(SI) (1개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14727",
-      "budget": "600~800만원 / 월급",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "Spring",
-        "Java",
-        "안드로이드 SDK",
-        "자바 개발자",
-        "안드로이드 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [서울역] ASP.NET/C# 기반 금융사 글로벌 시스템 운영 및 개발 (12개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14718",
-      "budget": "600~620만원 / 월급",
-      "posted_at": "2026-11-23",
-      "work_type": "상주",
-      "tags": [
-        "ASP .NET",
-        "JavaScript",
-        "jQuery",
-        "웹 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [여의도] 금융권 LLM 프롬프트 엔지니어 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14716",
-      "budget": "700~900만원 / 월급",
-      "posted_at": "2026-11-03",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "웹 개발자",
-        "서버 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [종로][SM][초중급] 하나손해보험 운영 (11개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14708",
-      "budget": "500~670만원 / 월급",
-      "posted_at": "2026-10-26",
-      "work_type": "상주",
-      "tags": [
-        "Oracle",
-        "Spring",
-        "Java",
-        "Vue.js",
-        "websquare",
-        "서버 개발자",
-        "프론트엔드 개발자",
-        "자바 개발자"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [역삼] AI 대화 엔진 전환 및 프롬프트 품질 고도화 프로젝트 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14704",
-      "budget": "300~300만원 / 월급",
-      "posted_at": "2026-11-02",
-      "work_type": "상주",
-      "tags": [
-        "QA 엔지니어링",
-        "QA,테스트 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [분당] 네트워크 운영 담당자 (12개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14693",
-      "budget": "250~400만원 / 월급",
-      "posted_at": "2026-11-01",
-      "work_type": "상주",
-      "tags": [
-        "Law IP",
-        "TCP",
-        "Cisco",
-        "VLAN",
-        "시스템,네트워크 관리자",
-        "보안 엔지니어"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [영등포] AI 기반 IOT 데이터 도로결빙 예측 시스템 데이터사이언티스트 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14661",
-      "budget": "300~350만원 / 월급",
-      "posted_at": "2026-10-12",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "데이터 사이언티스트"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [영등포] AI 기반 IOT 데이터 도로결빙 예측 시스템 데이터사이언티스트 (3개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14577",
-      "budget": "450~500만원 / 월급",
-      "posted_at": "2026-09-14",
-      "work_type": "상주",
-      "tags": [
-        "Python",
-        "데이터 사이언티스트"
-      ]
-    },
-    {
-      "source": "원티드긱스",
-      "title": "[상주] [중구] 모바일 앱 개발자 (12개월)",
-      "url": "https://www.wanted.co.kr/gigs/projects/14437",
-      "budget": "400~600만원 / 월급",
-      "posted_at": "2026-08-31",
-      "work_type": "상주",
-      "tags": [
-        "Confluence",
-        "Git",
-        "JIRA",
-        "Android",
-        "React",
-        "CSS",
-        "JavaScript",
-        "Kotlin"
       ]
     }
   ]
