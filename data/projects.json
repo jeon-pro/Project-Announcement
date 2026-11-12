@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-11T05:48:44.700068+00:00",
+  "generated_at": "2026-11-12T06:54:00.965261+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "온라인 상품권 대량 매입 및 예치금 정산 웹 플랫폼 구축",
+      "url": "https://project.wishket.com/project/159604/",
+      "budget": "30,000,000원",
+      "posted_at": "2026-11-12",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "자체 구축 웹사이트 내 랜딩 페이지 리뉴얼 및 모듈형 관리 기능(CMS) 추가",
+      "url": "https://project.wishket.com/project/159598/",
+      "budget": "18,000,000원",
+      "posted_at": "2026-11-12",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "JavaScript"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "협회 홈페이지 리뉴얼 (디자인 개편 · 모바일 반응형 · 워드프레스 정비 · 데이터 정리)",
+      "url": "https://project.wishket.com/project/159603/",
+      "budget": "20,000,000원",
+      "posted_at": "2026-11-12",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "커머스 플랫폼 단기 기술 진단",
+      "url": "https://project.wishket.com/project/159609/",
+      "budget": "2,000,000원",
+      "posted_at": "2026-11-12",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "금융 하이브리드 모바일 앱 네이티브 영역 정기 유지보수 및 기능 개선 (월 단위)",
+      "url": "https://project.wishket.com/project/159607/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-11-12",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "CAD/PDF 도면 인식 기반 견적 자동 산출 및 단가 관리 시스템 구축",
@@ -59,67 +115,6 @@
     },
     {
       "source": "위시켓",
-      "title": "재활용 실적 이상탐지·모니터링 시스템 구축",
-      "url": "https://project.wishket.com/project/159542/",
-      "budget": "50,000,000원",
-      "posted_at": "2026-11-10",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "숙박업소 운영 관리 웹앱 다중 계정 전환 및 온보딩 고도화",
-      "url": "https://project.wishket.com/project/159551/",
-      "budget": "10,000,000원",
-      "posted_at": "2026-11-10",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "JavaScript",
-        "React"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "프리다이빙 강습 기록 앱 고도화 개발",
-      "url": "https://project.wishket.com/project/159529/",
-      "budget": "5,000,000원",
-      "posted_at": "2026-11-09",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "GitHub",
-        "HTML",
-        "supabase"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "영어학원 LMS 구축 및 AI 진단·숙제·학부모 리포트 통합 개발",
-      "url": "https://project.wishket.com/project/159516/",
-      "budget": "11,000,000원",
-      "posted_at": "2026-11-09",
-      "work_type": "원격",
-      "tags": [
-        "외주"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "아임웹 해외 판매용 자사몰 세팅 및 디자인",
-      "url": "https://project.wishket.com/project/159532/",
-      "budget": "1,500,000원",
-      "posted_at": "2026-11-09",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "아임웹"
-      ]
-    },
-    {
-      "source": "위시켓",
       "title": "Java·Kubernetes 기반 대용량 이미지 처리 시스템 유지보수",
       "url": "https://project.wishket.com/project/159436/",
       "budget": "7,300,000원/월",
@@ -146,6 +141,29 @@
     },
     {
       "source": "위시켓",
+      "title": "Figma 기반 식음료 멤버십 앱 서비스 기획",
+      "url": "https://project.wishket.com/project/159378/",
+      "budget": "협의 후 결정",
+      "posted_at": "2026-10-30",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "모의해킹·AI 레드티밍 보안 프로젝트 PM",
+      "url": "https://project.wishket.com/project/159348/",
+      "budget": "12,000,000원/월",
+      "posted_at": "2026-10-29",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "모의해킹 · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "Oracle WebLogic 서비스 운영 및 유지보수",
       "url": "https://project.wishket.com/project/159347/",
       "budget": "4,000,000원/월",
@@ -158,6 +176,31 @@
         "Java · 1년 이상",
         "JBOSS · 경력 무관",
         "xml · 1년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Next.js(React)/Spring Boot 기반 공공기관 클라우드 네이티브 전환 프론트엔드 개발",
+      "url": "https://project.wishket.com/project/159605/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-11-12",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 2년 이상"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/JSP 기반 공공기관 차세대 전환 구축 웹 개발",
+      "url": "https://project.wishket.com/project/159608/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-11-12",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java · 경력 무관",
+        "JSP · 경력 무관"
       ]
     },
     {
@@ -186,7 +229,7 @@
     },
     {
       "source": "위시켓",
-      "title": "KT OSS 인벤토리 영역 PI",
+      "title": "KT OSS(운영지원시스템) 인벤토리 영역 PI(Process Innovation)",
       "url": "https://project.wishket.com/project/159477/",
       "budget": "협의 후 결정",
       "posted_at": "2026-11-11",
@@ -196,47 +239,45 @@
       ]
     },
     {
-      "source": "위시켓",
-      "title": "AWS EKS Fargate 기반 서비스 인프라 이관 프로젝트 Dev PM",
-      "url": "https://project.wishket.com/project/159583/",
+      "source": "크몽엔터프라이즈",
+      "title": "울산 CCR룸 PLC 제어반 제작 및 설치 프로젝트",
+      "url": "https://kmong.com/enterprise/requests/227391",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "32일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[학동] 데이터 거버넌스/플랫폼 아키텍처 컨설팅 DA",
+      "url": "https://kmong.com/enterprise/requests/227390",
       "budget": "10,000,000원/월",
-      "posted_at": "2026-11-11",
+      "posted_at": "",
       "work_type": "상주",
       "tags": [
-        "기간제"
+        "상주",
+        "IT·프로그래밍",
+        "IT컨설팅",
+        "180일"
       ]
     },
     {
-      "source": "위시켓",
-      "title": "AWS/Java Spring Boot 기반 서비스 인프라 이관 DevOps·백엔드 개발",
-      "url": "https://project.wishket.com/project/159587/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-11-11",
-      "work_type": "상주",
+      "source": "크몽엔터프라이즈",
+      "title": "K뷰티 리워드형 크라우드펀딩몰 MVP 개발",
+      "url": "https://kmong.com/enterprise/requests/227386",
+      "budget": "15,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
       "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/Spring Boot 기반 금융사 모바일 앱 차세대 구축 백엔드 개발",
-      "url": "https://project.wishket.com/project/159586/",
-      "budget": "5,000,000원/월",
-      "posted_at": "2026-11-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "금융 모바일 앱 출시 전 QA 테스터 (초급)",
-      "url": "https://project.wishket.com/project/159588/",
-      "budget": "2,500,000원/월",
-      "posted_at": "2026-11-11",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "78일"
       ]
     },
     {
@@ -297,34 +338,6 @@
     },
     {
       "source": "크몽엔터프라이즈",
-      "title": "[구로] AWS 인프라 엔지니어",
-      "url": "https://kmong.com/enterprise/requests/227378",
-      "budget": "7,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "시스템·네트워크·인프라",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[구로] 교육 플랫폼 서비스 기획자",
-      "url": "https://kmong.com/enterprise/requests/227377",
-      "budget": "4,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "기획",
-        "UI・UX 기획",
-        "90일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
       "title": "[여의도] 방화벽/IPS 보안정책 최적화 및 운영",
       "url": "https://kmong.com/enterprise/requests/227367",
       "budget": "7,000,000원/월",
@@ -349,20 +362,6 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "3D 캐릭터 10명 제작(VRM·모션)",
-      "url": "https://kmong.com/enterprise/requests/227355",
-      "budget": "25,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "디자인",
-        "3D·VR·AR 디자인",
-        "95일"
       ]
     },
     {
@@ -507,6 +506,48 @@
     },
     {
       "source": "크몽엔터프라이즈",
+      "title": "IP 기반 인터랙티브 참여형 웹사이트 개발",
+      "url": "https://kmong.com/enterprise/requests/227380",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트 개발",
+        "32일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[구로] AWS 인프라 엔지니어",
+      "url": "https://kmong.com/enterprise/requests/227378",
+      "budget": "7,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "IT·프로그래밍",
+        "시스템·네트워크·인프라",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "[구로] 교육 플랫폼 서비스 기획자",
+      "url": "https://kmong.com/enterprise/requests/227377",
+      "budget": "4,000,000원/월",
+      "posted_at": "",
+      "work_type": "상주",
+      "tags": [
+        "상주",
+        "기획",
+        "UI・UX 기획",
+        "90일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
       "title": "모의고사 채점 서비스 UI·UX 디자인(화면 2종)",
       "url": "https://kmong.com/enterprise/requests/227358",
       "budget": "1,360,000원",
@@ -517,6 +558,20 @@
         "디자인",
         "웹·모바일 디자인",
         "13일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "3D 캐릭터 10명 제작(VRM·모션)",
+      "url": "https://kmong.com/enterprise/requests/227355",
+      "budget": "25,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "디자인",
+        "3D·VR·AR 디자인",
+        "95일"
       ]
     },
     {
@@ -881,62 +936,6 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "38일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "이커머스 브랜드 숏폼 바이럴 영상 제작 및 SNS 운영 프리랜서",
-      "url": "https://kmong.com/enterprise/requests/227182",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "영상·사진·음향",
-        "기업 유튜브 제작",
-        "29일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "워드프레스 전용 플러그인 적용 및 데이터 이전 프로젝트",
-      "url": "https://kmong.com/enterprise/requests/227243",
-      "budget": "10,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "21일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "[시청역] 금융지주 ESG 홈페이지 고도화 및 개편",
-      "url": "https://kmong.com/enterprise/requests/227242",
-      "budget": "7,000,000원/월",
-      "posted_at": "",
-      "work_type": "상주",
-      "tags": [
-        "상주",
-        "IT·프로그래밍",
-        "프로그램 개발",
-        "60일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "베이비유 아이사진 스튜디오 홈페이지 신규 개발",
-      "url": "https://kmong.com/enterprise/requests/227229",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트 개발",
-        "35일"
       ]
     }
   ]
