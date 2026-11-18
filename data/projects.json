@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-17T07:37:48.541298+00:00",
+  "generated_at": "2026-11-18T06:59:43.030177+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "브랜드 공식 쇼핑몰 구축",
+      "url": "https://project.wishket.com/project/159691/",
+      "budget": "3,000,000원",
+      "posted_at": "2026-11-18",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "온라인 사찰 힐링 리듬게임 개발",
@@ -26,10 +37,21 @@
     },
     {
       "source": "위시켓",
-      "title": "재활용 실적 이상탐지·모니터링 시스템 구축",
-      "url": "https://project.wishket.com/project/159542/",
-      "budget": "50,000,000원",
-      "posted_at": "2026-11-10",
+      "title": "모형(고정형) 3D 프린팅 및 도색 제작",
+      "url": "https://project.wishket.com/project/159715/",
+      "budget": "1,800,000원",
+      "posted_at": "2026-11-18",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "발주 수량 자동 산출·배송 코스 최적화 프로그램 개발",
+      "url": "https://project.wishket.com/project/159706/",
+      "budget": "20,000,000원",
+      "posted_at": "2026-11-18",
       "work_type": "원격",
       "tags": [
         "외주"
@@ -96,27 +118,87 @@
     },
     {
       "source": "위시켓",
-      "title": "SNS 공동구매 운영 자동화 플랫폼 구축",
-      "url": "https://project.wishket.com/project/159677/",
-      "budget": "35,000,000원",
-      "posted_at": "2026-11-17",
-      "work_type": "원격",
+      "title": "Java/Spring 기반 카드사 차세대 시스템 구축 API 연동 개발",
+      "url": "https://project.wishket.com/project/159538/",
+      "budget": "6,500,000원/월",
+      "posted_at": "2026-11-09",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제"
       ]
     },
     {
       "source": "위시켓",
-      "title": "소상공인·여행객 중개 플랫폼 배포 및 마무리 작업",
-      "url": "https://project.wishket.com/project/159651/",
-      "budget": "1,000,000원",
-      "posted_at": "2026-11-16",
-      "work_type": "원격",
+      "title": "Highway101 기반 한화솔루션/케미칼 SAP-EAI 시스템 운영·유지보수 (고급)",
+      "url": "https://project.wishket.com/project/159698/",
+      "budget": "6,500,000원/월",
+      "posted_at": "2026-11-18",
+      "work_type": "상주",
       "tags": [
-        "외주",
-        "Django",
-        "Docker",
-        "PostgreSQL"
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/전자정부 프레임워크·WebSquare 기반 금융권 구금고 전산시스템 구축",
+      "url": "https://project.wishket.com/project/159703/",
+      "budget": "5,500,000원/월",
+      "posted_at": "2026-11-18",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "JSP/Java 기반 병원 전자차트 VAN사(KCP) 결제 연동 개발 (2주)",
+      "url": "https://project.wishket.com/project/159697/",
+      "budget": "3,000,000원/월",
+      "posted_at": "2026-11-18",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "React/Vue 기반 대기업 PKT 시스템 구축 프론트엔드 개발",
+      "url": "https://project.wishket.com/project/159704/",
+      "budget": "6,000,000원/월",
+      "posted_at": "2026-11-18",
+      "work_type": "상주",
+      "tags": [
+        "기간제"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/Spring 기반 금융권 모바일 웹서비스 운영·개선 PL",
+      "url": "https://project.wishket.com/project/159714/",
+      "budget": "7,500,000원/월",
+      "posted_at": "2026-11-18",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java · 3년 이상",
+        "JavaScript · 3년 이상",
+        "Spring · 3년 이상",
+        "SQL · 3년 이상",
+        "Git · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Next.js/React 기반 제조 설비 EES 시스템 웹 전환 개발",
+      "url": "https://project.wishket.com/project/159712/",
+      "budget": "7,000,000원/월",
+      "posted_at": "2026-11-18",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "React · 8년 이상",
+        "next.js · 8년 이상",
+        "TypeScript · 8년 이상"
       ]
     },
     {
@@ -132,106 +214,9 @@
     },
     {
       "source": "위시켓",
-      "title": "Java·Kubernetes 기반 대용량 이미지 처리 시스템 유지보수",
-      "url": "https://project.wishket.com/project/159436/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-11-03",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 5년 이상",
-        "Kafka · 2년 이상",
-        "k8s · 2년 이상",
-        "ETL · 1년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "공공입찰 MICE 사업 제안 기획 및 PM",
-      "url": "https://project.wishket.com/project/159419/",
-      "budget": "협의 후 결정",
-      "posted_at": "2026-11-02",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Apache NiFi 기반 패션 데이터 허브 구축 데이터 엔지니어",
-      "url": "https://project.wishket.com/project/159649/",
-      "budget": "7,500,000원/월",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "PostgreSQL 기반 차량 품질 관제 시스템 데이터 모델링 DBA/DA",
-      "url": "https://project.wishket.com/project/159647/",
-      "budget": "9,000,000원/월",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java/Airflow·K8s 기반 Datalake EDS 비정형 데이터 처리 파이프라인 개발",
-      "url": "https://project.wishket.com/project/159666/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Airflow · 2년 이상",
-        "k8s · 2년 이상",
-        "Iceberg · 1년 이상",
-        "minio · 1년 이상",
-        "PostgreSQL · 1년 이상",
-        "Kafka · 1년 이상",
-        "Jenkins · 1년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Scala Spark/Java Flink 기반 Bigdata FDC 플랫폼 데이터 파이프라인 개발",
-      "url": "https://project.wishket.com/project/159668/",
-      "budget": "7,300,000원/월",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Scala · 2년 이상",
-        "Spark · 1년 이상",
-        "Yunikorn · 경력 무관",
-        "Kubeflow · 경력 무관",
-        "Java · 경력 무관",
-        "apache spark · 1년 이상",
-        "Apache Flink · 1년 이상"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "TypeScript/AWS 기반 탄소데이터 AI SaaS 플랫폼 구축",
-      "url": "https://project.wishket.com/project/159672/",
-      "budget": "3,000,000원/월",
-      "posted_at": "2026-11-16",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "JavaScript · 경력 무관",
-        "TypeScript · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "EOS 대응 MSA 전환 및 OpenStack 인프라 이전 AA",
-      "url": "https://project.wishket.com/project/159675/",
-      "budget": "8,000,000원/월",
+      "title": "PCIe/NAND Flash 기반 메모리 인터페이스 하드웨어 설계 엔지니어",
+      "url": "https://project.wishket.com/project/159696/",
+      "budget": "5,000,000원/월",
       "posted_at": "2026-11-17",
       "work_type": "상주",
       "tags": [
@@ -240,10 +225,10 @@
     },
     {
       "source": "위시켓",
-      "title": "Figma 기반 식음료 멤버십 앱 서비스 기획",
-      "url": "https://project.wishket.com/project/159378/",
+      "title": "공공입찰 MICE 사업 제안 기획 및 PM",
+      "url": "https://project.wishket.com/project/159419/",
       "budget": "협의 후 결정",
-      "posted_at": "2026-10-30",
+      "posted_at": "2026-11-02",
       "work_type": "상주",
       "tags": [
         "기간제"
@@ -373,20 +358,6 @@
         "IT·프로그래밍",
         "프로그램 개발",
         "360일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "CGS그라우팅 주입 모니터링시스템 개발(HW세팅 포함)",
-      "url": "https://kmong.com/enterprise/requests/227395",
-      "budget": "35,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "하드웨어",
-        "92일"
       ]
     },
     {
@@ -555,6 +526,20 @@
         "IT·프로그래밍",
         "클라우드",
         "240일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "CGS그라우팅 주입 모니터링시스템 개발(HW세팅 포함)",
+      "url": "https://kmong.com/enterprise/requests/227395",
+      "budget": "35,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "하드웨어",
+        "92일"
       ]
     },
     {
