@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-20T06:53:21.650794+00:00",
+  "generated_at": "2026-11-21T06:47:59.168969+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "위시켓",
+      "title": "TypeScript 서버 인증·인가 코드 독립 기술 및 보안 검토",
+      "url": "https://project.wishket.com/project/159771/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-11-20",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
     {
       "source": "위시켓",
       "title": "워드프레스 기사 유료 결제(건별·묶음) 기능 개발",
@@ -86,6 +97,17 @@
     },
     {
       "source": "위시켓",
+      "title": "카드 단말기 가맹점 업무 엑셀 반복 입력 자동화",
+      "url": "https://project.wishket.com/project/159754/",
+      "budget": "1,000,000원",
+      "posted_at": "2026-11-20",
+      "work_type": "원격",
+      "tags": [
+        "외주"
+      ]
+    },
+    {
+      "source": "위시켓",
       "title": "AI 웰니스 B2B SaaS 정부지원사업 사업계획서 작성",
       "url": "https://project.wishket.com/project/159732/",
       "budget": "1,500,000원",
@@ -97,24 +119,38 @@
     },
     {
       "source": "위시켓",
-      "title": "산모·관리사 중개 플랫폼 기존 코드 보완 및 PG 결제 연동",
-      "url": "https://project.wishket.com/project/159741/",
-      "budget": "3,000,000원",
-      "posted_at": "2026-11-19",
-      "work_type": "원격",
+      "title": "Java/Airflow·K8s 기반 Datalake EDS 비정형 데이터 처리 파이프라인 개발",
+      "url": "https://project.wishket.com/project/159666/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-11-16",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제",
+        "Airflow · 2년 이상",
+        "k8s · 2년 이상",
+        "Iceberg · 1년 이상",
+        "minio · 1년 이상",
+        "PostgreSQL · 1년 이상",
+        "Kafka · 1년 이상",
+        "Jenkins · 1년 이상"
       ]
     },
     {
       "source": "위시켓",
-      "title": "Proxmox 7노드 클러스터 구축 및 VM 이전 (kt cloud → 자체 물리 서버)",
-      "url": "https://project.wishket.com/project/159729/",
-      "budget": "3,000,000원",
-      "posted_at": "2026-11-19",
-      "work_type": "원격",
+      "title": "Scala Spark/Java Flink 기반 Bigdata FDC 플랫폼 데이터 파이프라인 개발",
+      "url": "https://project.wishket.com/project/159668/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-11-16",
+      "work_type": "상주",
       "tags": [
-        "외주"
+        "기간제",
+        "Scala · 2년 이상",
+        "Spark · 1년 이상",
+        "Yunikorn · 경력 무관",
+        "Kubeflow · 경력 무관",
+        "Java · 경력 무관",
+        "apache spark · 1년 이상",
+        "Apache Flink · 1년 이상"
       ]
     },
     {
@@ -127,6 +163,37 @@
       "tags": [
         "기간제",
         "Photoshop · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Java/K8s 기반 대규모 데이터레이크 AI Agent 및 MCP 개발",
+      "url": "https://project.wishket.com/project/159531/",
+      "budget": "8,000,000원/월",
+      "posted_at": "2026-11-09",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "AI Agent · 2년 이상",
+        "MCP · 2년 이상",
+        "k8s · 경력 무관",
+        "Spark · 경력 무관",
+        "StarRocks · 경력 무관",
+        "Java · 경력 무관"
+      ]
+    },
+    {
+      "source": "위시켓",
+      "title": "Spark/Airflow 기반 대기업 데이터레이크 파이프라인 개발",
+      "url": "https://project.wishket.com/project/159535/",
+      "budget": "7,300,000원/월",
+      "posted_at": "2026-11-09",
+      "work_type": "상주",
+      "tags": [
+        "기간제",
+        "Java · 경력 무관",
+        "k8s · 경력 무관",
+        "Spark · 경력 무관"
       ]
     },
     {
@@ -183,59 +250,6 @@
       "work_type": "상주",
       "tags": [
         "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 카드사 바우처 카드 프로세스 신규 개발",
-      "url": "https://project.wishket.com/project/159767/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-11-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 8년 이하"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "Java 기반 카드사 선불카드 프로세스 구축 계정계 개발",
-      "url": "https://project.wishket.com/project/159768/",
-      "budget": "7,000,000원/월",
-      "posted_at": "2026-11-20",
-      "work_type": "상주",
-      "tags": [
-        "기간제"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "SEO·GEO 대응 자사 채널(웹·앱) 재구축 전략 컨설팅 — 시니어 UI/UX 기획",
-      "url": "https://project.wishket.com/project/159730/",
-      "budget": "8,000,000원/월",
-      "posted_at": "2026-11-19",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Figma · 경력 무관",
-        "웹접근성 · 경력 무관",
-        "UX/UI기획 · 경력 무관",
-        "와이어프레임 · 경력 무관",
-        "IA설계 · 경력 무관",
-        "스토리보드 · 경력 무관",
-        "프로토타이핑 · 경력 무관"
-      ]
-    },
-    {
-      "source": "위시켓",
-      "title": "공공기관 사이트 WebtoB·JEUS → Nginx·Tomcat 이관 개발 (주 8시간, 재택)",
-      "url": "https://project.wishket.com/project/159737/",
-      "budget": "1,500,000원/월",
-      "posted_at": "2026-11-19",
-      "work_type": "상주",
-      "tags": [
-        "기간제",
-        "Java · 경력 무관"
       ]
     },
     {
@@ -320,20 +334,6 @@
         "IT·프로그래밍",
         "웹사이트・모바일앱 개발",
         "86일"
-      ]
-    },
-    {
-      "source": "크몽엔터프라이즈",
-      "title": "NFC·QR 기반 스마트 리뷰 연결 및 자사몰",
-      "url": "https://kmong.com/enterprise/requests/227406",
-      "budget": "5,000,000원",
-      "posted_at": "",
-      "work_type": "원격",
-      "tags": [
-        "외주",
-        "IT·프로그래밍",
-        "웹사이트・모바일앱 개발",
-        "43일"
       ]
     },
     {
@@ -530,6 +530,20 @@
         "기획",
         "PM・PO",
         "720일"
+      ]
+    },
+    {
+      "source": "크몽엔터프라이즈",
+      "title": "NFC·QR 기반 스마트 리뷰 연결 및 자사몰",
+      "url": "https://kmong.com/enterprise/requests/227406",
+      "budget": "5,000,000원",
+      "posted_at": "",
+      "work_type": "원격",
+      "tags": [
+        "외주",
+        "IT·프로그래밍",
+        "웹사이트・모바일앱 개발",
+        "43일"
       ]
     },
     {
